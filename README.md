@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning MERN Stack
 
+- 📫 Find my tech articles [here](https://whiteviolin.medium.com/) 
+
 <!--
 **Saransh-cpp/Saransh-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
