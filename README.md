@@ -8,6 +8,7 @@
 
 <!--
 **Saransh-cpp/Saransh-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saransh-cpp&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Saransh's github streak" width="450" />
 
 Here are some ideas to get you started:
 
@@ -21,5 +22,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Saransh's github stats](https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/Saransh-cpp/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats)
+
+
+[![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Saransh-cpp&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats)
+
 
