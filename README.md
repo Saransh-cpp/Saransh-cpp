@@ -1,4 +1,4 @@
-### Hi there :wave:
+### Hi there <img src="./Hi.gif" width="40px">
 
 - 🔭 I’m currently working on Hybrid-App Development
 
