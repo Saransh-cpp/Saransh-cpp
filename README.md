@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning MERN Stack
 
 - 📫 Find my tech articles [here](https://whiteviolin.medium.com/) 
+- #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)</p>
 
 <!--
 **Saransh-cpp/Saransh-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
