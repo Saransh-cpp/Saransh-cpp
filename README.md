@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Hybrid-App Development
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning different python libraries
 
 - 📫 Find my tech articles [here](https://whiteviolin.medium.com/) 
 - #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)</p>
