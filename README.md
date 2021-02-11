@@ -34,14 +34,14 @@ Here are some ideas to get you started:
 
 ## Contact me here
 
-<a href="https://www.linkedin.com/in/saransh-chopra-3a6ab11bb/" target="_blank">
-  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1612363982~hmac=2ddffee98febdd156ac2c0e173a87c91" />
+<a href="https://www.linkedin.com/in/saransh-chopra-3a6ab11bb/" target="blank">
+  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613017725~hmac=4e9db38f78e3dd0f8dba7f2050a83d77" />
 </a>
 
-<a href="https://www.instagram.com/saranshchopra_/" target="_blank">
-  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1612363762~hmac=b17136be7f8d4465b34249002e982ddf" />
+<a href="https://www.instagram.com/saranshchopra_/" target="blank">
+  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1613017660~hmac=a8445d01329fece3b3f7af3c5436b062" />
 </a>
 
-<a href="https://www.facebook.com/https://www.facebook.com/saransh.chopra.77" target="_blank">
+<a href="https://www.facebook.com/https://www.facebook.com/saransh.chopra.77" target="blank">
   <img width="40px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
 </a></p>
