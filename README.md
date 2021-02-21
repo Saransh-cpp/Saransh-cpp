@@ -28,10 +28,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats for nerds
+
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats)
 
 
 [![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Saransh-cpp&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats)
+
+
+<!--## Most used languages
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-cpp&langs_count=6&theme=gruvbox&bg_color=333333&hide_langs_below=1)-->
+
+
+
+
+<!--[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-cpp&langs_count=6&theme=gruvbox&bg_color=333333&hide_langs_below=1)]-->
 
 
 ## Contact me here
