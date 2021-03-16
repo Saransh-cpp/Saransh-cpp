@@ -50,12 +50,12 @@ Here are some ideas to get you started:
 
 ## Contact me here
 
-<a href="https://www.linkedin.com/in/saransh-chopra-3a6ab11bb/" target="blank">
+<p float="left"><a href="https://www.linkedin.com/in/saransh-chopra-3a6ab11bb/" target="blank">
   <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613017725~hmac=4e9db38f78e3dd0f8dba7f2050a83d77" />
 </a>
 
 <a href="https://www.instagram.com/saranshchopra_/" target="blank">
-  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1613017660~hmac=a8445d01329fece3b3f7af3c5436b062" />
+  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1615920858~hmac=de81571ae5d9f74dfcba3c121650475f" />
 </a>
 
 <a href="https://www.facebook.com/https://www.facebook.com/saransh.chopra.77" target="blank">
