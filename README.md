@@ -60,4 +60,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.facebook.com/https://www.facebook.com/saransh.chopra.77" target="blank">
   <img width="40px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
+  
+<a href="https://twitter.com/saranshchopra7" target="blank">
+  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1617254205~hmac=94436212411517420e5cc5c23f5b0aff" />
 </a></p>
