@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1615920858~hmac=de81571ae5d9f74dfcba3c121650475f" />
 </a>
 
-<a href="https://www.facebook.com/https://www.facebook.com/saransh.chopra.77" target="blank">
+<a href="https://www.facebook.com/saransh.chopra.77" target="blank">
   <img width="40px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
   
 <a href="https://twitter.com/saranshchopra7" target="blank">
