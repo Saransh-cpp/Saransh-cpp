@@ -28,6 +28,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ## Some open-source contributions I am proud of:)
+
+### - [Mexili](https://github.com/mexili) Winter of Code
+- Ranked 2 on their final leaderboard of contributions.
+- Contributed heavily to [Doclense](https://github.com/mexili) - A flutter document scanner. 
+- Top contributor for the project.
+- A list of all my commits can be found [here](https://github.com/smaranjitghose/DocLense/commits?author=Saransh-cpp).
+
+### - [Colour](https://github.com/colour-science/colour/pull/802)
+- Implemented the support for [`HCL`](https://github.com/colour-science/colour/pull/802) colourspace in [colour-science/colour](https://github.com/colour-science/colour).
+- The PR can be found [here](https://github.com/colour-science/colour/pull/802).
+
+### [PyBaMM](https://github.com/colour-science/colour/pull/802)
+- 
+-->
 ## Stats for nerds
 
 
