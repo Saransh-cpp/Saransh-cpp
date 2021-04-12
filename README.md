@@ -77,5 +77,5 @@ Here are some ideas to get you started:
   <img width="40px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
   
 <a href="https://twitter.com/saranshchopra7" target="blank">
-  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1617254205~hmac=94436212411517420e5cc5c23f5b0aff" />
+  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1618248046~hmac=86224179bb00600fdb486c2f288710aa" />
 </a></p>
