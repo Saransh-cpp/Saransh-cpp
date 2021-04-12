@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### [PyBaMM](https://github.com/colour-science/colour/pull/802)
 - 
 -->
-## Stats for nerds
+## My GitHub Stats
 
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats)
