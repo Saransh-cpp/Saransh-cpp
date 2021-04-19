@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 - Top contributor for the project.
 - A list of all my commits can be found [here](https://github.com/smaranjitghose/DocLense/commits?author=Saransh-cpp).
 
-### - [Colour](https://github.com/colour-science/colour/pull/802)
+### - [Colour](https://www.colour-science.org/)
 - Implemented the support for [`HCL`](https://github.com/colour-science/colour/pull/802) colourspace in [colour-science/colour](https://github.com/colour-science/colour).
 - The PR can be found [here](https://github.com/colour-science/colour/pull/802).
 
-### [PyBaMM](https://github.com/colour-science/colour/pull/802)
+### [PyBaMM](https://www.pybamm.org/)
 - 
 -->
 ## My GitHub Stats
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-cpp&langs_count=6&theme=gruvbox&bg_color=333333)
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-cpp&langs_count=5&theme=gruvbox&bg_color=333333)
 
 
 
