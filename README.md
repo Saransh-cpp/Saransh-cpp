@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 
 ### - [Mexili](https://github.com/mexili) Winter of Code
 - Ranked 2 on their final leaderboard of contributions.
-- Contributed heavily to [Doclense](https://github.com/mexili) - A flutter document scanner. 
+- Contributed heavily to [Doclense](https://github.com/smaranjitghose/DocLense) - A flutter document scanner. 
 - Top contributor for the project.
 - A list of all my commits can be found [here](https://github.com/smaranjitghose/DocLense/commits?author=Saransh-cpp).
 
 ### - [Colour](https://www.colour-science.org/)
-- Implemented the support for [`HCL`](https://github.com/colour-science/colour/pull/802) colourspace in [colour-science/colour](https://github.com/colour-science/colour).
+- Implemented the support for [`HCL`](https://en.wikipedia.org/wiki/HCL_color_space) colourspace in [colour-science/colour](https://github.com/colour-science/colour).
 - The PR can be found [here](https://github.com/colour-science/colour/pull/802).
 
 ### - [PyBaMM](https://www.pybamm.org/)
@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 ## Contact me here
 
 <p float="left"><a href="https://www.linkedin.com/in/saransh-chopra-3a6ab11bb/" target="blank">
-  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613017725~hmac=4e9db38f78e3dd0f8dba7f2050a83d77" />
+  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619253257~hmac=e2247757544aa48055230e5cdeb38a05" />
 </a>
 
 <a href="https://www.instagram.com/saranshchopra_/" target="blank">
-  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384063.svg?token=exp=1615920858~hmac=de81571ae5d9f74dfcba3c121650475f" />
+  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619253223~hmac=499f22d5650fc75ff574ce249ebfe92c" />
 </a>
 
 <a href="https://www.facebook.com/saransh.chopra.77" target="blank">
