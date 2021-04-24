@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ## Some open-source contributions I am proud of:)
+## Some open-source contributions I am proud of
 
 ### - [Mexili](https://github.com/mexili) Winter of Code
 - Ranked 2 on their final leaderboard of contributions.
@@ -40,9 +40,11 @@ Here are some ideas to get you started:
 - Implemented the support for [`HCL`](https://github.com/colour-science/colour/pull/802) colourspace in [colour-science/colour](https://github.com/colour-science/colour).
 - The PR can be found [here](https://github.com/colour-science/colour/pull/802).
 
-### [PyBaMM](https://www.pybamm.org/)
-- 
--->
+### - [PyBaMM](https://www.pybamm.org/)
+- Contributed to the [PyBaMM](https://github.com/pybamm-team/PyBaMM) repository.
+- My contributions were a part of the latest release ([v0.4.0](https://github.com/pybamm-team/PyBaMM/releases/tag/v0.4.0)).
+- A list of all my commits can be found [here](https://github.com/pybamm-team/PyBaMM/commits?author=Saransh-cpp).
+
 ## My GitHub Stats
 
 
