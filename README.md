@@ -2,7 +2,7 @@
 
 I am Saransh, a freshman at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations.
 
-- 🔭 I’m currently working on my Python skills
+- 🔭 I’m currently working on Native Android Development
 
 - 🌱 I’m currently exploring and contributing to different Python Libraries
 
