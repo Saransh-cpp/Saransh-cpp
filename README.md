@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 ## Some open-source contributions I am proud of
 
 ### - [Mexili](https://github.com/mexili) Winter of Code
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### - [PyBaMM](https://www.pybamm.org/)
 - Contributed to the [PyBaMM](https://github.com/pybamm-team/PyBaMM) repository.
 - My contributions were a part of the latest release ([v0.4.0](https://github.com/pybamm-team/PyBaMM/releases/tag/v0.4.0)).
-- A list of all my commits can be found [here](https://github.com/pybamm-team/PyBaMM/commits?author=Saransh-cpp).
+- A list of all my commits can be found [here](https://github.com/pybamm-team/PyBaMM/commits?author=Saransh-cpp). -->
 
 ## My GitHub Stats
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats)
 
 
-[![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Saransh-cpp&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats)
+<!-- [![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Saransh-cpp&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats) -->
 
 
 
