@@ -2,6 +2,8 @@
 
 I am Saransh, a freshman at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations.
 
+[Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus).
+
 - 🔭 I’m currently working on Native Android Development, MERN stack and DevOps.
 
 - 🌱 I’m currently exploring and contributing to different Python Libraries
