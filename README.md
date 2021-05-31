@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://www.instagram.com/saranshchopra_/" target="blank">
-  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619253223~hmac=499f22d5650fc75ff574ce249ebfe92c" />
+  <img width="40px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
 </a>
 
 <a href="https://www.facebook.com/saransh.chopra.77" target="blank">
