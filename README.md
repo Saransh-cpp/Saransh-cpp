@@ -11,7 +11,7 @@ I am Saransh, a freshman at Cluster Innovation Centre, University of Delhi, purs
 - 💬 Ask me about Flutter, I'll try my best to help:)
 
 
-- 📫 Find my tech articles [here](https://whiteviolin.medium.com/) 
+- 📫 Find my tech articles and GSoC 2021 blogs [here](https://whiteviolin.medium.com/) 
 - #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)</p>
 
 <!--
