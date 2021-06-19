@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ## Contact me here
 
 <p float="left"><a href="https://www.linkedin.com/in/saransh-chopra-3a6ab11bb/" target="blank">
-  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619253257~hmac=e2247757544aa48055230e5cdeb38a05" />
+  <img width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 
 <a href="https://www.instagram.com/saranshchopra_/" target="blank">
@@ -81,5 +81,5 @@ Here are some ideas to get you started:
   <img width="40px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
   
 <a href="https://twitter.com/saranshchopra7" target="blank">
-  <img width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1618248046~hmac=86224179bb00600fdb486c2f288710aa" />
+  <img width="40px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
 </a></p>
