@@ -4,14 +4,16 @@ I am Saransh, a freshman at Cluster Innovation Centre, University of Delhi, purs
 
 [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus).
 
-- 🔭 I’m currently working on Native Android Development, MERN stack and DevOps.
+- 🔭 I’m currently working on Machine Learning.
 
 - 🌱 I’m currently exploring and contributing to different Python Libraries
 
-- 💬 Ask me about Flutter, I'll try my best to help:)
-
+- 💬 Ask me about Flutter, Native Android Development or Python. I'll try my best to help:)
 
 - 📫 Find my tech articles and GSoC 2021 blogs [here](https://whiteviolin.medium.com/) 
+
+- 📫 Find my GSoC 2021 final report [here](https://gist.github.com/Saransh-cpp/5f61540819b8c8d552c12b1609915f5d) 
+
 - #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)</p>
 
 <!--
