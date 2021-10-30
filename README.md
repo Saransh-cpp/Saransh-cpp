@@ -1,18 +1,18 @@
 # Hi there <img src="./Hi.gif" width="40px">
 
-I am Saransh, a freshman at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations.
+I am Saransh, a sophomore at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations.
 
-[Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus).
+- :battery: I was a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus) ([final report](https://gist.github.com/Saransh-cpp/5f61540819b8c8d552c12b1609915f5d)).
 
-- 🔭 I’m currently working on Machine Learning.
+- :octocat: I try my best to contribute to [PyBaMM](https://github.com/pybamm-team/PyBaMM) and [BattBot](https://github.com/pybamm-team/BattBot) regularly.
 
-- 🌱 I’m currently exploring and contributing to different Python Libraries
+- 🔭 I’m currently working on some personal Deep Learning projects and on [AiView](https://www.aiview.co.in/).
+
+- 🌱 I’m currently exploring research areas related to Deep Learning.
 
 - 💬 Ask me about Flutter, Native Android Development or Python. I'll try my best to help:)
 
-- 📫 Find my tech articles and GSoC 2021 blogs [here](https://whiteviolin.medium.com/) 
-
-- 📫 Find my GSoC 2021 final report [here](https://gist.github.com/Saransh-cpp/5f61540819b8c8d552c12b1609915f5d) 
+- 📫 Find my tech articles and GSoC 2021 blogs [here](https://whiteviolin.medium.com/).
 
 - #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)</p>
 
