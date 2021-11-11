@@ -2,6 +2,12 @@
 
 I am Saransh, a sophomore at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations.
 
+[![GitHub Saransh-cpp](https://img.shields.io/github/followers/Saransh-cpp?label=follow&style=social)](https://github.com/Saransh-cpp)
+[![Twitter: Saransh Chopra](https://img.shields.io/twitter/follow/saranshchopra7?style=social)](https://twitter.com/saranshchopra_)
+[![Linkedin: Saransh Chopra](https://img.shields.io/badge/-Saransh%20Chopra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saransh-cpp/)](https://www.linkedin.com/in/saransh-cpp/)
+[![Medium Badge](https://img.shields.io/badge/-@White%20Violin-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@WhiteViolin)](https://medium.com/@WhiteViolin)
+[<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)
+
 - :battery: I was a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus) ([final report](https://gist.github.com/Saransh-cpp/5f61540819b8c8d552c12b1609915f5d)).
 
 - :octocat: I try my best to contribute to [PyBaMM](https://github.com/pybamm-team/PyBaMM) and [BattBot](https://github.com/pybamm-team/BattBot) regularly.
@@ -14,7 +20,7 @@ I am Saransh, a sophomore at Cluster Innovation Centre, University of Delhi, pur
 
 - 📫 Find my tech articles and GSoC 2021 blogs [here](https://whiteviolin.medium.com/).
 
-- #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)</p>
+<!-- - #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)</p> -->
 
 <!--
 **Saransh-cpp/Saransh-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -69,7 +75,7 @@ Here are some ideas to get you started:
 <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-cpp&langs_count=6&theme=gruvbox&bg_color=333333&hide_langs_below=1)]-->
 
 
-## Contact me here
+<!-- ## Contact me here
 
 <p float="left"><a href="https://www.linkedin.com/in/saransh-chopra-3a6ab11bb/" target="blank">
   <img width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
@@ -85,3 +91,4 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/saranshchopra7" target="blank">
   <img width="40px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
 </a></p>
+-->
