@@ -55,10 +55,8 @@ Here are some ideas to get you started:
 - My contributions were a part of the latest release ([v0.4.0](https://github.com/pybamm-team/PyBaMM/releases/tag/v0.4.0)).
 - A list of all my commits can be found [here](https://github.com/pybamm-team/PyBaMM/commits?author=Saransh-cpp). -->
 
-## My GitHub Stats
 
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
 
 
 <!-- [![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Saransh-cpp&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats) -->
@@ -67,7 +65,7 @@ Here are some ideas to get you started:
 
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-cpp&langs_count=5&theme=gruvbox&bg_color=333333)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-cpp&langs_count=5&theme=gruvbox&bg_color=333333) -->
 
 
 
