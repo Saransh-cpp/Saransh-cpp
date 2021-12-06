@@ -62,6 +62,14 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
 
+## Some repositories that I couldn't pin
+
+| <a href="https://github.com/Saransh-cpp/SceneNet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=SceneNet&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/SceneNet-Backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=SceneNet-Backend&theme=gruvbox&bg_color=333333" /></a> |
+| ------------- | ------------- |
+| <a href="https://github.com/Saransh-cpp/MemeBoi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=MemeBoi&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/MemeTastic-backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=MemeTastic-backend&theme=gruvbox&bg_color=333333" /></a> |
+
+
+
 
 <!-- [![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Saransh-cpp&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats) -->
 
