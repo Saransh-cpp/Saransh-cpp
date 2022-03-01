@@ -14,13 +14,11 @@ I am Saransh, a sophomore at Cluster Innovation Centre, University of Delhi, pur
   
 - :battery: I was a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus) ([final report](https://gist.github.com/Saransh-cpp/5f61540819b8c8d552c12b1609915f5d)).
 
-- :octocat: I try my best to contribute to [PyBaMM](https://github.com/pybamm-team/PyBaMM) and [BattBot](https://github.com/pybamm-team/BattBot) regularly.
+- :octocat: I try my best to contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/) regularly.
 
-- 🔭 I’m currently working on some personal Deep Learning projects and on [AiView](https://www.aiview.co.in/).
+- 🔭 I’m currently working on [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl).
 
-- 🌱 I’m currently exploring research areas related to Deep Learning.
-
-- 💬 Ask me about Flutter, Native Android Development or Python. I'll try my best to help:)
+- 🌱 I’m currently looking for research internships/fellowships.
 
 - 📫 Find my tech articles and GSoC 2021 blogs [here](https://whiteviolin.medium.com/).
 
