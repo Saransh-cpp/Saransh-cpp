@@ -60,11 +60,11 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
 
-## Some repositories that I couldn't pin
+## Some personal projects that I couldn't pin
 
 | <a href="https://github.com/Saransh-cpp/SceneNet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=SceneNet&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/SceneNet-Backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=SceneNet-Backend&theme=gruvbox&bg_color=333333" /></a> |
 | ------------- | ------------- |
-| <a href="https://github.com/Saransh-cpp/MemeBoi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=MemeBoi&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/MemeTastic-backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=MemeTastic-backend&theme=gruvbox&bg_color=333333" /></a> |
+| <a href="https://github.com/Saransh-cpp/MemeTastic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=MemeTastic&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/BookRentApp-Chapter3"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=BookRentApp-Chapter3&theme=gruvbox&bg_color=333333" /></a> |
 
 
 
