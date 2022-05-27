@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 ## Some personal projects that I couldn't pin
 
-| <a href="https://github.com/Saransh-cpp/SceneNet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=SceneNet&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/SceneNet-Backend"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=SceneNet-Backend&theme=gruvbox&bg_color=333333" /></a> |
+| <a href="https://github.com/Saransh-cpp/SceneNet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=SceneNet&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/PopItUp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=PopItUp&theme=gruvbox&bg_color=333333" /></a> |
 | ------------- | ------------- |
 | <a href="https://github.com/Saransh-cpp/MemeTastic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=MemeTastic&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/BookRentApp-Chapter3"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=BookRentApp-Chapter3&theme=gruvbox&bg_color=333333" /></a> |
 
