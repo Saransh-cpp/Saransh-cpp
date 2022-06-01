@@ -1,4 +1,4 @@
-# Hi there <img src="./Hi.gif" width="40px">
+# Hi there <img src="./Hi.gif" height="35px">
 
 I am Saransh, a sophomore at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations.
 
