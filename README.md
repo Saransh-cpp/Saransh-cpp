@@ -12,13 +12,15 @@ I am Saransh, a sophomore at Cluster Innovation Centre, University of Delhi, pur
 
 </div>
   
+<!-- - I am currently working on Scikit-HEP/vector under IRIS-HEP fellowship. -->
+
 - :battery: I was a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus) ([final report](https://gist.github.com/Saransh-cpp/5f61540819b8c8d552c12b1609915f5d)).
 
 - :octocat: I try my best to contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/) regularly.
 
 - 🔭 I’m currently working on [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl).
 
-- 🌱 I’m currently looking for research internships/fellowships.
+<!-- - 🌱 I’m currently looking for research internships/fellowships. -->
 
 - 📫 Find my tech articles and GSoC 2021 blogs [here](https://whiteviolin.medium.com/).
 
