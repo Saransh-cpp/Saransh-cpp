@@ -62,16 +62,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1987](https://github.com/FluxML/Flux.jl/pull/1987) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 🗣 Commented on [#1](https://github.com/Saransh-cpp/Chaotic-Encryption/issues/1) in [Saransh-cpp/Chaotic-Encryption](https://github.com/Saransh-cpp/Chaotic-Encryption)
-3. 🗣 Commented on [#42](https://github.com/FluxML/Functors.jl/issues/42) in [FluxML/Functors.jl](https://github.com/FluxML/Functors.jl)
-4. 💪 Opened PR [#42](https://github.com/FluxML/Functors.jl/pull/42) in [FluxML/Functors.jl](https://github.com/FluxML/Functors.jl)
-5. 💪 Opened PR [#95](https://github.com/JuliaML/MLUtils.jl/pull/95) in [JuliaML/MLUtils.jl](https://github.com/JuliaML/MLUtils.jl)
-6. 🗣 Commented on [#199](https://github.com/scikit-hep/vector/issues/199) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-7. 💪 Opened PR [#199](https://github.com/scikit-hep/vector/pull/199) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-8. ❗️ Opened issue [#197](https://github.com/scikit-hep/vector/issues/197) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-9. 💪 Opened PR [#1978](https://github.com/FluxML/Flux.jl/pull/1978) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-10. ❗️ Opened issue [#196](https://github.com/scikit-hep/vector/issues/196) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🗣 Commented on [#1987](https://github.com/FluxML/Flux.jl/issues/1987) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 💪 Opened PR [#1987](https://github.com/FluxML/Flux.jl/pull/1987) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. 🗣 Commented on [#1](https://github.com/Saransh-cpp/Chaotic-Encryption/issues/1) in [Saransh-cpp/Chaotic-Encryption](https://github.com/Saransh-cpp/Chaotic-Encryption)
+4. 🗣 Commented on [#42](https://github.com/FluxML/Functors.jl/issues/42) in [FluxML/Functors.jl](https://github.com/FluxML/Functors.jl)
+5. 💪 Opened PR [#42](https://github.com/FluxML/Functors.jl/pull/42) in [FluxML/Functors.jl](https://github.com/FluxML/Functors.jl)
+6. 💪 Opened PR [#95](https://github.com/JuliaML/MLUtils.jl/pull/95) in [JuliaML/MLUtils.jl](https://github.com/JuliaML/MLUtils.jl)
+7. 🗣 Commented on [#199](https://github.com/scikit-hep/vector/issues/199) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+8. 💪 Opened PR [#199](https://github.com/scikit-hep/vector/pull/199) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+9. ❗️ Opened issue [#197](https://github.com/scikit-hep/vector/issues/197) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+10. 💪 Opened PR [#1978](https://github.com/FluxML/Flux.jl/pull/1978) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
