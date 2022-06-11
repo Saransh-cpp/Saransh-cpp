@@ -64,16 +64,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1978](https://github.com/FluxML/Flux.jl/issues/1978) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 🗣 Commented on [#1995](https://github.com/FluxML/Flux.jl/issues/1995) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🗣 Commented on [#1995](https://github.com/FluxML/Flux.jl/issues/1995) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 🗣 Commented on [#1978](https://github.com/FluxML/Flux.jl/issues/1978) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 3. 🗣 Commented on [#1995](https://github.com/FluxML/Flux.jl/issues/1995) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. 💪 Opened PR [#1995](https://github.com/FluxML/Flux.jl/pull/1995) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. 🗣 Commented on [#193](https://github.com/scikit-hep/vector/issues/193) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-6. 🎉 Merged PR [#192](https://github.com/scikit-hep/vector/pull/192) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-7. ❗️ Closed issue [#136](https://github.com/scikit-hep/vector/issues/136) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-8. 🎉 Merged PR [#199](https://github.com/scikit-hep/vector/pull/199) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-9. 🗣 Commented on [#199](https://github.com/scikit-hep/vector/issues/199) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-10. 🗣 Commented on [#163](https://github.com/pybamm-team/liionpack/issues/163) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+4. 🗣 Commented on [#1995](https://github.com/FluxML/Flux.jl/issues/1995) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+5. 💪 Opened PR [#1995](https://github.com/FluxML/Flux.jl/pull/1995) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+6. 🗣 Commented on [#193](https://github.com/scikit-hep/vector/issues/193) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+7. 🎉 Merged PR [#192](https://github.com/scikit-hep/vector/pull/192) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+8. ❗️ Closed issue [#136](https://github.com/scikit-hep/vector/issues/136) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+9. 🎉 Merged PR [#199](https://github.com/scikit-hep/vector/pull/199) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+10. 🗣 Commented on [#199](https://github.com/scikit-hep/vector/issues/199) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
