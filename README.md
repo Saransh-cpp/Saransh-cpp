@@ -64,16 +64,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/Learning-Git/pull/1) in [Saransh-cpp/Learning-Git](https://github.com/Saransh-cpp/Learning-Git)
-2. 💪 Opened PR [#1](https://github.com/Saransh-cpp/Learning-Git/pull/1) in [Saransh-cpp/Learning-Git](https://github.com/Saransh-cpp/Learning-Git)
-3. 💪 Opened PR [#415](https://github.com/scikit-hep/hist/pull/415) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
-4. 💪 Opened PR [#204](https://github.com/scikit-hep/vector/pull/204) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 💪 Opened PR [#1998](https://github.com/FluxML/Flux.jl/pull/1998) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-6. 🎉 Merged PR [#203](https://github.com/scikit-hep/vector/pull/203) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-7. 💪 Opened PR [#203](https://github.com/scikit-hep/vector/pull/203) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-8. 💪 Opened PR [#201](https://github.com/scikit-hep/vector/pull/201) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-9. 🗣 Commented on [#1995](https://github.com/FluxML/Flux.jl/issues/1995) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-10. 🗣 Commented on [#1978](https://github.com/FluxML/Flux.jl/issues/1978) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🎉 Merged PR [#7](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/7) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+2. ❌ Reopened PR [#7](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/7) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+3. ❌ Closed PR [#7](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/7) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+4. 🎉 Merged PR [#5](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/5) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+5. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/Learning-Git/pull/1) in [Saransh-cpp/Learning-Git](https://github.com/Saransh-cpp/Learning-Git)
+6. 💪 Opened PR [#1](https://github.com/Saransh-cpp/Learning-Git/pull/1) in [Saransh-cpp/Learning-Git](https://github.com/Saransh-cpp/Learning-Git)
+7. 💪 Opened PR [#415](https://github.com/scikit-hep/hist/pull/415) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
+8. 💪 Opened PR [#204](https://github.com/scikit-hep/vector/pull/204) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+9. 💪 Opened PR [#1998](https://github.com/FluxML/Flux.jl/pull/1998) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+10. 🎉 Merged PR [#203](https://github.com/scikit-hep/vector/pull/203) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
