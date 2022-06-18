@@ -64,16 +64,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/redbrickhacks/redbrickhacks-2022-submission-citizenfive/pull/1) in [redbrickhacks/redbrickhacks-2022-submission-citizenfive](https://github.com/redbrickhacks/redbrickhacks-2022-submission-citizenfive)
-2. 🎉 Merged PR [#3](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/3) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
-3. 🎉 Merged PR [#2](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/2) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
-4. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/1) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
-5. 🎉 Merged PR [#6](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/6) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
-6. 🎉 Merged PR [#7](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/7) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
-7. ❌ Reopened PR [#7](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/7) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
-8. ❌ Closed PR [#7](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/7) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
-9. 🎉 Merged PR [#5](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/5) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
-10. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/Learning-Git/pull/1) in [Saransh-cpp/Learning-Git](https://github.com/Saransh-cpp/Learning-Git)
+1. 🎉 Merged PR [#3](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/3) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+2. 🎉 Merged PR [#2](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/2) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+3. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/1) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+4. 🎉 Merged PR [#6](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/6) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+5. 🎉 Merged PR [#7](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/7) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+6. ❌ Reopened PR [#7](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/7) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+7. ❌ Closed PR [#7](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/7) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+8. 🎉 Merged PR [#5](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/5) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+9. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/Learning-Git/pull/1) in [Saransh-cpp/Learning-Git](https://github.com/Saransh-cpp/Learning-Git)
+10. 💪 Opened PR [#1](https://github.com/Saransh-cpp/Learning-Git/pull/1) in [Saransh-cpp/Learning-Git](https://github.com/Saransh-cpp/Learning-Git)
 <!--END_SECTION:activity-->
 
 
