@@ -72,8 +72,8 @@ Here are some ideas to get you started:
 6. ❌ Reopened PR [#7](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/7) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
 7. ❌ Closed PR [#7](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/7) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
 8. 🎉 Merged PR [#5](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/5) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
-9. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/Learning-Git/pull/1) in [Saransh-cpp/Learning-Git](https://github.com/Saransh-cpp/Learning-Git)
-10. 💪 Opened PR [#1](https://github.com/Saransh-cpp/Learning-Git/pull/1) in [Saransh-cpp/Learning-Git](https://github.com/Saransh-cpp/Learning-Git)
+9. 💪 Opened PR [#415](https://github.com/scikit-hep/hist/pull/415) in [scikit-hep/hist](https://github.com/scikit-hep/hist)
+10. 💪 Opened PR [#204](https://github.com/scikit-hep/vector/pull/204) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
