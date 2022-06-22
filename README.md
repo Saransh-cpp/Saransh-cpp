@@ -64,16 +64,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#202](https://github.com/scikit-hep/vector/pull/202) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🎉 Merged PR [#201](https://github.com/scikit-hep/vector/pull/201) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🗣 Commented on [#201](https://github.com/scikit-hep/vector/issues/201) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🎉 Merged PR [#200](https://github.com/scikit-hep/vector/pull/200) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🎉 Merged PR [#195](https://github.com/scikit-hep/vector/pull/195) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-6. 🎉 Merged PR [#193](https://github.com/scikit-hep/vector/pull/193) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-7. 💪 Opened PR [#207](https://github.com/scikit-hep/vector/pull/207) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-8. 💪 Opened PR [#66](https://github.com/iris-hep/analysis-grand-challenge/pull/66) in [iris-hep/analysis-grand-challenge](https://github.com/iris-hep/analysis-grand-challenge)
-9. 💪 Opened PR [#30](https://github.com/atlas-outreach-data-tools/notebooks-collection-opendata/pull/30) in [atlas-outreach-data-tools/notebooks-collection-opendata](https://github.com/atlas-outreach-data-tools/notebooks-collection-opendata)
-10. 🎉 Merged PR [#3](https://github.com/Saransh-cpp/GitWorkshopCIC/pull/3) in [Saransh-cpp/GitWorkshopCIC](https://github.com/Saransh-cpp/GitWorkshopCIC)
+1. 🎉 Merged PR [#204](https://github.com/scikit-hep/vector/pull/204) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. ❗️ Closed issue [#197](https://github.com/scikit-hep/vector/issues/197) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🎉 Merged PR [#202](https://github.com/scikit-hep/vector/pull/202) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🎉 Merged PR [#201](https://github.com/scikit-hep/vector/pull/201) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#201](https://github.com/scikit-hep/vector/issues/201) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+6. 🎉 Merged PR [#200](https://github.com/scikit-hep/vector/pull/200) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+7. 🎉 Merged PR [#195](https://github.com/scikit-hep/vector/pull/195) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+8. 🎉 Merged PR [#193](https://github.com/scikit-hep/vector/pull/193) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+9. 💪 Opened PR [#207](https://github.com/scikit-hep/vector/pull/207) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+10. 💪 Opened PR [#66](https://github.com/iris-hep/analysis-grand-challenge/pull/66) in [iris-hep/analysis-grand-challenge](https://github.com/iris-hep/analysis-grand-challenge)
 <!--END_SECTION:activity-->
 
 
