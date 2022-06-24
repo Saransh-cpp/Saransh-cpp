@@ -64,16 +64,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#211](https://github.com/scikit-hep/vector/pull/211) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#210](https://github.com/scikit-hep/vector/issues/210) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 💪 Opened PR [#210](https://github.com/scikit-hep/vector/pull/210) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. ❗️ Opened issue [#209](https://github.com/scikit-hep/vector/issues/209) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🎉 Merged PR [#207](https://github.com/scikit-hep/vector/pull/207) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-6. ❗️ Opened issue [#208](https://github.com/scikit-hep/vector/issues/208) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-7. 🎉 Merged PR [#204](https://github.com/scikit-hep/vector/pull/204) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-8. ❗️ Closed issue [#197](https://github.com/scikit-hep/vector/issues/197) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-9. 🎉 Merged PR [#202](https://github.com/scikit-hep/vector/pull/202) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-10. 🎉 Merged PR [#201](https://github.com/scikit-hep/vector/pull/201) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🎉 Merged PR [#211](https://github.com/scikit-hep/vector/pull/211) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. ❗️ Closed issue [#208](https://github.com/scikit-hep/vector/issues/208) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 💪 Opened PR [#211](https://github.com/scikit-hep/vector/pull/211) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#210](https://github.com/scikit-hep/vector/issues/210) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 💪 Opened PR [#210](https://github.com/scikit-hep/vector/pull/210) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+6. ❗️ Opened issue [#209](https://github.com/scikit-hep/vector/issues/209) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+7. 🎉 Merged PR [#207](https://github.com/scikit-hep/vector/pull/207) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+8. ❗️ Opened issue [#208](https://github.com/scikit-hep/vector/issues/208) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+9. 🎉 Merged PR [#204](https://github.com/scikit-hep/vector/pull/204) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+10. ❗️ Closed issue [#197](https://github.com/scikit-hep/vector/issues/197) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
