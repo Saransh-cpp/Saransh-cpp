@@ -1,6 +1,10 @@
 # Hi there <img src="./Hi.gif" height="35px">
 
-I am Saransh, a sophomore at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations.
+(Read more about me, my achievements, my open-source work, etc. here - https://saransh-cpp.github.io/)
+
+I am an engineering sophomore at Cluster Innovation Center, University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain open-source research software, which I believe are the key to collaborative and reproducible research.
+
+I am interested in everything a Research Software Engineer and a Machine Learning Engineer do! I am passionate about Scientific Machine Learning, Computer Vision, developing packages, code optimization, technical writing, building infrastructures and CI/CD pipelines, developing and advocating open-source research software, JuliaLang, and Python. Psst, I was previously interested in Android and backend development, and though I still remember most of them, I have moved on.
 
 <div align="center">
  
@@ -12,7 +16,9 @@ I am Saransh, a sophomore at Cluster Innovation Centre, University of Delhi, pur
 
 </div>
   
-<!-- - I am currently working on Scikit-HEP/vector under IRIS-HEP fellowship. -->
+- 🛰️ I am currently an [IRIS-HEP (Institute for Research and Innovation in Software for High Energy Physics)](https://iris-hep.org/) [fellow](https://iris-hep.org/fellows.html) working on [Scikit-HEP/vector](https://github.com/scikit-hep/vector)!
+
+- 🛰️ I am also working as a Technical Writer for [FluxML](https://fluxml.ai/) under [Julia Season of Contributions](https://julialang.org/jsoc/)!
 
 - :battery: I was a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus) ([final report](https://gist.github.com/Saransh-cpp/5f61540819b8c8d552c12b1609915f5d)).
 
@@ -22,7 +28,7 @@ I am Saransh, a sophomore at Cluster Innovation Centre, University of Delhi, pur
 
 <!-- - 🌱 I’m currently looking for research internships/fellowships. -->
 
-- 📫 Find my tech articles and GSoC 2021 blogs [here](https://whiteviolin.medium.com/).
+<!-- - 📫 Find my tech articles and GSoC 2021 blogs [here](https://whiteviolin.medium.com/). -->
 
 <!-- - #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)</p> -->
 
