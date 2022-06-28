@@ -1,6 +1,6 @@
 # Hi there <img src="./Hi.gif" height="35px">
 
-(Read more about me, my achievements, my open-source work, etc. here - https://saransh-cpp.github.io/)
+(A better place to about me, my achievements, my open-source work, etc. is - https://saransh-cpp.github.io/)
 
 I am an engineering sophomore at Cluster Innovation Center, University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain open-source research software, which I believe are the key to collaborative and reproducible research.
 
