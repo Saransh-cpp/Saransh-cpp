@@ -70,16 +70,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2131](https://github.com/pybamm-team/PyBaMM/issues/2131) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 💪 Opened PR [#2131](https://github.com/pybamm-team/PyBaMM/pull/2131) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. ❗️ Closed issue [#2097](https://github.com/pybamm-team/PyBaMM/issues/2097) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🗣 Commented on [#2097](https://github.com/pybamm-team/PyBaMM/issues/2097) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. 🗣 Commented on [#2012](https://github.com/FluxML/Flux.jl/issues/2012) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-6. ❗️ Opened issue [#2012](https://github.com/FluxML/Flux.jl/issues/2012) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-7. 💪 Opened PR [#213](https://github.com/scikit-hep/vector/pull/213) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-8. ❗️ Closed issue [#209](https://github.com/scikit-hep/vector/issues/209) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-9. 🎉 Merged PR [#212](https://github.com/scikit-hep/vector/pull/212) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-10. 🗣 Commented on [#1255](https://github.com/FluxML/Zygote.jl/issues/1255) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
+1. 🎉 Merged PR [#213](https://github.com/scikit-hep/vector/pull/213) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#2131](https://github.com/pybamm-team/PyBaMM/issues/2131) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 💪 Opened PR [#2131](https://github.com/pybamm-team/PyBaMM/pull/2131) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. ❗️ Closed issue [#2097](https://github.com/pybamm-team/PyBaMM/issues/2097) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 🗣 Commented on [#2097](https://github.com/pybamm-team/PyBaMM/issues/2097) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+6. 🗣 Commented on [#2012](https://github.com/FluxML/Flux.jl/issues/2012) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+7. ❗️ Opened issue [#2012](https://github.com/FluxML/Flux.jl/issues/2012) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+8. 💪 Opened PR [#213](https://github.com/scikit-hep/vector/pull/213) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+9. ❗️ Closed issue [#209](https://github.com/scikit-hep/vector/issues/209) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+10. 🎉 Merged PR [#212](https://github.com/scikit-hep/vector/pull/212) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
