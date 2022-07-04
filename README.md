@@ -12,11 +12,12 @@ I am interested in everything a Research Software Engineer and a Machine Learnin
 [![Linkedin: Saransh Chopra](https://img.shields.io/badge/-Saransh%20Chopra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saransh-cpp/)](https://www.linkedin.com/in/saransh-cpp/)
 [![Medium Badge](https://img.shields.io/badge/-@White%20Violin-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@WhiteViolin)](https://medium.com/@WhiteViolin)
 [![Twitter: Saransh Chopra](https://img.shields.io/twitter/follow/saranshchopra7?style=social)](https://twitter.com/saranshchopra7)
-[![GitHub Saransh-cpp](https://img.shields.io/github/followers/Saransh-cpp?label=follow&style=social)](https://github.com/Saransh-cpp)
 [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)
 
 </div>
-  
+ 
+<!-- [![GitHub Saransh-cpp](https://img.shields.io/github/followers/Saransh-cpp?label=follow&style=social)](https://github.com/Saransh-cpp) -->
+
 - 🛰️ I am currently an [IRIS-HEP (Institute for Research and Innovation in Software for High Energy Physics)](https://iris-hep.org/) [fellow](https://iris-hep.org/fellows.html) working on [Scikit-HEP/vector](https://github.com/scikit-hep/vector)!
 
 - 🛰️ I am also working as a Technical Writer for [FluxML](https://fluxml.ai/) under [Julia Season of Contributions](https://julialang.org/jsoc/)!
