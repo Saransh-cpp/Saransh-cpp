@@ -72,13 +72,13 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#221](https://github.com/scikit-hep/vector/issues/221) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🎉 Merged PR [#219](https://github.com/scikit-hep/vector/pull/219) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 💪 Opened PR [#2143](https://github.com/pybamm-team/PyBaMM/pull/2143) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 💪 Opened PR [#219](https://github.com/scikit-hep/vector/pull/219) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🎉 Merged PR [#218](https://github.com/scikit-hep/vector/pull/218) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-6. 💪 Opened PR [#218](https://github.com/scikit-hep/vector/pull/218) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-7. 🎉 Merged PR [#213](https://github.com/scikit-hep/vector/pull/213) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. ❌ Closed PR [#96](https://github.com/pybamm-team/BattBot/pull/96) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+2. ❗️ Opened issue [#221](https://github.com/scikit-hep/vector/issues/221) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🎉 Merged PR [#219](https://github.com/scikit-hep/vector/pull/219) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 💪 Opened PR [#2143](https://github.com/pybamm-team/PyBaMM/pull/2143) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 💪 Opened PR [#219](https://github.com/scikit-hep/vector/pull/219) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+6. 🎉 Merged PR [#218](https://github.com/scikit-hep/vector/pull/218) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+7. 💪 Opened PR [#218](https://github.com/scikit-hep/vector/pull/218) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 8. 🗣 Commented on [#2131](https://github.com/pybamm-team/PyBaMM/issues/2131) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 9. 🗣 Commented on [#2097](https://github.com/pybamm-team/PyBaMM/issues/2097) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 10. 🗣 Commented on [#2012](https://github.com/FluxML/Flux.jl/issues/2012) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
