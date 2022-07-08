@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#98](https://github.com/FluxML/Optimisers.jl/pull/98) in [FluxML/Optimisers.jl](https://github.com/FluxML/Optimisers.jl)
-2. 🎉 Merged PR [#81](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/81) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
-3. 💪 Opened PR [#81](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/81) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
-4. 🗣 Commented on [#223](https://github.com/scikit-hep/vector/issues/223) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🎉 Merged PR [#97](https://github.com/pybamm-team/BattBot/pull/97) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
-6. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-7. 🗣 Commented on [#173](https://github.com/scikit-hep/vector/issues/173) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-8. 🗣 Commented on [#220](https://github.com/scikit-hep/vector/issues/220) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-9. 🗣 Commented on [#223](https://github.com/scikit-hep/vector/issues/223) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-10. 💪 Opened PR [#2016](https://github.com/FluxML/Flux.jl/pull/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 💪 Opened PR [#98](https://github.com/FluxML/Optimisers.jl/pull/98) in [FluxML/Optimisers.jl](https://github.com/FluxML/Optimisers.jl)
+3. 🎉 Merged PR [#81](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/81) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
+4. 💪 Opened PR [#81](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/81) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
+5. 🗣 Commented on [#223](https://github.com/scikit-hep/vector/issues/223) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+6. 🎉 Merged PR [#97](https://github.com/pybamm-team/BattBot/pull/97) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+7. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+8. 🗣 Commented on [#173](https://github.com/scikit-hep/vector/issues/173) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+9. 🗣 Commented on [#220](https://github.com/scikit-hep/vector/issues/220) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+10. 🗣 Commented on [#223](https://github.com/scikit-hep/vector/issues/223) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
