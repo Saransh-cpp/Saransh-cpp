@@ -2,7 +2,7 @@
 
 (A better place to read about me, my achievements, my open-source work, etc. is - https://saransh-cpp.github.io/)
 
-I am an engineering sophomore at Cluster Innovation Center, University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain open-source research software, which I believe are the key to collaborative and reproducible research.
+I am an engineering junior at Cluster Innovation Center, University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain open-source research software, which I believe are the key to collaborative and reproducible research.
 
 I am interested in everything a Research Software Engineer and a Machine Learning Engineer do! I am passionate about Scientific Machine Learning, Computer Vision, developing packages, code optimization, technical writing, building infrastructures and CI/CD pipelines, developing and advocating open-source research software, JuliaLang, and Python. Psst, I was previously interested in Android and backend development, and though I still remember most of them, I have moved on.
 
