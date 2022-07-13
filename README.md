@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4468](https://github.com/EddieHubCommunity/support/issues/4468) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#243](https://github.com/scikit-hep/scikit-hep.github.io/issues/243) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
-3. 💪 Opened PR [#243](https://github.com/scikit-hep/scikit-hep.github.io/pull/243) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
-4. 💪 Opened PR [#2](https://github.com/Saransh-cpp/EuroPython/pull/2) in [Saransh-cpp/EuroPython](https://github.com/Saransh-cpp/EuroPython)
-5. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/EuroPython/pull/1) in [Saransh-cpp/EuroPython](https://github.com/Saransh-cpp/EuroPython)
-6. 💪 Opened PR [#1](https://github.com/Saransh-cpp/EuroPython/pull/1) in [Saransh-cpp/EuroPython](https://github.com/Saransh-cpp/EuroPython)
-7. 🎉 Merged PR [#3](https://github.com/Saransh-cpp/EuroPython22TalkTest/pull/3) in [Saransh-cpp/EuroPython22TalkTest](https://github.com/Saransh-cpp/EuroPython22TalkTest)
-8. 💪 Opened PR [#3](https://github.com/Saransh-cpp/EuroPython22TalkTest/pull/3) in [Saransh-cpp/EuroPython22TalkTest](https://github.com/Saransh-cpp/EuroPython22TalkTest)
-9. 🎉 Merged PR [#2](https://github.com/Saransh-cpp/EuroPython22TalkTest/pull/2) in [Saransh-cpp/EuroPython22TalkTest](https://github.com/Saransh-cpp/EuroPython22TalkTest)
-10. 💪 Opened PR [#2](https://github.com/Saransh-cpp/EuroPython22TalkTest/pull/2) in [Saransh-cpp/EuroPython22TalkTest](https://github.com/Saransh-cpp/EuroPython22TalkTest)
+1. ❗️ Closed issue [#4468](https://github.com/EddieHubCommunity/support/issues/4468) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#4468](https://github.com/EddieHubCommunity/support/issues/4468) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#243](https://github.com/scikit-hep/scikit-hep.github.io/issues/243) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
+4. 💪 Opened PR [#243](https://github.com/scikit-hep/scikit-hep.github.io/pull/243) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
+5. 💪 Opened PR [#2](https://github.com/Saransh-cpp/EuroPython/pull/2) in [Saransh-cpp/EuroPython](https://github.com/Saransh-cpp/EuroPython)
+6. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/EuroPython/pull/1) in [Saransh-cpp/EuroPython](https://github.com/Saransh-cpp/EuroPython)
+7. 💪 Opened PR [#1](https://github.com/Saransh-cpp/EuroPython/pull/1) in [Saransh-cpp/EuroPython](https://github.com/Saransh-cpp/EuroPython)
+8. 🎉 Merged PR [#3](https://github.com/Saransh-cpp/EuroPython22TalkTest/pull/3) in [Saransh-cpp/EuroPython22TalkTest](https://github.com/Saransh-cpp/EuroPython22TalkTest)
+9. 💪 Opened PR [#3](https://github.com/Saransh-cpp/EuroPython22TalkTest/pull/3) in [Saransh-cpp/EuroPython22TalkTest](https://github.com/Saransh-cpp/EuroPython22TalkTest)
+10. 🎉 Merged PR [#2](https://github.com/Saransh-cpp/EuroPython22TalkTest/pull/2) in [Saransh-cpp/EuroPython22TalkTest](https://github.com/Saransh-cpp/EuroPython22TalkTest)
 <!--END_SECTION:activity-->
 
 
