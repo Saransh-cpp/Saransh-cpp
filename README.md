@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. ❗️ Opened issue [#1077](https://github.com/zarr-developers/zarr-python/issues/1077) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 2. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-3. 💪 Opened PR [#21981](https://github.com/numpy/numpy/pull/21981) in [numpy/numpy](https://github.com/numpy/numpy)
-4. 🗣 Commented on [#20929](https://github.com/numpy/numpy/issues/20929) in [numpy/numpy](https://github.com/numpy/numpy)
+3. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. 💪 Opened PR [#21981](https://github.com/numpy/numpy/pull/21981) in [numpy/numpy](https://github.com/numpy/numpy)
 5. 🗣 Commented on [#20929](https://github.com/numpy/numpy/issues/20929) in [numpy/numpy](https://github.com/numpy/numpy)
-6. ❗️ Closed issue [#4468](https://github.com/EddieHubCommunity/support/issues/4468) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-7. ❗️ Opened issue [#4468](https://github.com/EddieHubCommunity/support/issues/4468) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-8. 🗣 Commented on [#243](https://github.com/scikit-hep/scikit-hep.github.io/issues/243) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
-9. 💪 Opened PR [#243](https://github.com/scikit-hep/scikit-hep.github.io/pull/243) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
-10. 💪 Opened PR [#2](https://github.com/Saransh-cpp/EuroPython/pull/2) in [Saransh-cpp/EuroPython](https://github.com/Saransh-cpp/EuroPython)
+6. 🗣 Commented on [#20929](https://github.com/numpy/numpy/issues/20929) in [numpy/numpy](https://github.com/numpy/numpy)
+7. ❗️ Closed issue [#4468](https://github.com/EddieHubCommunity/support/issues/4468) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+8. ❗️ Opened issue [#4468](https://github.com/EddieHubCommunity/support/issues/4468) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+9. 🗣 Commented on [#243](https://github.com/scikit-hep/scikit-hep.github.io/issues/243) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
+10. 💪 Opened PR [#243](https://github.com/scikit-hep/scikit-hep.github.io/pull/243) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
 <!--END_SECTION:activity-->
 
 
