@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1079](https://github.com/zarr-developers/zarr-python/pull/1079) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-2. 🗣 Commented on [#1077](https://github.com/zarr-developers/zarr-python/issues/1077) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-3. ❗️ Opened issue [#1077](https://github.com/zarr-developers/zarr-python/issues/1077) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-4. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 💪 Opened PR [#2021](https://github.com/FluxML/Flux.jl/pull/2021) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 💪 Opened PR [#1079](https://github.com/zarr-developers/zarr-python/pull/1079) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+3. 🗣 Commented on [#1077](https://github.com/zarr-developers/zarr-python/issues/1077) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+4. ❗️ Opened issue [#1077](https://github.com/zarr-developers/zarr-python/issues/1077) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 5. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-6. 💪 Opened PR [#21981](https://github.com/numpy/numpy/pull/21981) in [numpy/numpy](https://github.com/numpy/numpy)
-7. 🗣 Commented on [#20929](https://github.com/numpy/numpy/issues/20929) in [numpy/numpy](https://github.com/numpy/numpy)
+6. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+7. 💪 Opened PR [#21981](https://github.com/numpy/numpy/pull/21981) in [numpy/numpy](https://github.com/numpy/numpy)
 8. 🗣 Commented on [#20929](https://github.com/numpy/numpy/issues/20929) in [numpy/numpy](https://github.com/numpy/numpy)
-9. ❗️ Closed issue [#4468](https://github.com/EddieHubCommunity/support/issues/4468) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-10. ❗️ Opened issue [#4468](https://github.com/EddieHubCommunity/support/issues/4468) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+9. 🗣 Commented on [#20929](https://github.com/numpy/numpy/issues/20929) in [numpy/numpy](https://github.com/numpy/numpy)
+10. ❗️ Closed issue [#4468](https://github.com/EddieHubCommunity/support/issues/4468) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 
