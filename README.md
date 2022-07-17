@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/PyConAPAC22/pull/1) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
-2. 💪 Opened PR [#1](https://github.com/Saransh-cpp/PyConAPAC22/pull/1) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
-3. 💪 Opened PR [#2021](https://github.com/FluxML/Flux.jl/pull/2021) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. 💪 Opened PR [#1079](https://github.com/zarr-developers/zarr-python/pull/1079) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-5. 🗣 Commented on [#1077](https://github.com/zarr-developers/zarr-python/issues/1077) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-6. ❗️ Opened issue [#1077](https://github.com/zarr-developers/zarr-python/issues/1077) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-7. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-8. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-9. 💪 Opened PR [#21981](https://github.com/numpy/numpy/pull/21981) in [numpy/numpy](https://github.com/numpy/numpy)
-10. 🗣 Commented on [#20929](https://github.com/numpy/numpy/issues/20929) in [numpy/numpy](https://github.com/numpy/numpy)
+1. 💪 Opened PR [#4](https://github.com/Saransh-cpp/PyConAPAC22/pull/4) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+2. 🎉 Merged PR [#3](https://github.com/Saransh-cpp/PyConAPAC22/pull/3) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+3. 💪 Opened PR [#3](https://github.com/Saransh-cpp/PyConAPAC22/pull/3) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+4. 🎉 Merged PR [#2](https://github.com/Saransh-cpp/PyConAPAC22/pull/2) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+5. 💪 Opened PR [#2](https://github.com/Saransh-cpp/PyConAPAC22/pull/2) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+6. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/PyConAPAC22/pull/1) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+7. 💪 Opened PR [#1](https://github.com/Saransh-cpp/PyConAPAC22/pull/1) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+8. 💪 Opened PR [#2021](https://github.com/FluxML/Flux.jl/pull/2021) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+9. 💪 Opened PR [#1079](https://github.com/zarr-developers/zarr-python/pull/1079) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+10. 🗣 Commented on [#1077](https://github.com/zarr-developers/zarr-python/issues/1077) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 <!--END_SECTION:activity-->
 
 
