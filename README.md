@@ -74,14 +74,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1079](https://github.com/zarr-developers/zarr-python/issues/1079) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 2. 🗣 Commented on [#1079](https://github.com/zarr-developers/zarr-python/issues/1079) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-3. 💪 Opened PR [#226](https://github.com/scikit-hep/vector/pull/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🎉 Merged PR [#5](https://github.com/Saransh-cpp/PyConAPAC22/pull/5) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
-5. 💪 Opened PR [#5](https://github.com/Saransh-cpp/PyConAPAC22/pull/5) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
-6. ❌ Closed PR [#4](https://github.com/Saransh-cpp/PyConAPAC22/pull/4) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
-7. 💪 Opened PR [#4](https://github.com/Saransh-cpp/PyConAPAC22/pull/4) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
-8. 🎉 Merged PR [#3](https://github.com/Saransh-cpp/PyConAPAC22/pull/3) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
-9. 💪 Opened PR [#3](https://github.com/Saransh-cpp/PyConAPAC22/pull/3) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
-10. 🎉 Merged PR [#2](https://github.com/Saransh-cpp/PyConAPAC22/pull/2) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+3. 🗣 Commented on [#1079](https://github.com/zarr-developers/zarr-python/issues/1079) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+4. 💪 Opened PR [#226](https://github.com/scikit-hep/vector/pull/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🎉 Merged PR [#5](https://github.com/Saransh-cpp/PyConAPAC22/pull/5) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+6. 💪 Opened PR [#5](https://github.com/Saransh-cpp/PyConAPAC22/pull/5) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+7. ❌ Closed PR [#4](https://github.com/Saransh-cpp/PyConAPAC22/pull/4) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+8. 💪 Opened PR [#4](https://github.com/Saransh-cpp/PyConAPAC22/pull/4) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+9. 🎉 Merged PR [#3](https://github.com/Saransh-cpp/PyConAPAC22/pull/3) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+10. 💪 Opened PR [#3](https://github.com/Saransh-cpp/PyConAPAC22/pull/3) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
 <!--END_SECTION:activity-->
 
 
