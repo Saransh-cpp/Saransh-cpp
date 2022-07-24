@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/Saransh-cpp/OCRed/issues/13) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 💪 Opened PR [#245](https://github.com/scikit-hep/scikit-hep.github.io/pull/245) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
-3. 🗣 Commented on [#226](https://github.com/scikit-hep/vector/issues/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#226](https://github.com/scikit-hep/vector/issues/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🗣 Commented on [#226](https://github.com/scikit-hep/vector/issues/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-6. 🗣 Commented on [#1079](https://github.com/zarr-developers/zarr-python/issues/1079) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-7. 🗣 Commented on [#1079](https://github.com/zarr-developers/zarr-python/issues/1079) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-8. 🗣 Commented on [#1079](https://github.com/zarr-developers/zarr-python/issues/1079) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-9. 💪 Opened PR [#226](https://github.com/scikit-hep/vector/pull/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-10. 🎉 Merged PR [#5](https://github.com/Saransh-cpp/PyConAPAC22/pull/5) in [Saransh-cpp/PyConAPAC22](https://github.com/Saransh-cpp/PyConAPAC22)
+1. ❗️ Closed issue [#11](https://github.com/Saransh-cpp/OCRed/issues/11) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. ❗️ Opened issue [#16](https://github.com/Saransh-cpp/OCRed/issues/16) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 🗣 Commented on [#15](https://github.com/Saransh-cpp/OCRed/issues/15) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. ❗️ Closed issue [#13](https://github.com/Saransh-cpp/OCRed/issues/13) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 🎉 Merged PR [#14](https://github.com/Saransh-cpp/OCRed/pull/14) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+6. 💪 Opened PR [#14](https://github.com/Saransh-cpp/OCRed/pull/14) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+7. ❗️ Opened issue [#13](https://github.com/Saransh-cpp/OCRed/issues/13) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+8. 💪 Opened PR [#245](https://github.com/scikit-hep/scikit-hep.github.io/pull/245) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
+9. 🗣 Commented on [#226](https://github.com/scikit-hep/vector/issues/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+10. 🗣 Commented on [#226](https://github.com/scikit-hep/vector/issues/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
