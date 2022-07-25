@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/Saransh-cpp/OCRed/pull/27) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 🎉 Merged PR [#25](https://github.com/Saransh-cpp/OCRed/pull/25) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. ❗️ Opened issue [#26](https://github.com/Saransh-cpp/OCRed/issues/26) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 💪 Opened PR [#25](https://github.com/Saransh-cpp/OCRed/pull/25) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. ❗️ Closed issue [#2](https://github.com/Saransh-cpp/OCRed/issues/2) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-6. 🎉 Merged PR [#23](https://github.com/Saransh-cpp/OCRed/pull/23) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-7. ❗️ Opened issue [#24](https://github.com/Saransh-cpp/OCRed/issues/24) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-8. 💪 Opened PR [#23](https://github.com/Saransh-cpp/OCRed/pull/23) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-9. 🗣 Commented on [#2025](https://github.com/FluxML/Flux.jl/issues/2025) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-10. ❗️ Closed issue [#20](https://github.com/Saransh-cpp/OCRed/issues/20) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. ❗️ Closed issue [#1](https://github.com/Saransh-cpp/OCRed/issues/1) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. 🎉 Merged PR [#27](https://github.com/Saransh-cpp/OCRed/pull/27) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 💪 Opened PR [#27](https://github.com/Saransh-cpp/OCRed/pull/27) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. 🎉 Merged PR [#25](https://github.com/Saransh-cpp/OCRed/pull/25) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. ❗️ Opened issue [#26](https://github.com/Saransh-cpp/OCRed/issues/26) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+6. 💪 Opened PR [#25](https://github.com/Saransh-cpp/OCRed/pull/25) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+7. ❗️ Closed issue [#2](https://github.com/Saransh-cpp/OCRed/issues/2) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+8. 🎉 Merged PR [#23](https://github.com/Saransh-cpp/OCRed/pull/23) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+9. ❗️ Opened issue [#24](https://github.com/Saransh-cpp/OCRed/issues/24) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+10. 💪 Opened PR [#23](https://github.com/Saransh-cpp/OCRed/pull/23) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
