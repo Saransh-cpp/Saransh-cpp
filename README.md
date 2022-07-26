@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/Saransh-cpp/OCRed/issues/10) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. ❗️ Closed issue [#4](https://github.com/Saransh-cpp/OCRed/issues/4) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. 🎉 Merged PR [#31](https://github.com/Saransh-cpp/OCRed/pull/31) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 💪 Opened PR [#31](https://github.com/Saransh-cpp/OCRed/pull/31) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🎉 Merged PR [#228](https://github.com/scikit-hep/vector/pull/228) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-6. 🎉 Merged PR [#227](https://github.com/scikit-hep/vector/pull/227) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-7. ❗️ Closed issue [#638](https://github.com/wntrblm/nox/issues/638) in [wntrblm/nox](https://github.com/wntrblm/nox)
-8. 🗣 Commented on [#638](https://github.com/wntrblm/nox/issues/638) in [wntrblm/nox](https://github.com/wntrblm/nox)
-9. ❗️ Closed issue [#7](https://github.com/Saransh-cpp/OCRed/issues/7) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-10. 🎉 Merged PR [#30](https://github.com/Saransh-cpp/OCRed/pull/30) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 💪 Opened PR [#32](https://github.com/Saransh-cpp/OCRed/pull/32) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. ❗️ Closed issue [#10](https://github.com/Saransh-cpp/OCRed/issues/10) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. ❗️ Closed issue [#4](https://github.com/Saransh-cpp/OCRed/issues/4) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. 🎉 Merged PR [#31](https://github.com/Saransh-cpp/OCRed/pull/31) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 💪 Opened PR [#31](https://github.com/Saransh-cpp/OCRed/pull/31) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+6. 🎉 Merged PR [#228](https://github.com/scikit-hep/vector/pull/228) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+7. 🎉 Merged PR [#227](https://github.com/scikit-hep/vector/pull/227) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+8. ❗️ Closed issue [#638](https://github.com/wntrblm/nox/issues/638) in [wntrblm/nox](https://github.com/wntrblm/nox)
+9. 🗣 Commented on [#638](https://github.com/wntrblm/nox/issues/638) in [wntrblm/nox](https://github.com/wntrblm/nox)
+10. ❗️ Closed issue [#7](https://github.com/Saransh-cpp/OCRed/issues/7) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
