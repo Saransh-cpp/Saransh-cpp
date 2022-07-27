@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1998](https://github.com/FluxML/Flux.jl/issues/1998) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 🗣 Commented on [#1987](https://github.com/FluxML/Flux.jl/issues/1987) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-3. 💪 Opened PR [#32](https://github.com/Saransh-cpp/OCRed/pull/32) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. ❗️ Closed issue [#10](https://github.com/Saransh-cpp/OCRed/issues/10) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. ❗️ Closed issue [#4](https://github.com/Saransh-cpp/OCRed/issues/4) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-6. 🎉 Merged PR [#31](https://github.com/Saransh-cpp/OCRed/pull/31) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-7. 💪 Opened PR [#31](https://github.com/Saransh-cpp/OCRed/pull/31) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-8. 🎉 Merged PR [#228](https://github.com/scikit-hep/vector/pull/228) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-9. 🎉 Merged PR [#227](https://github.com/scikit-hep/vector/pull/227) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-10. ❗️ Closed issue [#638](https://github.com/wntrblm/nox/issues/638) in [wntrblm/nox](https://github.com/wntrblm/nox)
+1. 💪 Opened PR [#229](https://github.com/scikit-hep/vector/pull/229) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#1998](https://github.com/FluxML/Flux.jl/issues/1998) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. 🗣 Commented on [#1987](https://github.com/FluxML/Flux.jl/issues/1987) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. 💪 Opened PR [#32](https://github.com/Saransh-cpp/OCRed/pull/32) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. ❗️ Closed issue [#10](https://github.com/Saransh-cpp/OCRed/issues/10) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+6. ❗️ Closed issue [#4](https://github.com/Saransh-cpp/OCRed/issues/4) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+7. 🎉 Merged PR [#31](https://github.com/Saransh-cpp/OCRed/pull/31) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+8. 💪 Opened PR [#31](https://github.com/Saransh-cpp/OCRed/pull/31) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+9. 🎉 Merged PR [#228](https://github.com/scikit-hep/vector/pull/228) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+10. 🎉 Merged PR [#227](https://github.com/scikit-hep/vector/pull/227) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
