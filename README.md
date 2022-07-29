@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2027](https://github.com/FluxML/Flux.jl/issues/2027) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 🗣 Commented on [#2027](https://github.com/FluxML/Flux.jl/issues/2027) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🎉 Merged PR [#230](https://github.com/scikit-hep/vector/pull/230) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#230](https://github.com/scikit-hep/vector/issues/230) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 3. 🗣 Commented on [#2027](https://github.com/FluxML/Flux.jl/issues/2027) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. 🎉 Merged PR [#229](https://github.com/scikit-hep/vector/pull/229) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 💪 Opened PR [#230](https://github.com/scikit-hep/vector/pull/230) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-6. 🗣 Commented on [#245](https://github.com/scikit-hep/scikit-hep.github.io/issues/245) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
-7. 💪 Opened PR [#229](https://github.com/scikit-hep/vector/pull/229) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-8. 🗣 Commented on [#1998](https://github.com/FluxML/Flux.jl/issues/1998) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-9. 🗣 Commented on [#1987](https://github.com/FluxML/Flux.jl/issues/1987) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-10. 💪 Opened PR [#32](https://github.com/Saransh-cpp/OCRed/pull/32) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. 🗣 Commented on [#2027](https://github.com/FluxML/Flux.jl/issues/2027) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+5. 🗣 Commented on [#2027](https://github.com/FluxML/Flux.jl/issues/2027) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+6. 🎉 Merged PR [#229](https://github.com/scikit-hep/vector/pull/229) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+7. 💪 Opened PR [#230](https://github.com/scikit-hep/vector/pull/230) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+8. 🗣 Commented on [#245](https://github.com/scikit-hep/scikit-hep.github.io/issues/245) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
+9. 💪 Opened PR [#229](https://github.com/scikit-hep/vector/pull/229) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+10. 🗣 Commented on [#1998](https://github.com/FluxML/Flux.jl/issues/1998) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
