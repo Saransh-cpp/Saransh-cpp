@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 💪 Opened PR [#2205](https://github.com/pybamm-team/PyBaMM/pull/2205) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 💪 Opened PR [#2](https://github.com/Saransh-cpp/liionpack/pull/2) in [Saransh-cpp/liionpack](https://github.com/Saransh-cpp/liionpack)
-4. 💪 Opened PR [#1](https://github.com/Saransh-cpp/liionpack/pull/1) in [Saransh-cpp/liionpack](https://github.com/Saransh-cpp/liionpack)
-5. 💪 Opened PR [#177](https://github.com/pybamm-team/liionpack/pull/177) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-6. ❗️ Opened issue [#19416](https://github.com/github/docs/issues/19416) in [github/docs](https://github.com/github/docs)
-7. 🎉 Merged PR [#33](https://github.com/Saransh-cpp/OCRed/pull/33) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-8. 🎉 Merged PR [#82](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/82) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
-9. 💪 Opened PR [#33](https://github.com/Saransh-cpp/OCRed/pull/33) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-10. 💪 Opened PR [#82](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/82) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
+1. 🗣 Commented on [#177](https://github.com/pybamm-team/liionpack/issues/177) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+2. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. 💪 Opened PR [#2205](https://github.com/pybamm-team/PyBaMM/pull/2205) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 💪 Opened PR [#2](https://github.com/Saransh-cpp/liionpack/pull/2) in [Saransh-cpp/liionpack](https://github.com/Saransh-cpp/liionpack)
+5. 💪 Opened PR [#1](https://github.com/Saransh-cpp/liionpack/pull/1) in [Saransh-cpp/liionpack](https://github.com/Saransh-cpp/liionpack)
+6. 💪 Opened PR [#177](https://github.com/pybamm-team/liionpack/pull/177) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+7. ❗️ Opened issue [#19416](https://github.com/github/docs/issues/19416) in [github/docs](https://github.com/github/docs)
+8. 🎉 Merged PR [#33](https://github.com/Saransh-cpp/OCRed/pull/33) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+9. 🎉 Merged PR [#82](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/82) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
+10. 💪 Opened PR [#33](https://github.com/Saransh-cpp/OCRed/pull/33) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
