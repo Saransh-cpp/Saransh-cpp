@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/Saransh-cpp/OCRed/pull/35) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 💪 Opened PR [#233](https://github.com/scikit-hep/vector/pull/233) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 💪 Opened PR [#18](https://github.com/FluxML/OneHotArrays.jl/pull/18) in [FluxML/OneHotArrays.jl](https://github.com/FluxML/OneHotArrays.jl)
-4. ❗️ Opened issue [#4830](https://github.com/EddieHubCommunity/support/issues/4830) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#34](https://github.com/Saransh-cpp/OCRed/issues/34) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-6. 🗣 Commented on [#34](https://github.com/Saransh-cpp/OCRed/issues/34) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-7. ❗️ Opened issue [#34](https://github.com/Saransh-cpp/OCRed/issues/34) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-8. ❗️ Opened issue [#4824](https://github.com/EddieHubCommunity/support/issues/4824) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-9. 🗣 Commented on [#177](https://github.com/pybamm-team/liionpack/issues/177) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-10. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🗣 Commented on [#177](https://github.com/pybamm-team/liionpack/issues/177) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+2. 🎉 Merged PR [#234](https://github.com/scikit-hep/vector/pull/234) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🎉 Merged PR [#35](https://github.com/Saransh-cpp/OCRed/pull/35) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. 💪 Opened PR [#233](https://github.com/scikit-hep/vector/pull/233) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 💪 Opened PR [#18](https://github.com/FluxML/OneHotArrays.jl/pull/18) in [FluxML/OneHotArrays.jl](https://github.com/FluxML/OneHotArrays.jl)
+6. ❗️ Opened issue [#4830](https://github.com/EddieHubCommunity/support/issues/4830) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+7. 🗣 Commented on [#34](https://github.com/Saransh-cpp/OCRed/issues/34) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+8. 🗣 Commented on [#34](https://github.com/Saransh-cpp/OCRed/issues/34) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+9. ❗️ Opened issue [#34](https://github.com/Saransh-cpp/OCRed/issues/34) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+10. ❗️ Opened issue [#4824](https://github.com/EddieHubCommunity/support/issues/4824) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 
