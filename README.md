@@ -72,16 +72,16 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/Saransh-cpp/OCRed/pull/38) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 🎉 Merged PR [#37](https://github.com/Saransh-cpp/OCRed/pull/37) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. 💪 Opened PR [#37](https://github.com/Saransh-cpp/OCRed/pull/37) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 🎉 Merged PR [#36](https://github.com/Saransh-cpp/OCRed/pull/36) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 💪 Opened PR [#36](https://github.com/Saransh-cpp/OCRed/pull/36) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-6. 🗣 Commented on [#18](https://github.com/FluxML/OneHotArrays.jl/issues/18) in [FluxML/OneHotArrays.jl](https://github.com/FluxML/OneHotArrays.jl)
-7. ❌ Closed PR [#2](https://github.com/Saransh-cpp/liionpack/pull/2) in [Saransh-cpp/liionpack](https://github.com/Saransh-cpp/liionpack)
-8. ❌ Closed PR [#1](https://github.com/Saransh-cpp/liionpack/pull/1) in [Saransh-cpp/liionpack](https://github.com/Saransh-cpp/liionpack)
-9. 💪 Opened PR [#180](https://github.com/pybamm-team/liionpack/pull/180) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-10. 🗣 Commented on [#177](https://github.com/pybamm-team/liionpack/issues/177) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+1. ❗️ Closed issue [#18](https://github.com/Saransh-cpp/OCRed/issues/18) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. 🎉 Merged PR [#39](https://github.com/Saransh-cpp/OCRed/pull/39) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 💪 Opened PR [#40](https://github.com/Saransh-cpp/OCRed/pull/40) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. 💪 Opened PR [#39](https://github.com/Saransh-cpp/OCRed/pull/39) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. ❗️ Closed issue [#17](https://github.com/Saransh-cpp/OCRed/issues/17) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+6. ❗️ Closed issue [#34](https://github.com/Saransh-cpp/OCRed/issues/34) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+7. 🎉 Merged PR [#38](https://github.com/Saransh-cpp/OCRed/pull/38) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+8. 💪 Opened PR [#38](https://github.com/Saransh-cpp/OCRed/pull/38) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+9. 🎉 Merged PR [#37](https://github.com/Saransh-cpp/OCRed/pull/37) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+10. 💪 Opened PR [#37](https://github.com/Saransh-cpp/OCRed/pull/37) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
