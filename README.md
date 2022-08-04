@@ -87,9 +87,36 @@ Here are some ideas to get you started:
 
 ## Some personal projects that I couldn't pin
 
-| <a href="https://github.com/Saransh-cpp/SceneNet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=SceneNet&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/PopItUp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=PopItUp&theme=gruvbox&bg_color=333333" /></a> |
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/Saransh-cpp/PDEsWithPINNs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=PDEsWithPINNs&theme=gruvbox&bg_color=333333" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/Saransh-cpp/OCRed"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=OCRed&theme=gruvbox&bg_color=333333" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+           <a href="https://github.com/Saransh-cpp/PopItUp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=PopItUp&theme=gruvbox&bg_color=333333" /></a>
+        </td>
+        <td>
+           <a href="https://github.com/Saransh-cpp/SceneNet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=SceneNet&theme=gruvbox&bg_color=333333" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Saransh-cpp/MemeTastic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=MemeTastic&theme=gruvbox&bg_color=333333" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/Saransh-cpp/ForMente"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=ForMente&theme=gruvbox&bg_color=333333" /></a>
+        </td>
+    </tr>
+</table>
+
+<!-- | <a href="https://github.com/Saransh-cpp/SceneNet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=SceneNet&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/PopItUp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=PopItUp&theme=gruvbox&bg_color=333333" /></a> |
 | ------------- | ------------- |
-| <a href="https://github.com/Saransh-cpp/MemeTastic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=MemeTastic&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/ForMente"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=ForMente&theme=gruvbox&bg_color=333333" /></a> |
+| <a href="https://github.com/Saransh-cpp/MemeTastic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=MemeTastic&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/ForMente"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=ForMente&theme=gruvbox&bg_color=333333" /></a> | -->
 
 
 
