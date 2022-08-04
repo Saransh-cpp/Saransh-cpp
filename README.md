@@ -10,7 +10,7 @@ I am an engineering junior at Cluster Innovation Center, University of Delhi, pu
 [![Linkedin: Saransh Chopra](https://img.shields.io/badge/-Saransh%20Chopra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saransh-cpp/)](https://www.linkedin.com/in/saransh-cpp/)
 [![Medium Badge](https://img.shields.io/badge/-@White%20Violin-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@WhiteViolin)](https://medium.com/@WhiteViolin)
 [![Twitter: Saransh Chopra](https://img.shields.io/twitter/follow/saranshchopra7?style=social)](https://twitter.com/saranshchopra7)
-[<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)
+<!-- [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp) -->
 
 </div>
  
