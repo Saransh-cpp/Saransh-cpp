@@ -4,8 +4,6 @@
 
 I am an engineering junior at Cluster Innovation Center, University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain open-source research software, which I believe are the key to collaborative and reproducible research.
 
-I am interested in everything a Research Software Engineer and a Machine Learning Engineer do! I am passionate about Scientific Machine Learning, Computer Vision, developing packages, code optimization, technical writing, building infrastructures and CI/CD pipelines, developing and advocating open-source research software, JuliaLang, and Python. Psst, I was previously interested in Android and backend development, and though I still remember most of them, I have moved on.
-
 <div align="center">
  
 [![Website](https://img.shields.io/badge/saransh--cpp.github.io-blue?logo=github&logoColor=white&style=flat-square&color=purple)](https://Saransh-cpp.github.io)
@@ -24,9 +22,11 @@ I am interested in everything a Research Software Engineer and a Machine Learnin
 
 - :battery: I was a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus) ([final report](https://gist.github.com/Saransh-cpp/5f61540819b8c8d552c12b1609915f5d)).
 
-- :octocat: I try my best to contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/) regularly.
+- :octocat: I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software.
 
-- 🔭 I’m currently working on [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl).
+<!-- - :octocat: I try my best to contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/) regularly. -->
+
+- 🔭 I’m currently working on [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl) and [OCRed](https://github.com/Saransh-cpp/OCRed).
 
 <!-- - 🌱 I’m currently looking for research internships/fellowships. -->
 
