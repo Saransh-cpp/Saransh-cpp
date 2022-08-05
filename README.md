@@ -77,11 +77,6 @@ Here are some ideas to get you started:
 3. 🎉 Merged PR [#53](https://github.com/Saransh-cpp/OCRed/pull/53) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 4. 🗣 Commented on [#430](https://github.com/FluxML/NNlib.jl/issues/430) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
 5. 💪 Opened PR [#53](https://github.com/Saransh-cpp/OCRed/pull/53) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-6. 🎉 Merged PR [#50](https://github.com/Saransh-cpp/OCRed/pull/50) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-7. 💪 Opened PR [#50](https://github.com/Saransh-cpp/OCRed/pull/50) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-8. ❗️ Closed issue [#8](https://github.com/Saransh-cpp/OCRed/issues/8) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-9. ❗️ Closed issue [#47](https://github.com/Saransh-cpp/OCRed/issues/47) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-10. ❗️ Closed issue [#48](https://github.com/Saransh-cpp/OCRed/issues/48) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
