@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Saransh-cpp/OCRed/issues/19) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 🎉 Merged PR [#99](https://github.com/pybamm-team/BattBot/pull/99) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
-3. ❗️ Opened issue [#31](https://github.com/tox-dev/pyproject-fmt/issues/31) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 💪 Opened PR [#57](https://github.com/Saransh-cpp/OCRed/pull/57) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🎉 Merged PR [#56](https://github.com/Saransh-cpp/OCRed/pull/56) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 💪 Opened PR [#58](https://github.com/Saransh-cpp/OCRed/pull/58) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. 🗣 Commented on [#19](https://github.com/Saransh-cpp/OCRed/issues/19) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 🎉 Merged PR [#99](https://github.com/pybamm-team/BattBot/pull/99) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+4. ❗️ Opened issue [#31](https://github.com/tox-dev/pyproject-fmt/issues/31) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 💪 Opened PR [#57](https://github.com/Saransh-cpp/OCRed/pull/57) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
