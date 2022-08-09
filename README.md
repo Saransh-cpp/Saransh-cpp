@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/Saransh-cpp/OCRed/pull/55) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 💪 Opened PR [#2036](https://github.com/FluxML/Flux.jl/pull/2036) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-3. 🗣 Commented on [#245](https://github.com/scikit-hep/scikit-hep.github.io/issues/245) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
-4. 💪 Opened PR [#2035](https://github.com/FluxML/Flux.jl/pull/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. 💪 Opened PR [#99](https://github.com/pybamm-team/BattBot/pull/99) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+1. 💪 Opened PR [#56](https://github.com/Saransh-cpp/OCRed/pull/56) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. 🎉 Merged PR [#55](https://github.com/Saransh-cpp/OCRed/pull/55) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 💪 Opened PR [#2036](https://github.com/FluxML/Flux.jl/pull/2036) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. 🗣 Commented on [#245](https://github.com/scikit-hep/scikit-hep.github.io/issues/245) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
+5. 💪 Opened PR [#2035](https://github.com/FluxML/Flux.jl/pull/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
