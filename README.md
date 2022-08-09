@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2035](https://github.com/FluxML/Flux.jl/issues/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 🗣 Commented on [#104](https://github.com/FluxML/Optimisers.jl/issues/104) in [FluxML/Optimisers.jl](https://github.com/FluxML/Optimisers.jl)
-3. 💪 Opened PR [#56](https://github.com/Saransh-cpp/OCRed/pull/56) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 🎉 Merged PR [#55](https://github.com/Saransh-cpp/OCRed/pull/55) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 💪 Opened PR [#2036](https://github.com/FluxML/Flux.jl/pull/2036) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 💪 Opened PR [#57](https://github.com/Saransh-cpp/OCRed/pull/57) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. 🎉 Merged PR [#56](https://github.com/Saransh-cpp/OCRed/pull/56) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 🗣 Commented on [#2035](https://github.com/FluxML/Flux.jl/issues/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. 🗣 Commented on [#104](https://github.com/FluxML/Optimisers.jl/issues/104) in [FluxML/Optimisers.jl](https://github.com/FluxML/Optimisers.jl)
+5. 💪 Opened PR [#56](https://github.com/Saransh-cpp/OCRed/pull/56) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
