@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#99](https://github.com/pybamm-team/BattBot/pull/99) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
-2. ❗️ Opened issue [#31](https://github.com/tox-dev/pyproject-fmt/issues/31) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 💪 Opened PR [#57](https://github.com/Saransh-cpp/OCRed/pull/57) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 🎉 Merged PR [#56](https://github.com/Saransh-cpp/OCRed/pull/56) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🗣 Commented on [#2035](https://github.com/FluxML/Flux.jl/issues/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🗣 Commented on [#19](https://github.com/Saransh-cpp/OCRed/issues/19) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. 🎉 Merged PR [#99](https://github.com/pybamm-team/BattBot/pull/99) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+3. ❗️ Opened issue [#31](https://github.com/tox-dev/pyproject-fmt/issues/31) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+4. 💪 Opened PR [#57](https://github.com/Saransh-cpp/OCRed/pull/57) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 🎉 Merged PR [#56](https://github.com/Saransh-cpp/OCRed/pull/56) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
