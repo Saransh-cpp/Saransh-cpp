@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#215](https://github.com/pydelhi/talks/issues/215) in [pydelhi/talks](https://github.com/pydelhi/talks)
-2. 🎉 Merged PR [#58](https://github.com/Saransh-cpp/OCRed/pull/58) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. ❗️ Opened issue [#215](https://github.com/pydelhi/talks/issues/215) in [pydelhi/talks](https://github.com/pydelhi/talks)
-4. 💪 Opened PR [#58](https://github.com/Saransh-cpp/OCRed/pull/58) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🗣 Commented on [#19](https://github.com/Saransh-cpp/OCRed/issues/19) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🎉 Merged PR [#59](https://github.com/Saransh-cpp/OCRed/pull/59) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. 💪 Opened PR [#59](https://github.com/Saransh-cpp/OCRed/pull/59) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 🗣 Commented on [#215](https://github.com/pydelhi/talks/issues/215) in [pydelhi/talks](https://github.com/pydelhi/talks)
+4. 🎉 Merged PR [#58](https://github.com/Saransh-cpp/OCRed/pull/58) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. ❗️ Opened issue [#215](https://github.com/pydelhi/talks/issues/215) in [pydelhi/talks](https://github.com/pydelhi/talks)
 <!--END_SECTION:activity-->
 
 
