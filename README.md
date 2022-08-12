@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2035](https://github.com/FluxML/Flux.jl/issues/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 🗣 Commented on [#254](https://github.com/scikit-hep/scikit-hep.github.io/issues/254) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
-3. 🗣 Commented on [#2035](https://github.com/FluxML/Flux.jl/issues/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. ❗️ Opened issue [#2038](https://github.com/FluxML/Flux.jl/issues/2038) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. 🎉 Merged PR [#59](https://github.com/Saransh-cpp/OCRed/pull/59) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 💪 Opened PR [#199](https://github.com/FluxML/Metalhead.jl/pull/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+2. 🗣 Commented on [#2035](https://github.com/FluxML/Flux.jl/issues/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. 🗣 Commented on [#254](https://github.com/scikit-hep/scikit-hep.github.io/issues/254) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
+4. 🗣 Commented on [#2035](https://github.com/FluxML/Flux.jl/issues/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+5. ❗️ Opened issue [#2038](https://github.com/FluxML/Flux.jl/issues/2038) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
