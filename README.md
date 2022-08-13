@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#182](https://github.com/pybamm-team/liionpack/pull/182) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-2. 💪 Opened PR [#2230](https://github.com/pybamm-team/PyBaMM/pull/2230) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#60](https://github.com/Saransh-cpp/OCRed/issues/60) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 💪 Opened PR [#199](https://github.com/FluxML/Metalhead.jl/pull/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-5. 🗣 Commented on [#2035](https://github.com/FluxML/Flux.jl/issues/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🗣 Commented on [#2035](https://github.com/FluxML/Flux.jl/issues/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 💪 Opened PR [#182](https://github.com/pybamm-team/liionpack/pull/182) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+3. 💪 Opened PR [#2230](https://github.com/pybamm-team/PyBaMM/pull/2230) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🗣 Commented on [#60](https://github.com/Saransh-cpp/OCRed/issues/60) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 💪 Opened PR [#199](https://github.com/FluxML/Metalhead.jl/pull/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
 <!--END_SECTION:activity-->
 
 
