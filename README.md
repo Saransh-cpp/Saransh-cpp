@@ -73,10 +73,10 @@ Here are some ideas to get you started:
 ## Recent activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-2. 🗣 Commented on [#2021](https://github.com/FluxML/Flux.jl/issues/2021) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-3. 🗣 Commented on [#60](https://github.com/Saransh-cpp/OCRed/issues/60) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 🎉 Merged PR [#57](https://github.com/Saransh-cpp/OCRed/pull/57) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🗣 Commented on [#2035](https://github.com/FluxML/Flux.jl/issues/2035) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+3. 🗣 Commented on [#2021](https://github.com/FluxML/Flux.jl/issues/2021) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. 🗣 Commented on [#60](https://github.com/Saransh-cpp/OCRed/issues/60) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 🎉 Merged PR [#57](https://github.com/Saransh-cpp/OCRed/pull/57) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
