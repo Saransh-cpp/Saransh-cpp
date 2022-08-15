@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/scikit-hep/cookie/pull/100) in [scikit-hep/cookie](https://github.com/scikit-hep/cookie)
-2. 🗣 Commented on [#245](https://github.com/scikit-hep/scikit-hep.github.io/issues/245) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
-3. 🗣 Commented on [#2038](https://github.com/FluxML/Flux.jl/issues/2038) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. 🎉 Merged PR [#67](https://github.com/Saransh-cpp/OCRed/pull/67) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🗣 Commented on [#182](https://github.com/pybamm-team/liionpack/issues/182) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+1. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 💪 Opened PR [#100](https://github.com/scikit-hep/cookie/pull/100) in [scikit-hep/cookie](https://github.com/scikit-hep/cookie)
+3. 🗣 Commented on [#245](https://github.com/scikit-hep/scikit-hep.github.io/issues/245) in [scikit-hep/scikit-hep.github.io](https://github.com/scikit-hep/scikit-hep.github.io)
+4. 🗣 Commented on [#2038](https://github.com/FluxML/Flux.jl/issues/2038) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+5. 🎉 Merged PR [#67](https://github.com/Saransh-cpp/OCRed/pull/67) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
