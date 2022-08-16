@@ -72,10 +72,10 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/scikit-hep/cookie/issues/100) in [scikit-hep/cookie](https://github.com/scikit-hep/cookie)
-2. 🗣 Commented on [#1600](https://github.com/scikit-hep/awkward/issues/1600) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 💪 Opened PR [#1563](https://github.com/iris-hep/iris-hep.github.io-source/pull/1563) in [iris-hep/iris-hep.github.io-source](https://github.com/iris-hep/iris-hep.github.io-source)
+2. 🗣 Commented on [#100](https://github.com/scikit-hep/cookie/issues/100) in [scikit-hep/cookie](https://github.com/scikit-hep/cookie)
 3. 🗣 Commented on [#1600](https://github.com/scikit-hep/awkward/issues/1600) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. 🗣 Commented on [#137](https://github.com/bmcage/odes/issues/137) in [bmcage/odes](https://github.com/bmcage/odes)
+4. 🗣 Commented on [#1600](https://github.com/scikit-hep/awkward/issues/1600) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 5. 🗣 Commented on [#137](https://github.com/bmcage/odes/issues/137) in [bmcage/odes](https://github.com/bmcage/odes)
 <!--END_SECTION:activity-->
 
