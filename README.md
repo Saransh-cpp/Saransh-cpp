@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#241](https://github.com/scikit-hep/vector/issues/241) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. ❗️ Opened issue [#240](https://github.com/scikit-hep/vector/issues/240) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. ❗️ Opened issue [#239](https://github.com/scikit-hep/vector/issues/239) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. ❗️ Opened issue [#238](https://github.com/scikit-hep/vector/issues/238) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. ❗️ Opened issue [#237](https://github.com/scikit-hep/vector/issues/237) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. ❗️ Opened issue [#242](https://github.com/scikit-hep/vector/issues/242) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. ❗️ Opened issue [#241](https://github.com/scikit-hep/vector/issues/241) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. ❗️ Opened issue [#240](https://github.com/scikit-hep/vector/issues/240) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. ❗️ Opened issue [#239](https://github.com/scikit-hep/vector/issues/239) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. ❗️ Opened issue [#238](https://github.com/scikit-hep/vector/issues/238) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
