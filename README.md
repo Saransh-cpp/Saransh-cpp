@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#46](https://github.com/Saransh-cpp/OCRed/issues/46) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 🗣 Commented on [#46](https://github.com/Saransh-cpp/OCRed/issues/46) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. 🗣 Commented on [#60](https://github.com/Saransh-cpp/OCRed/issues/60) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🗣 Commented on [#1993](https://github.com/FluxML/Flux.jl/issues/1993) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. ❗️ Closed issue [#46](https://github.com/Saransh-cpp/OCRed/issues/46) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 🗣 Commented on [#46](https://github.com/Saransh-cpp/OCRed/issues/46) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 4. 🗣 Commented on [#60](https://github.com/Saransh-cpp/OCRed/issues/60) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. ❌ Closed PR [#137](https://github.com/bmcage/odes/pull/137) in [bmcage/odes](https://github.com/bmcage/odes)
+5. 🗣 Commented on [#60](https://github.com/Saransh-cpp/OCRed/issues/60) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
