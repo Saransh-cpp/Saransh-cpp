@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 🗣 Commented on [#1600](https://github.com/scikit-hep/awkward/issues/1600) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. 💪 Opened PR [#244](https://github.com/scikit-hep/vector/pull/244) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#1993](https://github.com/FluxML/Flux.jl/issues/1993) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. ❗️ Closed issue [#46](https://github.com/Saransh-cpp/OCRed/issues/46) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 💪 Opened PR [#83](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/83) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
+2. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. 🗣 Commented on [#1600](https://github.com/scikit-hep/awkward/issues/1600) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. 💪 Opened PR [#244](https://github.com/scikit-hep/vector/pull/244) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#1993](https://github.com/FluxML/Flux.jl/issues/1993) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
