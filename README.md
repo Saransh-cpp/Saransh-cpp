@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/84) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
-2. 🎉 Merged PR [#83](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/83) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
-3. 💪 Opened PR [#83](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/83) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
-4. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. 🗣 Commented on [#1600](https://github.com/scikit-hep/awkward/issues/1600) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🎉 Merged PR [#84](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/84) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
+2. ❗️ Closed issue [#20](https://github.com/Saransh-cpp/ChaoticEncryption.jl/issues/20) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
+3. 🗣 Commented on [#20](https://github.com/Saransh-cpp/ChaoticEncryption.jl/issues/20) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
+4. 💪 Opened PR [#84](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/84) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
+5. 🎉 Merged PR [#83](https://github.com/Saransh-cpp/ChaoticEncryption.jl/pull/83) in [Saransh-cpp/ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl)
 <!--END_SECTION:activity-->
 
 
