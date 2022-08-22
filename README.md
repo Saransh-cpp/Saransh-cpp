@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2038](https://github.com/FluxML/Flux.jl/issues/2038) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. ❗️ Opened issue [#68](https://github.com/Saransh-cpp/OCRed/issues/68) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-4. 🗣 Commented on [#1993](https://github.com/FluxML/Flux.jl/issues/1993) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. 🗣 Commented on [#431](https://github.com/FluxML/NNlib.jl/issues/431) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+1. 🗣 Commented on [#2046](https://github.com/FluxML/Flux.jl/issues/2046) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 💪 Opened PR [#2046](https://github.com/FluxML/Flux.jl/pull/2046) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. 🗣 Commented on [#2038](https://github.com/FluxML/Flux.jl/issues/2038) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. ❗️ Opened issue [#68](https://github.com/Saransh-cpp/OCRed/issues/68) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
 <!--END_SECTION:activity-->
 
 
