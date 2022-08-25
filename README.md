@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-2. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-3. 🗣 Commented on [#19416](https://github.com/github/docs/issues/19416) in [github/docs](https://github.com/github/docs)
-4. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. 🎉 Merged PR [#246](https://github.com/scikit-hep/vector/pull/246) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🗣 Commented on [#2049](https://github.com/FluxML/Flux.jl/issues/2049) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. ❗️ Opened issue [#37](https://github.com/tox-dev/pyproject-fmt/issues/37) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+3. 🗣 Commented on [#243](https://github.com/scikit-hep/vector/issues/243) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+5. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
 <!--END_SECTION:activity-->
 
 
