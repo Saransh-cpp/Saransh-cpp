@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#184](https://github.com/pybamm-team/liionpack/pull/184) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-2. 🗣 Commented on [#37](https://github.com/tox-dev/pyproject-fmt/issues/37) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-3. 🗣 Commented on [#2049](https://github.com/FluxML/Flux.jl/issues/2049) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. 🗣 Commented on [#2049](https://github.com/FluxML/Flux.jl/issues/2049) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. ❗️ Opened issue [#37](https://github.com/tox-dev/pyproject-fmt/issues/37) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+1. ❌ Reopened PR [#137](https://github.com/bmcage/odes/pull/137) in [bmcage/odes](https://github.com/bmcage/odes)
+2. 🗣 Commented on [#137](https://github.com/bmcage/odes/issues/137) in [bmcage/odes](https://github.com/bmcage/odes)
+3. 💪 Opened PR [#184](https://github.com/pybamm-team/liionpack/pull/184) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+4. 🗣 Commented on [#37](https://github.com/tox-dev/pyproject-fmt/issues/37) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#2049](https://github.com/FluxML/Flux.jl/issues/2049) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
