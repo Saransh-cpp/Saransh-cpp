@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2049](https://github.com/FluxML/Flux.jl/issues/2049) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🗣 Commented on [#37](https://github.com/tox-dev/pyproject-fmt/issues/37) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
 2. 🗣 Commented on [#2049](https://github.com/FluxML/Flux.jl/issues/2049) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-3. ❗️ Opened issue [#37](https://github.com/tox-dev/pyproject-fmt/issues/37) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
-4. 🗣 Commented on [#243](https://github.com/scikit-hep/vector/issues/243) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+3. 🗣 Commented on [#2049](https://github.com/FluxML/Flux.jl/issues/2049) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. ❗️ Opened issue [#37](https://github.com/tox-dev/pyproject-fmt/issues/37) in [tox-dev/pyproject-fmt](https://github.com/tox-dev/pyproject-fmt)
+5. 🗣 Commented on [#243](https://github.com/scikit-hep/vector/issues/243) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
