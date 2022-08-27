@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2011](https://github.com/FluxML/Flux.jl/issues/2011) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. ❗️ Opened issue [#1638](https://github.com/scikit-hep/awkward/issues/1638) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-3. ❌ Reopened PR [#137](https://github.com/bmcage/odes/pull/137) in [bmcage/odes](https://github.com/bmcage/odes)
-4. 🗣 Commented on [#137](https://github.com/bmcage/odes/issues/137) in [bmcage/odes](https://github.com/bmcage/odes)
-5. 💪 Opened PR [#184](https://github.com/pybamm-team/liionpack/pull/184) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+1. 🗣 Commented on [#137](https://github.com/bmcage/odes/issues/137) in [bmcage/odes](https://github.com/bmcage/odes)
+2. 🗣 Commented on [#2011](https://github.com/FluxML/Flux.jl/issues/2011) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. ❗️ Opened issue [#1638](https://github.com/scikit-hep/awkward/issues/1638) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+4. ❌ Reopened PR [#137](https://github.com/bmcage/odes/pull/137) in [bmcage/odes](https://github.com/bmcage/odes)
+5. 🗣 Commented on [#137](https://github.com/bmcage/odes/issues/137) in [bmcage/odes](https://github.com/bmcage/odes)
 <!--END_SECTION:activity-->
 
 
