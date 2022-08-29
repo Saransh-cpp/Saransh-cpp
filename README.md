@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#248](https://github.com/scikit-hep/vector/pull/248) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#226](https://github.com/scikit-hep/vector/issues/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🗣 Commented on [#1640](https://github.com/scikit-hep/awkward/issues/1640) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-4. ❗️ Opened issue [#247](https://github.com/scikit-hep/vector/issues/247) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 💪 Opened PR [#1640](https://github.com/scikit-hep/awkward/pull/1640) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+1. 🗣 Commented on [#431](https://github.com/FluxML/NNlib.jl/issues/431) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+2. ❗️ Opened issue [#249](https://github.com/scikit-hep/vector/issues/249) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 💪 Opened PR [#248](https://github.com/scikit-hep/vector/pull/248) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#226](https://github.com/scikit-hep/vector/issues/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#1640](https://github.com/scikit-hep/awkward/issues/1640) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
