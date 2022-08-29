@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2046](https://github.com/FluxML/Flux.jl/issues/2046) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. ❗️ Opened issue [#19](https://github.com/FluxML/OneHotArrays.jl/issues/19) in [FluxML/OneHotArrays.jl](https://github.com/FluxML/OneHotArrays.jl)
-3. 🗣 Commented on [#431](https://github.com/FluxML/NNlib.jl/issues/431) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+1. 💪 Opened PR [#2055](https://github.com/FluxML/Flux.jl/pull/2055) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 🗣 Commented on [#2046](https://github.com/FluxML/Flux.jl/issues/2046) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. ❗️ Opened issue [#19](https://github.com/FluxML/OneHotArrays.jl/issues/19) in [FluxML/OneHotArrays.jl](https://github.com/FluxML/OneHotArrays.jl)
 4. 🗣 Commented on [#431](https://github.com/FluxML/NNlib.jl/issues/431) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
-5. ❗️ Opened issue [#249](https://github.com/scikit-hep/vector/issues/249) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#431](https://github.com/FluxML/NNlib.jl/issues/431) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
 <!--END_SECTION:activity-->
 
 
