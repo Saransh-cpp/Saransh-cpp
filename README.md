@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 🗣 Commented on [#215](https://github.com/pydelhi/talks/issues/215) in [pydelhi/talks](https://github.com/pydelhi/talks)
-3. 💪 Opened PR [#2055](https://github.com/FluxML/Flux.jl/pull/2055) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. 🗣 Commented on [#2046](https://github.com/FluxML/Flux.jl/issues/2046) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. ❗️ Opened issue [#19](https://github.com/FluxML/OneHotArrays.jl/issues/19) in [FluxML/OneHotArrays.jl](https://github.com/FluxML/OneHotArrays.jl)
+1. 🗣 Commented on [#215](https://github.com/pydelhi/talks/issues/215) in [pydelhi/talks](https://github.com/pydelhi/talks)
+2. 🗣 Commented on [#183](https://github.com/pybamm-team/liionpack/issues/183) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+3. 🗣 Commented on [#226](https://github.com/scikit-hep/vector/issues/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+5. 🗣 Commented on [#215](https://github.com/pydelhi/talks/issues/215) in [pydelhi/talks](https://github.com/pydelhi/talks)
 <!--END_SECTION:activity-->
 
 
