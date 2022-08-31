@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/Saransh-cpp/OCRed/issues/60) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🗣 Commented on [#2269](https://github.com/pybamm-team/PyBaMM/issues/2269) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 2. 🗣 Commented on [#60](https://github.com/Saransh-cpp/OCRed/issues/60) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. 🎉 Merged PR [#72](https://github.com/Saransh-cpp/OCRed/pull/72) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 💪 Opened PR [#72](https://github.com/Saransh-cpp/OCRed/pull/72) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. ❗️ Closed issue [#69](https://github.com/Saransh-cpp/OCRed/issues/69) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 🗣 Commented on [#60](https://github.com/Saransh-cpp/OCRed/issues/60) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. 🎉 Merged PR [#72](https://github.com/Saransh-cpp/OCRed/pull/72) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 💪 Opened PR [#72](https://github.com/Saransh-cpp/OCRed/pull/72) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
