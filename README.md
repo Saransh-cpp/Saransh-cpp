@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#248](https://github.com/scikit-hep/vector/pull/248) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#2056](https://github.com/FluxML/Flux.jl/issues/2056) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🗣 Commented on [#2056](https://github.com/FluxML/Flux.jl/issues/2056) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 🎉 Merged PR [#248](https://github.com/scikit-hep/vector/pull/248) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 3. 🗣 Commented on [#2056](https://github.com/FluxML/Flux.jl/issues/2056) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. 🗣 Commented on [#226](https://github.com/scikit-hep/vector/issues/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 💪 Opened PR [#1300](https://github.com/FluxML/Zygote.jl/pull/1300) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
+4. 🗣 Commented on [#2056](https://github.com/FluxML/Flux.jl/issues/2056) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+5. 🗣 Commented on [#226](https://github.com/scikit-hep/vector/issues/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
