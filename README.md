@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#250](https://github.com/scikit-hep/vector/issues/250) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 💪 Opened PR [#187](https://github.com/pybamm-team/liionpack/pull/187) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-3. ❗️ Opened issue [#250](https://github.com/scikit-hep/vector/issues/250) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. 🗣 Commented on [#2056](https://github.com/FluxML/Flux.jl/issues/2056) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🎉 Merged PR [#226](https://github.com/scikit-hep/vector/pull/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#250](https://github.com/scikit-hep/vector/issues/250) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 💪 Opened PR [#187](https://github.com/pybamm-team/liionpack/pull/187) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+4. ❗️ Opened issue [#250](https://github.com/scikit-hep/vector/issues/250) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
