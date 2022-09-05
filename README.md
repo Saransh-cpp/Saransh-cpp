@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#252](https://github.com/scikit-hep/vector/pull/252) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🎉 Merged PR [#73](https://github.com/Saransh-cpp/OCRed/pull/73) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. 💪 Opened PR [#251](https://github.com/scikit-hep/vector/pull/251) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-5. 🎉 Merged PR [#226](https://github.com/scikit-hep/vector/pull/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. ❗️ Closed issue [#242](https://github.com/scikit-hep/vector/issues/242) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🎉 Merged PR [#252](https://github.com/scikit-hep/vector/pull/252) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🗣 Commented on [#252](https://github.com/scikit-hep/vector/issues/252) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#252](https://github.com/scikit-hep/vector/issues/252) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 💪 Opened PR [#252](https://github.com/scikit-hep/vector/pull/252) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
