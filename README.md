@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-2. 🎉 Merged PR [#226](https://github.com/scikit-hep/vector/pull/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🗣 Commented on [#250](https://github.com/scikit-hep/vector/issues/250) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 💪 Opened PR [#187](https://github.com/pybamm-team/liionpack/pull/187) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-5. ❗️ Opened issue [#250](https://github.com/scikit-hep/vector/issues/250) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 💪 Opened PR [#251](https://github.com/scikit-hep/vector/pull/251) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#199](https://github.com/FluxML/Metalhead.jl/issues/199) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+3. 🎉 Merged PR [#226](https://github.com/scikit-hep/vector/pull/226) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#250](https://github.com/scikit-hep/vector/issues/250) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 💪 Opened PR [#187](https://github.com/pybamm-team/liionpack/pull/187) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
 <!--END_SECTION:activity-->
 
 
