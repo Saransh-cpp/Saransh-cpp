@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/FluxML/Metalhead.jl/issues/201) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-2. 💪 Opened PR [#1594](https://github.com/iris-hep/iris-hep.github.io-source/pull/1594) in [iris-hep/iris-hep.github.io-source](https://github.com/iris-hep/iris-hep.github.io-source)
-3. 🗣 Commented on [#201](https://github.com/FluxML/Metalhead.jl/issues/201) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-4. 🗣 Commented on [#9](https://github.com/conda-forge/vector-feedstock/issues/9) in [conda-forge/vector-feedstock](https://github.com/conda-forge/vector-feedstock)
-5. 🎉 Merged PR [#75](https://github.com/Saransh-cpp/OCRed/pull/75) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🗣 Commented on [#1930](https://github.com/FluxML/Flux.jl/issues/1930) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 🗣 Commented on [#201](https://github.com/FluxML/Metalhead.jl/issues/201) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+3. 💪 Opened PR [#1594](https://github.com/iris-hep/iris-hep.github.io-source/pull/1594) in [iris-hep/iris-hep.github.io-source](https://github.com/iris-hep/iris-hep.github.io-source)
+4. 🗣 Commented on [#201](https://github.com/FluxML/Metalhead.jl/issues/201) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+5. 🗣 Commented on [#9](https://github.com/conda-forge/vector-feedstock/issues/9) in [conda-forge/vector-feedstock](https://github.com/conda-forge/vector-feedstock)
 <!--END_SECTION:activity-->
 
 
