@@ -72,10 +72,10 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/bmcage/odes/issues/137) in [bmcage/odes](https://github.com/bmcage/odes)
-2. 🗣 Commented on [#1930](https://github.com/FluxML/Flux.jl/issues/1930) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-3. 🗣 Commented on [#201](https://github.com/FluxML/Metalhead.jl/issues/201) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-4. 💪 Opened PR [#1594](https://github.com/iris-hep/iris-hep.github.io-source/pull/1594) in [iris-hep/iris-hep.github.io-source](https://github.com/iris-hep/iris-hep.github.io-source)
+1. 🗣 Commented on [#2272](https://github.com/pybamm-team/PyBaMM/issues/2272) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 🗣 Commented on [#2272](https://github.com/pybamm-team/PyBaMM/issues/2272) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🗣 Commented on [#137](https://github.com/bmcage/odes/issues/137) in [bmcage/odes](https://github.com/bmcage/odes)
+4. 🗣 Commented on [#1930](https://github.com/FluxML/Flux.jl/issues/1930) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 5. 🗣 Commented on [#201](https://github.com/FluxML/Metalhead.jl/issues/201) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
 <!--END_SECTION:activity-->
 
