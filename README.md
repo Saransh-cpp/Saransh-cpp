@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2272](https://github.com/pybamm-team/PyBaMM/issues/2272) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🗣 Commented on [#215](https://github.com/pydelhi/talks/issues/215) in [pydelhi/talks](https://github.com/pydelhi/talks)
 2. 🗣 Commented on [#2272](https://github.com/pybamm-team/PyBaMM/issues/2272) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#137](https://github.com/bmcage/odes/issues/137) in [bmcage/odes](https://github.com/bmcage/odes)
-4. 🗣 Commented on [#1930](https://github.com/FluxML/Flux.jl/issues/1930) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. 🗣 Commented on [#201](https://github.com/FluxML/Metalhead.jl/issues/201) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+3. 🗣 Commented on [#2272](https://github.com/pybamm-team/PyBaMM/issues/2272) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🗣 Commented on [#137](https://github.com/bmcage/odes/issues/137) in [bmcage/odes](https://github.com/bmcage/odes)
+5. 🗣 Commented on [#1930](https://github.com/FluxML/Flux.jl/issues/1930) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
