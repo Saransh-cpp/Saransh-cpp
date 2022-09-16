@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Saransh-cpp/releaseup/pull/9) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-2. ❗️ Opened issue [#255](https://github.com/scikit-hep/vector/issues/255) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🗣 Commented on [#2272](https://github.com/pybamm-team/PyBaMM/issues/2272) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🎉 Merged PR [#2](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/2) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
-5. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/1) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
+1. ❗️ Closed issue [#5](https://github.com/Saransh-cpp/releaseup/issues/5) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+2. ❗️ Closed issue [#7](https://github.com/Saransh-cpp/releaseup/issues/7) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+3. ❗️ Closed issue [#4](https://github.com/Saransh-cpp/releaseup/issues/4) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+4. 🎉 Merged PR [#9](https://github.com/Saransh-cpp/releaseup/pull/9) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+5. 💪 Opened PR [#9](https://github.com/Saransh-cpp/releaseup/pull/9) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
 <!--END_SECTION:activity-->
 
 
