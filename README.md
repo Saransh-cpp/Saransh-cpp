@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#255](https://github.com/scikit-hep/vector/issues/255) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#2272](https://github.com/pybamm-team/PyBaMM/issues/2272) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🎉 Merged PR [#2](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/2) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
-4. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/1) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
-5. ❗️ Opened issue [#141](https://github.com/FluxML/fluxml.github.io/issues/141) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+1. 💪 Opened PR [#9](https://github.com/Saransh-cpp/releaseup/pull/9) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+2. ❗️ Opened issue [#255](https://github.com/scikit-hep/vector/issues/255) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🗣 Commented on [#2272](https://github.com/pybamm-team/PyBaMM/issues/2272) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🎉 Merged PR [#2](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/2) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
+5. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/1) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
 <!--END_SECTION:activity-->
 
 
