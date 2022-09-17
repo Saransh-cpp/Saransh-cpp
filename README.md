@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Saransh-cpp/releaseup/issues/5) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-2. ❗️ Closed issue [#7](https://github.com/Saransh-cpp/releaseup/issues/7) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-3. ❗️ Closed issue [#4](https://github.com/Saransh-cpp/releaseup/issues/4) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-4. 🎉 Merged PR [#9](https://github.com/Saransh-cpp/releaseup/pull/9) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-5. 💪 Opened PR [#9](https://github.com/Saransh-cpp/releaseup/pull/9) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+1. 🗣 Commented on [#141](https://github.com/FluxML/fluxml.github.io/issues/141) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+2. ❗️ Closed issue [#5](https://github.com/Saransh-cpp/releaseup/issues/5) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+3. ❗️ Closed issue [#7](https://github.com/Saransh-cpp/releaseup/issues/7) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+4. ❗️ Closed issue [#4](https://github.com/Saransh-cpp/releaseup/issues/4) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+5. 🎉 Merged PR [#9](https://github.com/Saransh-cpp/releaseup/pull/9) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
 <!--END_SECTION:activity-->
 
 
