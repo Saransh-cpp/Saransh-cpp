@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#254](https://github.com/scikit-hep/vector/issues/254) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 💪 Opened PR [#256](https://github.com/scikit-hep/vector/pull/256) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🗣 Commented on [#141](https://github.com/FluxML/fluxml.github.io/issues/141) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-4. ❗️ Closed issue [#5](https://github.com/Saransh-cpp/releaseup/issues/5) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-5. ❗️ Closed issue [#7](https://github.com/Saransh-cpp/releaseup/issues/7) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+1. 🎉 Merged PR [#254](https://github.com/scikit-hep/vector/pull/254) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. ❗️ Closed issue [#255](https://github.com/scikit-hep/vector/issues/255) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. ❗️ Closed issue [#239](https://github.com/scikit-hep/vector/issues/239) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🎉 Merged PR [#256](https://github.com/scikit-hep/vector/pull/256) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#254](https://github.com/scikit-hep/vector/issues/254) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
