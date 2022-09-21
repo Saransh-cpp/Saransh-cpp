@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#143](https://github.com/FluxML/fluxml.github.io/pull/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-2. 🗣 Commented on [#1275](https://github.com/FluxML/Zygote.jl/issues/1275) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
-3. 💪 Opened PR [#1306](https://github.com/FluxML/Zygote.jl/pull/1306) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
-4. 🎉 Merged PR [#78](https://github.com/Saransh-cpp/OCRed/pull/78) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🎉 Merged PR [#77](https://github.com/Saransh-cpp/OCRed/pull/77) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🗣 Commented on [#143](https://github.com/FluxML/fluxml.github.io/issues/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+2. 🗣 Commented on [#1306](https://github.com/FluxML/Zygote.jl/issues/1306) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
+3. 💪 Opened PR [#143](https://github.com/FluxML/fluxml.github.io/pull/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+4. 🗣 Commented on [#1275](https://github.com/FluxML/Zygote.jl/issues/1275) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
+5. 💪 Opened PR [#1306](https://github.com/FluxML/Zygote.jl/pull/1306) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
 <!--END_SECTION:activity-->
 
 
