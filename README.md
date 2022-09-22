@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2272](https://github.com/pybamm-team/PyBaMM/issues/2272) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 🗣 Commented on [#143](https://github.com/FluxML/fluxml.github.io/issues/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-3. 💪 Opened PR [#1311](https://github.com/FluxML/Zygote.jl/pull/1311) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
-4. 💪 Opened PR [#2063](https://github.com/FluxML/Flux.jl/pull/2063) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. 🗣 Commented on [#143](https://github.com/FluxML/fluxml.github.io/issues/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+1. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 🗣 Commented on [#2272](https://github.com/pybamm-team/PyBaMM/issues/2272) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🗣 Commented on [#143](https://github.com/FluxML/fluxml.github.io/issues/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+4. 💪 Opened PR [#1311](https://github.com/FluxML/Zygote.jl/pull/1311) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
+5. 💪 Opened PR [#2063](https://github.com/FluxML/Flux.jl/pull/2063) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
