@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Saransh-cpp/riemapp/pull/7) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-2. 🗣 Commented on [#1316](https://github.com/FluxML/Zygote.jl/issues/1316) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
-3. 💪 Opened PR [#193](https://github.com/pybamm-team/liionpack/pull/193) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-4. 💪 Opened PR [#2323](https://github.com/pybamm-team/PyBaMM/pull/2323) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. 🗣 Commented on [#1994](https://github.com/pybamm-team/PyBaMM/issues/1994) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🎉 Merged PR [#7](https://github.com/Saransh-cpp/riemapp/pull/7) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+2. 💪 Opened PR [#7](https://github.com/Saransh-cpp/riemapp/pull/7) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+3. 🗣 Commented on [#1316](https://github.com/FluxML/Zygote.jl/issues/1316) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
+4. 💪 Opened PR [#193](https://github.com/pybamm-team/liionpack/pull/193) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+5. 💪 Opened PR [#2323](https://github.com/pybamm-team/PyBaMM/pull/2323) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
 
