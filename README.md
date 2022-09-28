@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#193](https://github.com/pybamm-team/liionpack/pull/193) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-2. 💪 Opened PR [#2323](https://github.com/pybamm-team/PyBaMM/pull/2323) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#1994](https://github.com/pybamm-team/PyBaMM/issues/1994) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🗣 Commented on [#2297](https://github.com/pybamm-team/PyBaMM/issues/2297) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. 💪 Opened PR [#1316](https://github.com/FluxML/Zygote.jl/pull/1316) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
+1. 🗣 Commented on [#1316](https://github.com/FluxML/Zygote.jl/issues/1316) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
+2. 💪 Opened PR [#193](https://github.com/pybamm-team/liionpack/pull/193) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+3. 💪 Opened PR [#2323](https://github.com/pybamm-team/PyBaMM/pull/2323) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🗣 Commented on [#1994](https://github.com/pybamm-team/PyBaMM/issues/1994) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 🗣 Commented on [#2297](https://github.com/pybamm-team/PyBaMM/issues/2297) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
 
