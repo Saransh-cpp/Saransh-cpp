@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#52](https://github.com/Saransh-cpp/Flux.jl/pull/52) in [Saransh-cpp/Flux.jl](https://github.com/Saransh-cpp/Flux.jl)
-2. 💪 Opened PR [#52](https://github.com/Saransh-cpp/Flux.jl/pull/52) in [Saransh-cpp/Flux.jl](https://github.com/Saransh-cpp/Flux.jl)
-3. 🎉 Merged PR [#264](https://github.com/scikit-hep/vector/pull/264) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 💪 Opened PR [#264](https://github.com/scikit-hep/vector/pull/264) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🎉 Merged PR [#263](https://github.com/scikit-hep/vector/pull/263) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. ❌ Reopened PR [#2074](https://github.com/FluxML/Flux.jl/pull/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. ❌ Closed PR [#2074](https://github.com/FluxML/Flux.jl/pull/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. 💪 Opened PR [#2074](https://github.com/FluxML/Flux.jl/pull/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. ❌ Reopened PR [#52](https://github.com/Saransh-cpp/Flux.jl/pull/52) in [Saransh-cpp/Flux.jl](https://github.com/Saransh-cpp/Flux.jl)
+5. ❌ Closed PR [#52](https://github.com/Saransh-cpp/Flux.jl/pull/52) in [Saransh-cpp/Flux.jl](https://github.com/Saransh-cpp/Flux.jl)
 <!--END_SECTION:activity-->
 
 
