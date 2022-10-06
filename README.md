@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#237](https://github.com/scikit-hep/vector/issues/237) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. ❗️ Opened issue [#268](https://github.com/scikit-hep/vector/issues/268) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🎉 Merged PR [#267](https://github.com/scikit-hep/vector/pull/267) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#89](https://github.com/scikit-hep/vector/issues/89) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 3. 🗣 Commented on [#237](https://github.com/scikit-hep/vector/issues/237) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#245](https://github.com/scikit-hep/vector/issues/245) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 💪 Opened PR [#267](https://github.com/scikit-hep/vector/pull/267) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. ❗️ Opened issue [#268](https://github.com/scikit-hep/vector/issues/268) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#237](https://github.com/scikit-hep/vector/issues/237) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
