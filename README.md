@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1775](https://github.com/scikit-hep/awkward/pull/1775) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 🗣 Commented on [#2079](https://github.com/FluxML/Flux.jl/issues/2079) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-3. 💪 Opened PR [#146](https://github.com/FluxML/fluxml.github.io/pull/146) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-4. 🗣 Commented on [#2349](https://github.com/pybamm-team/PyBaMM/issues/2349) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. 🗣 Commented on [#2349](https://github.com/pybamm-team/PyBaMM/issues/2349) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 💪 Opened PR [#981](https://github.com/tlienart/Franklin.jl/pull/981) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
+2. 🗣 Commented on [#980](https://github.com/tlienart/Franklin.jl/issues/980) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
+3. ❗️ Opened issue [#980](https://github.com/tlienart/Franklin.jl/issues/980) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
+4. 🗣 Commented on [#145](https://github.com/FluxML/fluxml.github.io/issues/145) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+5. 💪 Opened PR [#1775](https://github.com/scikit-hep/awkward/pull/1775) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
 <!--END_SECTION:activity-->
 
 
