@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/FluxML/.github/issues/3) in [FluxML/.github](https://github.com/FluxML/.github)
-2. 🗣 Commented on [#2346](https://github.com/pybamm-team/PyBaMM/issues/2346) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. ❗️ Opened issue [#2346](https://github.com/pybamm-team/PyBaMM/issues/2346) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 💪 Opened PR [#2345](https://github.com/pybamm-team/PyBaMM/pull/2345) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. ❌ Closed PR [#53](https://github.com/Saransh-cpp/Flux.jl/pull/53) in [Saransh-cpp/Flux.jl](https://github.com/Saransh-cpp/Flux.jl)
+1. 🎉 Merged PR [#266](https://github.com/scikit-hep/vector/pull/266) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#3](https://github.com/FluxML/.github/issues/3) in [FluxML/.github](https://github.com/FluxML/.github)
+3. 🗣 Commented on [#2346](https://github.com/pybamm-team/PyBaMM/issues/2346) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. ❗️ Opened issue [#2346](https://github.com/pybamm-team/PyBaMM/issues/2346) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 💪 Opened PR [#2345](https://github.com/pybamm-team/PyBaMM/pull/2345) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
 
