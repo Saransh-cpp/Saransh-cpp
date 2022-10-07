@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1775](https://github.com/scikit-hep/awkward/issues/1775) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
-2. 💪 Opened PR [#981](https://github.com/tlienart/Franklin.jl/pull/981) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
-3. 🗣 Commented on [#980](https://github.com/tlienart/Franklin.jl/issues/980) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
-4. ❗️ Opened issue [#980](https://github.com/tlienart/Franklin.jl/issues/980) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
-5. 🗣 Commented on [#145](https://github.com/FluxML/fluxml.github.io/issues/145) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+1. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+2. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+3. 💪 Opened PR [#1158](https://github.com/zarr-developers/zarr-python/pull/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+4. 🗣 Commented on [#1775](https://github.com/scikit-hep/awkward/issues/1775) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 💪 Opened PR [#981](https://github.com/tlienart/Franklin.jl/pull/981) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
 <!--END_SECTION:activity-->
 
 
