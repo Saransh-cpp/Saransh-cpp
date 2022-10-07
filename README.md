@@ -16,11 +16,11 @@ I am an engineering junior at Cluster Innovation Center, University of Delhi, pu
  
 <!-- [![GitHub Saransh-cpp](https://img.shields.io/github/followers/Saransh-cpp?label=follow&style=social)](https://github.com/Saransh-cpp) -->
 
-- 🛰️ I currently working as a Technical Writer for [FluxML](https://fluxml.ai/) under [Julia Season of Contributions](https://julialang.org/jsoc/)!
+- 🛰️ I am currently working as a Technical Writer at [FluxML](https://fluxml.ai/) under [Julia Season of Contributions](https://julialang.org/jsoc/)!
 
-- 🛰️ This summer I worked as an [IRIS-HEP (Institute for Research and Innovation in Software for High Energy Physics)](https://iris-hep.org/) [fellow](https://iris-hep.org/fellows.html) and my Iwork revolved around [Scikit-HEP/vector](https://github.com/scikit-hep/vector)!
+- 🛰️ I spent the summer of 2022 working as an [IRIS-HEP (Institute for Research and Innovation in Software for High Energy Physics)](https://iris-hep.org/) [fellow](https://iris-hep.org/fellows.html), and my work revolved around [Scikit-HEP/vector](https://github.com/scikit-hep/vector)!
 
-- :battery: Last summer I was a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus) ([final report](https://gist.github.com/Saransh-cpp/5f61540819b8c8d552c12b1609915f5d)).
+- :battery: I spent the summer of 2021 a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus).
 
 - :octocat: I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software.
 
