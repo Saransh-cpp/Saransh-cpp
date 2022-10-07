@@ -20,7 +20,7 @@ I am an engineering junior at Cluster Innovation Center, University of Delhi, pu
 
 - 🛰️ I spent the summer of 2022 working as an [IRIS-HEP (Institute for Research and Innovation in Software for High Energy Physics)](https://iris-hep.org/) [fellow](https://iris-hep.org/fellows.html), and my work revolved around [Scikit-HEP/vector](https://github.com/scikit-hep/vector)!
 
-- :battery: I spent the summer of 2021 a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus).
+- :battery: I spent the summer of 2021 as a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus).
 
 - :octocat: I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software.
 
