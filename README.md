@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
-2. 🗣 Commented on [#47094](https://github.com/JuliaLang/julia/issues/47094) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-3. 🎉 Merged PR [#269](https://github.com/scikit-hep/vector/pull/269) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. ❗️ Opened issue [#101](https://github.com/pybamm-team/BattBot/issues/101) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
-5. 💪 Opened PR [#100](https://github.com/pybamm-team/BattBot/pull/100) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+1. ❌ Reopened PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
+2. ❌ Closed PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
+3. 💪 Opened PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
+4. 🗣 Commented on [#47094](https://github.com/JuliaLang/julia/issues/47094) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
+5. 🎉 Merged PR [#269](https://github.com/scikit-hep/vector/pull/269) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
