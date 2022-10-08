@@ -72,10 +72,10 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#269](https://github.com/scikit-hep/vector/pull/269) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. ❗️ Opened issue [#101](https://github.com/pybamm-team/BattBot/issues/101) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
-3. 💪 Opened PR [#100](https://github.com/pybamm-team/BattBot/pull/100) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
-4. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+1. 🗣 Commented on [#47094](https://github.com/JuliaLang/julia/issues/47094) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
+2. 🎉 Merged PR [#269](https://github.com/scikit-hep/vector/pull/269) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. ❗️ Opened issue [#101](https://github.com/pybamm-team/BattBot/issues/101) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+4. 💪 Opened PR [#100](https://github.com/pybamm-team/BattBot/pull/100) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
 5. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 <!--END_SECTION:activity-->
 
