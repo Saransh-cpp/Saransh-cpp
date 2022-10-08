@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
-2. ❌ Closed PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
-3. 💪 Opened PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
-4. 🗣 Commented on [#47094](https://github.com/JuliaLang/julia/issues/47094) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-5. 🎉 Merged PR [#269](https://github.com/scikit-hep/vector/pull/269) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🗣 Commented on [#980](https://github.com/tlienart/Franklin.jl/issues/980) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
+2. 🗣 Commented on [#145](https://github.com/FluxML/fluxml.github.io/issues/145) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+3. 💪 Opened PR [#1](https://github.com/darsnack/fluxml.github.io/pull/1) in [darsnack/fluxml.github.io](https://github.com/darsnack/fluxml.github.io)
+4. ❌ Reopened PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
+5. ❌ Closed PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
 <!--END_SECTION:activity-->
 
 
