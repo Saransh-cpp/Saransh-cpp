@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#268](https://github.com/scikit-hep/vector/issues/268) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 2. 🗣 Commented on [#30](https://github.com/atlas-outreach-data-tools/notebooks-collection-opendata/issues/30) in [atlas-outreach-data-tools/notebooks-collection-opendata](https://github.com/atlas-outreach-data-tools/notebooks-collection-opendata)
-3. 🗣 Commented on [#145](https://github.com/FluxML/fluxml.github.io/issues/145) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-4. 🗣 Commented on [#980](https://github.com/tlienart/Franklin.jl/issues/980) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
-5. 🗣 Commented on [#145](https://github.com/FluxML/fluxml.github.io/issues/145) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+3. 🎉 Merged PR [#100](https://github.com/pybamm-team/BattBot/pull/100) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+4. 💪 Opened PR [#982](https://github.com/tlienart/Franklin.jl/pull/982) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
+5. ❗️ Closed issue [#268](https://github.com/scikit-hep/vector/issues/268) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
