@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Saransh-cpp/riemapp/pull/31) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-2. 🎉 Merged PR [#14](https://github.com/Saransh-cpp/releaseup/pull/14) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-3. 🎉 Merged PR [#83](https://github.com/Saransh-cpp/OCRed/pull/83) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 🎉 Merged PR [#7](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/7) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
-5. 🗣 Commented on [#430](https://github.com/FluxML/NNlib.jl/issues/430) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+1. ❌ Closed PR [#245](https://github.com/scikit-hep/vector/pull/245) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#245](https://github.com/scikit-hep/vector/issues/245) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🎉 Merged PR [#270](https://github.com/scikit-hep/vector/pull/270) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🎉 Merged PR [#31](https://github.com/Saransh-cpp/riemapp/pull/31) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+5. 🎉 Merged PR [#14](https://github.com/Saransh-cpp/releaseup/pull/14) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
 <!--END_SECTION:activity-->
 
 
