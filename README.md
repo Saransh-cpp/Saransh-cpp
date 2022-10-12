@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-2. 💪 Opened PR [#1760](https://github.com/JuliaLang/www.julialang.org/pull/1760) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
-3. 💪 Opened PR [#2081](https://github.com/FluxML/Flux.jl/pull/2081) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. 🗣 Commented on [#145](https://github.com/FluxML/fluxml.github.io/issues/145) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-5. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+1. ❗️ Closed issue [#237](https://github.com/scikit-hep/vector/issues/237) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🎉 Merged PR [#271](https://github.com/scikit-hep/vector/pull/271) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+4. 💪 Opened PR [#1760](https://github.com/JuliaLang/www.julialang.org/pull/1760) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
+5. 💪 Opened PR [#2081](https://github.com/FluxML/Flux.jl/pull/2081) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
