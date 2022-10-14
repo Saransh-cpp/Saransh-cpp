@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/FluxML/fluxml.github.io/issues/149) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-2. 🗣 Commented on [#145](https://github.com/FluxML/fluxml.github.io/issues/145) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+1. 💪 Opened PR [#1](https://github.com/Saransh-cpp/fluxml.github.io/pull/1) in [Saransh-cpp/fluxml.github.io](https://github.com/Saransh-cpp/fluxml.github.io)
+2. 🗣 Commented on [#149](https://github.com/FluxML/fluxml.github.io/issues/149) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
 3. 🗣 Commented on [#145](https://github.com/FluxML/fluxml.github.io/issues/145) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-4. 🗣 Commented on [#1719](https://github.com/JuliaLang/www.julialang.org/issues/1719) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
-5. ❗️ Closed issue [#237](https://github.com/scikit-hep/vector/issues/237) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#145](https://github.com/FluxML/fluxml.github.io/issues/145) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+5. 🗣 Commented on [#1719](https://github.com/JuliaLang/www.julialang.org/issues/1719) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
 <!--END_SECTION:activity-->
 
 
