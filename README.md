@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 ## Recent activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-2. 💪 Opened PR [#1](https://github.com/Saransh-cpp/fluxml.github.io/pull/1) in [Saransh-cpp/fluxml.github.io](https://github.com/Saransh-cpp/fluxml.github.io)
-3. 🗣 Commented on [#149](https://github.com/FluxML/fluxml.github.io/issues/149) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-4. 🗣 Commented on [#145](https://github.com/FluxML/fluxml.github.io/issues/145) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+2. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+3. 💪 Opened PR [#1](https://github.com/Saransh-cpp/fluxml.github.io/pull/1) in [Saransh-cpp/fluxml.github.io](https://github.com/Saransh-cpp/fluxml.github.io)
+4. 🗣 Commented on [#149](https://github.com/FluxML/fluxml.github.io/issues/149) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
 5. 🗣 Commented on [#145](https://github.com/FluxML/fluxml.github.io/issues/145) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
 <!--END_SECTION:activity-->
 
