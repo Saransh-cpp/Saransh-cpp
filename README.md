@@ -73,10 +73,10 @@ Here are some ideas to get you started:
 ## Recent activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2532](https://github.com/codespell-project/codespell/issues/2532) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
-2. 🗣 Commented on [#3269](https://github.com/pypa/setuptools/issues/3269) in [pypa/setuptools](https://github.com/pypa/setuptools)
-3. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-4. 🗣 Commented on [#2074](https://github.com/FluxML/Flux.jl/issues/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. ❗️ Opened issue [#2086](https://github.com/FluxML/Flux.jl/issues/2086) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 💪 Opened PR [#1193](https://github.com/zarr-developers/zarr-python/pull/1193) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+3. 🗣 Commented on [#2532](https://github.com/codespell-project/codespell/issues/2532) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
+4. 🗣 Commented on [#3269](https://github.com/pypa/setuptools/issues/3269) in [pypa/setuptools](https://github.com/pypa/setuptools)
+5. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 <!--END_SECTION:activity-->
 
 
