@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2074](https://github.com/FluxML/Flux.jl/issues/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+1. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+2. 🗣 Commented on [#2074](https://github.com/FluxML/Flux.jl/issues/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 3. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-4. 💪 Opened PR [#1](https://github.com/Saransh-cpp/fluxml.github.io/pull/1) in [Saransh-cpp/fluxml.github.io](https://github.com/Saransh-cpp/fluxml.github.io)
-5. 🗣 Commented on [#149](https://github.com/FluxML/fluxml.github.io/issues/149) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+4. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+5. 💪 Opened PR [#1](https://github.com/Saransh-cpp/fluxml.github.io/pull/1) in [Saransh-cpp/fluxml.github.io](https://github.com/Saransh-cpp/fluxml.github.io)
 <!--END_SECTION:activity-->
 
 
