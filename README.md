@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#143](https://github.com/FluxML/fluxml.github.io/pull/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-2. 🗣 Commented on [#143](https://github.com/FluxML/fluxml.github.io/issues/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-3. 🗣 Commented on [#2532](https://github.com/codespell-project/codespell/issues/2532) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
-4. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-5. 🎉 Merged PR [#32](https://github.com/Saransh-cpp/riemapp/pull/32) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+1. 🗣 Commented on [#154](https://github.com/FluxML/fluxml.github.io/issues/154) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+2. ❌ Closed PR [#143](https://github.com/FluxML/fluxml.github.io/pull/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+3. 🗣 Commented on [#143](https://github.com/FluxML/fluxml.github.io/issues/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+4. 🗣 Commented on [#2532](https://github.com/codespell-project/codespell/issues/2532) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
+5. 🗣 Commented on [#1158](https://github.com/zarr-developers/zarr-python/issues/1158) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 <!--END_SECTION:activity-->
 
 
