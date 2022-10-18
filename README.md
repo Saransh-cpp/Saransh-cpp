@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#76](https://github.com/Saransh-cpp/OCRed/pull/76) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 🗣 Commented on [#2064](https://github.com/FluxML/Flux.jl/issues/2064) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-3. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. ❌ Closed PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
-5. 🗣 Commented on [#982](https://github.com/tlienart/Franklin.jl/issues/982) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
+1. ❗️ Opened issue [#276](https://github.com/scikit-hep/vector/issues/276) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. ❌ Closed PR [#76](https://github.com/Saransh-cpp/OCRed/pull/76) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 🗣 Commented on [#2064](https://github.com/FluxML/Flux.jl/issues/2064) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+5. ❌ Closed PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
 <!--END_SECTION:activity-->
 
 
