@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#273](https://github.com/scikit-hep/vector/issues/273) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#154](https://github.com/FluxML/fluxml.github.io/issues/154) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-3. ❌ Closed PR [#143](https://github.com/FluxML/fluxml.github.io/pull/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-4. 🗣 Commented on [#143](https://github.com/FluxML/fluxml.github.io/issues/143) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-5. 🗣 Commented on [#2532](https://github.com/codespell-project/codespell/issues/2532) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
+1. ❗️ Closed issue [#88](https://github.com/scikit-hep/vector/issues/88) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🎉 Merged PR [#89](https://github.com/scikit-hep/vector/pull/89) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🎉 Merged PR [#275](https://github.com/scikit-hep/vector/pull/275) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#1803](https://github.com/scikit-hep/awkward/issues/1803) in [scikit-hep/awkward](https://github.com/scikit-hep/awkward)
+5. 💪 Opened PR [#275](https://github.com/scikit-hep/vector/pull/275) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
