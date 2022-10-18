@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1197](https://github.com/zarr-developers/zarr-python/issues/1197) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-2. 🗣 Commented on [#1199](https://github.com/zarr-developers/zarr-python/issues/1199) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-3. 🗣 Commented on [#240](https://github.com/scikit-hep/vector/issues/240) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 💪 Opened PR [#1641](https://github.com/iris-hep/iris-hep.github.io/pull/1641) in [iris-hep/iris-hep.github.io](https://github.com/iris-hep/iris-hep.github.io)
-5. 🗣 Commented on [#89](https://github.com/scikit-hep/vector/issues/89) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. ❌ Closed PR [#1](https://github.com/Saransh-cpp/fluxml-franklin-port/pull/1) in [Saransh-cpp/fluxml-franklin-port](https://github.com/Saransh-cpp/fluxml-franklin-port)
+3. 🗣 Commented on [#982](https://github.com/tlienart/Franklin.jl/issues/982) in [tlienart/Franklin.jl](https://github.com/tlienart/Franklin.jl)
+4. 🗣 Commented on [#1197](https://github.com/zarr-developers/zarr-python/issues/1197) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+5. 🗣 Commented on [#1199](https://github.com/zarr-developers/zarr-python/issues/1199) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 <!--END_SECTION:activity-->
 
 
