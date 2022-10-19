@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1148](https://github.com/zarr-developers/zarr-python/issues/1148) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-2. 🗣 Commented on [#364](https://github.com/zarr-developers/numcodecs/issues/364) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
-3. 🗣 Commented on [#1196](https://github.com/zarr-developers/zarr-python/issues/1196) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-4. 🗣 Commented on [#4085](https://github.com/fineanmol/Hacktoberfest2022/issues/4085) in [fineanmol/Hacktoberfest2022](https://github.com/fineanmol/Hacktoberfest2022)
-5. ❗️ Opened issue [#277](https://github.com/scikit-hep/vector/issues/277) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. ❌ Closed PR [#2](https://github.com/Saransh-cpp/fluxml.github.io/pull/2) in [Saransh-cpp/fluxml.github.io](https://github.com/Saransh-cpp/fluxml.github.io)
+2. 🗣 Commented on [#2381](https://github.com/pybamm-team/PyBaMM/issues/2381) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🗣 Commented on [#1148](https://github.com/zarr-developers/zarr-python/issues/1148) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+4. 🗣 Commented on [#364](https://github.com/zarr-developers/numcodecs/issues/364) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
+5. 🗣 Commented on [#1196](https://github.com/zarr-developers/zarr-python/issues/1196) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 <!--END_SECTION:activity-->
 
 
