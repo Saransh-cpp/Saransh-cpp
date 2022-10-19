@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#277](https://github.com/scikit-hep/vector/issues/277) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. ❗️ Opened issue [#276](https://github.com/scikit-hep/vector/issues/276) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. ❌ Closed PR [#76](https://github.com/Saransh-cpp/OCRed/pull/76) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 🗣 Commented on [#2064](https://github.com/FluxML/Flux.jl/issues/2064) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🗣 Commented on [#4085](https://github.com/fineanmol/Hacktoberfest2022/issues/4085) in [fineanmol/Hacktoberfest2022](https://github.com/fineanmol/Hacktoberfest2022)
+2. ❗️ Opened issue [#277](https://github.com/scikit-hep/vector/issues/277) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. ❗️ Opened issue [#276](https://github.com/scikit-hep/vector/issues/276) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. ❌ Closed PR [#76](https://github.com/Saransh-cpp/OCRed/pull/76) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 🗣 Commented on [#2064](https://github.com/FluxML/Flux.jl/issues/2064) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
