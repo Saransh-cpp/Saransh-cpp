@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1196](https://github.com/zarr-developers/zarr-python/issues/1196) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-2. 🗣 Commented on [#4085](https://github.com/fineanmol/Hacktoberfest2022/issues/4085) in [fineanmol/Hacktoberfest2022](https://github.com/fineanmol/Hacktoberfest2022)
-3. ❗️ Opened issue [#277](https://github.com/scikit-hep/vector/issues/277) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. ❗️ Opened issue [#276](https://github.com/scikit-hep/vector/issues/276) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. ❌ Closed PR [#76](https://github.com/Saransh-cpp/OCRed/pull/76) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🗣 Commented on [#1148](https://github.com/zarr-developers/zarr-python/issues/1148) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+2. 🗣 Commented on [#364](https://github.com/zarr-developers/numcodecs/issues/364) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
+3. 🗣 Commented on [#1196](https://github.com/zarr-developers/zarr-python/issues/1196) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+4. 🗣 Commented on [#4085](https://github.com/fineanmol/Hacktoberfest2022/issues/4085) in [fineanmol/Hacktoberfest2022](https://github.com/fineanmol/Hacktoberfest2022)
+5. ❗️ Opened issue [#277](https://github.com/scikit-hep/vector/issues/277) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
