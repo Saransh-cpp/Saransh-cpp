@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1205](https://github.com/zarr-developers/zarr-python/pull/1205) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-2. ❌ Closed PR [#2](https://github.com/Saransh-cpp/fluxml.github.io/pull/2) in [Saransh-cpp/fluxml.github.io](https://github.com/Saransh-cpp/fluxml.github.io)
-3. 🗣 Commented on [#2381](https://github.com/pybamm-team/PyBaMM/issues/2381) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🗣 Commented on [#1148](https://github.com/zarr-developers/zarr-python/issues/1148) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-5. 🗣 Commented on [#364](https://github.com/zarr-developers/numcodecs/issues/364) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
+1. ❗️ Closed issue [#44673](https://github.com/JuliaLang/julia/issues/44673) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
+2. 💪 Opened PR [#1205](https://github.com/zarr-developers/zarr-python/pull/1205) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+3. ❌ Closed PR [#2](https://github.com/Saransh-cpp/fluxml.github.io/pull/2) in [Saransh-cpp/fluxml.github.io](https://github.com/Saransh-cpp/fluxml.github.io)
+4. 🗣 Commented on [#2381](https://github.com/pybamm-team/PyBaMM/issues/2381) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 🗣 Commented on [#1148](https://github.com/zarr-developers/zarr-python/issues/1148) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 <!--END_SECTION:activity-->
 
 
