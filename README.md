@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Saransh-cpp/riemapp/pull/33) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-2. 💪 Opened PR [#33](https://github.com/Saransh-cpp/riemapp/pull/33) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-3. ❗️ Opened issue [#2388](https://github.com/pybamm-team/PyBaMM/issues/2388) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. ❗️ Closed issue [#44673](https://github.com/JuliaLang/julia/issues/44673) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
-5. 💪 Opened PR [#1205](https://github.com/zarr-developers/zarr-python/pull/1205) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+1. 🗣 Commented on [#2388](https://github.com/pybamm-team/PyBaMM/issues/2388) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 🎉 Merged PR [#33](https://github.com/Saransh-cpp/riemapp/pull/33) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+3. 💪 Opened PR [#33](https://github.com/Saransh-cpp/riemapp/pull/33) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+4. ❗️ Opened issue [#2388](https://github.com/pybamm-team/PyBaMM/issues/2388) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. ❗️ Closed issue [#44673](https://github.com/JuliaLang/julia/issues/44673) in [JuliaLang/julia](https://github.com/JuliaLang/julia)
 <!--END_SECTION:activity-->
 
 
