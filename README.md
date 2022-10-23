@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#438](https://github.com/FluxML/NNlib.jl/issues/438) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
-2. 🗣 Commented on [#431](https://github.com/FluxML/NNlib.jl/issues/431) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
-3. 🗣 Commented on [#437](https://github.com/FluxML/NNlib.jl/issues/437) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
-4. 💪 Opened PR [#438](https://github.com/FluxML/NNlib.jl/pull/438) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
-5. 💪 Opened PR [#365](https://github.com/zarr-developers/numcodecs/pull/365) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
+1. 💪 Opened PR [#155](https://github.com/FluxML/fluxml.github.io/pull/155) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+2. 🗣 Commented on [#438](https://github.com/FluxML/NNlib.jl/issues/438) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+3. 🗣 Commented on [#431](https://github.com/FluxML/NNlib.jl/issues/431) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+4. 🗣 Commented on [#437](https://github.com/FluxML/NNlib.jl/issues/437) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+5. 💪 Opened PR [#438](https://github.com/FluxML/NNlib.jl/pull/438) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
 <!--END_SECTION:activity-->
 
 
