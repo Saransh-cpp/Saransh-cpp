@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#430](https://github.com/FluxML/NNlib.jl/issues/430) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
-2. ❗️ Closed issue [#430](https://github.com/FluxML/NNlib.jl/issues/430) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
-3. 💪 Opened PR [#155](https://github.com/FluxML/fluxml.github.io/pull/155) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-4. 🗣 Commented on [#438](https://github.com/FluxML/NNlib.jl/issues/438) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
-5. 🗣 Commented on [#431](https://github.com/FluxML/NNlib.jl/issues/431) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+1. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 💪 Opened PR [#440](https://github.com/FluxML/NNlib.jl/pull/440) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+3. 🗣 Commented on [#155](https://github.com/FluxML/fluxml.github.io/issues/155) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+4. 🗣 Commented on [#1349](https://github.com/3b1b/manim/issues/1349) in [3b1b/manim](https://github.com/3b1b/manim)
+5. 🗣 Commented on [#1211](https://github.com/zarr-developers/zarr-python/issues/1211) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 <!--END_SECTION:activity-->
 
 
