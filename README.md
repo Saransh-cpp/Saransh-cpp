@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#439](https://github.com/FluxML/NNlib.jl/issues/439) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
-2. 🎉 Merged PR [#85](https://github.com/Saransh-cpp/OCRed/pull/85) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. 🗣 Commented on [#440](https://github.com/FluxML/NNlib.jl/issues/440) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
-4. 🎉 Merged PR [#34](https://github.com/Saransh-cpp/riemapp/pull/34) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-5. 🗣 Commented on [#9](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/issues/9) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
+1. 💪 Opened PR [#1219](https://github.com/zarr-developers/zarr-python/pull/1219) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+2. 🗣 Commented on [#439](https://github.com/FluxML/NNlib.jl/issues/439) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+3. 🎉 Merged PR [#85](https://github.com/Saransh-cpp/OCRed/pull/85) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. 🗣 Commented on [#440](https://github.com/FluxML/NNlib.jl/issues/440) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+5. 🎉 Merged PR [#34](https://github.com/Saransh-cpp/riemapp/pull/34) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
 <!--END_SECTION:activity-->
 
 
