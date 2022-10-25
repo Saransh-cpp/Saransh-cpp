@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#282](https://github.com/scikit-hep/vector/pull/282) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#1219](https://github.com/zarr-developers/zarr-python/issues/1219) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-3. 🎉 Merged PR [#281](https://github.com/scikit-hep/vector/pull/281) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 💪 Opened PR [#1219](https://github.com/zarr-developers/zarr-python/pull/1219) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-5. 🗣 Commented on [#439](https://github.com/FluxML/NNlib.jl/issues/439) in [FluxML/NNlib.jl](https://github.com/FluxML/NNlib.jl)
+1. 🗣 Commented on [#2523](https://github.com/codespell-project/codespell/issues/2523) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
+2. 🗣 Commented on [#282](https://github.com/scikit-hep/vector/issues/282) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🗣 Commented on [#2523](https://github.com/codespell-project/codespell/issues/2523) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
+4. 🗣 Commented on [#2523](https://github.com/codespell-project/codespell/issues/2523) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
+5. 🗣 Commented on [#2523](https://github.com/codespell-project/codespell/issues/2523) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
 <!--END_SECTION:activity-->
 
 
