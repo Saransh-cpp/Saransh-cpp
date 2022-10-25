@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#282](https://github.com/scikit-hep/vector/pull/282) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-3. 🗣 Commented on [#2523](https://github.com/codespell-project/codespell/issues/2523) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
-4. 🗣 Commented on [#282](https://github.com/scikit-hep/vector/issues/282) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🗣 Commented on [#2523](https://github.com/codespell-project/codespell/issues/2523) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
+1. 💪 Opened PR [#104](https://github.com/pybamm-team/BattBot/pull/104) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+2. 🎉 Merged PR [#282](https://github.com/scikit-hep/vector/pull/282) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🗣 Commented on [#2016](https://github.com/FluxML/Flux.jl/issues/2016) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. 🗣 Commented on [#2523](https://github.com/codespell-project/codespell/issues/2523) in [codespell-project/codespell](https://github.com/codespell-project/codespell)
+5. 🗣 Commented on [#282](https://github.com/scikit-hep/vector/issues/282) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
