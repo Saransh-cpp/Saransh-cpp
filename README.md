@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#365](https://github.com/zarr-developers/numcodecs/issues/365) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
-2. 🎉 Merged PR [#86](https://github.com/Saransh-cpp/OCRed/pull/86) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. 🎉 Merged PR [#35](https://github.com/Saransh-cpp/riemapp/pull/35) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-4. 🎉 Merged PR [#17](https://github.com/Saransh-cpp/releaseup/pull/17) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-5. 🗣 Commented on [#1219](https://github.com/zarr-developers/zarr-python/issues/1219) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+1. 🗣 Commented on [#1219](https://github.com/zarr-developers/zarr-python/issues/1219) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+2. 🗣 Commented on [#365](https://github.com/zarr-developers/numcodecs/issues/365) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
+3. 🎉 Merged PR [#86](https://github.com/Saransh-cpp/OCRed/pull/86) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. 🎉 Merged PR [#35](https://github.com/Saransh-cpp/riemapp/pull/35) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+5. 🎉 Merged PR [#17](https://github.com/Saransh-cpp/releaseup/pull/17) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
 <!--END_SECTION:activity-->
 
 
