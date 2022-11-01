@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1219](https://github.com/zarr-developers/zarr-python/issues/1219) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-2. 🎉 Merged PR [#286](https://github.com/scikit-hep/vector/pull/286) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🗣 Commented on [#1219](https://github.com/zarr-developers/zarr-python/issues/1219) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-4. 🗣 Commented on [#365](https://github.com/zarr-developers/numcodecs/issues/365) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
-5. 🎉 Merged PR [#86](https://github.com/Saransh-cpp/OCRed/pull/86) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🗣 Commented on [#1193](https://github.com/zarr-developers/zarr-python/issues/1193) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+2. 🗣 Commented on [#1219](https://github.com/zarr-developers/zarr-python/issues/1219) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+3. 🎉 Merged PR [#286](https://github.com/scikit-hep/vector/pull/286) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#1219](https://github.com/zarr-developers/zarr-python/issues/1219) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+5. 🗣 Commented on [#365](https://github.com/zarr-developers/numcodecs/issues/365) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
 <!--END_SECTION:activity-->
 
 
