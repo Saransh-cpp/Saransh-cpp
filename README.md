@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1239](https://github.com/zarr-developers/zarr-python/pull/1239) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-2. 💪 Opened PR [#1](https://github.com/Saransh-cpp/zarr-python/pull/1) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
-3. 💪 Opened PR [#106](https://github.com/pybamm-team/BattBot/pull/106) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
-4. 💪 Opened PR [#105](https://github.com/pybamm-team/BattBot/pull/105) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
-5. 🗣 Commented on [#1193](https://github.com/zarr-developers/zarr-python/issues/1193) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+1. 🎉 Merged PR [#105](https://github.com/pybamm-team/BattBot/pull/105) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+2. 💪 Opened PR [#1239](https://github.com/zarr-developers/zarr-python/pull/1239) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+3. 💪 Opened PR [#1](https://github.com/Saransh-cpp/zarr-python/pull/1) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
+4. 💪 Opened PR [#106](https://github.com/pybamm-team/BattBot/pull/106) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+5. 💪 Opened PR [#105](https://github.com/pybamm-team/BattBot/pull/105) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
 <!--END_SECTION:activity-->
 
 
