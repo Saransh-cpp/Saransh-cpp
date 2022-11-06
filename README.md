@@ -1,6 +1,6 @@
 # Hi
 
-(A better place to read about me, my achievements, my open-source work, etc. is - https://saransh-cpp.github.io/)
+(A better place to read about me and my open-source work is - https://saransh-cpp.github.io/)
 
 I am an engineering junior at Cluster Innovation Center, University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain open-source research software, which I believe are the key to collaborative and reproducible research.
 
@@ -16,11 +16,11 @@ I am an engineering junior at Cluster Innovation Center, University of Delhi, pu
  
 <!-- [![GitHub Saransh-cpp](https://img.shields.io/github/followers/Saransh-cpp?label=follow&style=social)](https://github.com/Saransh-cpp) -->
 
-- 🛰️ I am currently working as a Technical Writer at [FluxML](https://fluxml.ai/) under [Julia Season of Contributions](https://julialang.org/jsoc/)!
+- 🛰️ I was a Technical Writer at [FluxML](https://fluxml.ai/) under [Julia Season of Contributions](https://julialang.org/jsoc/)!
 
-- 🛰️ I spent the summer of 2022 working as an [IRIS-HEP (Institute for Research and Innovation in Software for High Energy Physics)](https://iris-hep.org/) [fellow](https://iris-hep.org/fellows.html), and my work revolved around [Scikit-HEP/vector](https://github.com/scikit-hep/vector)!
+- 🛰️ I was an [IRIS-HEP (Institute for Research and Innovation in Software for High Energy Physics)](https://iris-hep.org/) [fellow](https://iris-hep.org/fellows.html), and my work revolved around [Scikit-HEP/vector](https://github.com/scikit-hep/vector)!
 
-- :battery: I spent the summer of 2021 as a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus).
+- :battery: I was a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus).
 
 - :octocat: I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software.
 
