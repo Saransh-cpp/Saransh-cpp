@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#155](https://github.com/FluxML/fluxml.github.io/issues/155) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-3. 🎉 Merged PR [#107](https://github.com/pybamm-team/BattBot/pull/107) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
-4. ❌ Closed PR [#1](https://github.com/Saransh-cpp/zarr-python/pull/1) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
-5. 🗣 Commented on [#1239](https://github.com/zarr-developers/zarr-python/issues/1239) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+1. 💪 Opened PR [#1252](https://github.com/zarr-developers/zarr-python/pull/1252) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+2. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🗣 Commented on [#155](https://github.com/FluxML/fluxml.github.io/issues/155) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+4. 🎉 Merged PR [#107](https://github.com/pybamm-team/BattBot/pull/107) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+5. ❌ Closed PR [#1](https://github.com/Saransh-cpp/zarr-python/pull/1) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
 <!--END_SECTION:activity-->
 
 
