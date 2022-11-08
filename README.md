@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2435](https://github.com/pybamm-team/PyBaMM/pull/2435) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 💪 Opened PR [#1252](https://github.com/zarr-developers/zarr-python/pull/1252) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-3. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#155](https://github.com/FluxML/fluxml.github.io/issues/155) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-5. 🎉 Merged PR [#107](https://github.com/pybamm-team/BattBot/pull/107) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+1. ❌ Closed PR [#2036](https://github.com/FluxML/Flux.jl/pull/2036) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. 🗣 Commented on [#2036](https://github.com/FluxML/Flux.jl/issues/2036) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. 🗣 Commented on [#1249](https://github.com/zarr-developers/zarr-python/issues/1249) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+4. 💪 Opened PR [#2435](https://github.com/pybamm-team/PyBaMM/pull/2435) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 💪 Opened PR [#1252](https://github.com/zarr-developers/zarr-python/pull/1252) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
 <!--END_SECTION:activity-->
 
 
