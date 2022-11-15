@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/Saransh-cpp/OCRed/pull/87) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 🎉 Merged PR [#18](https://github.com/Saransh-cpp/releaseup/pull/18) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-3. 🎉 Merged PR [#36](https://github.com/Saransh-cpp/riemapp/pull/36) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-4. 💪 Opened PR [#396](https://github.com/zarr-developers/numcodecs/pull/396) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
-5. ❌ Closed PR [#2036](https://github.com/FluxML/Flux.jl/pull/2036) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 🎉 Merged PR [#288](https://github.com/scikit-hep/vector/pull/288) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🎉 Merged PR [#87](https://github.com/Saransh-cpp/OCRed/pull/87) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 🎉 Merged PR [#18](https://github.com/Saransh-cpp/releaseup/pull/18) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+4. 🎉 Merged PR [#36](https://github.com/Saransh-cpp/riemapp/pull/36) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+5. 💪 Opened PR [#396](https://github.com/zarr-developers/numcodecs/pull/396) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
 <!--END_SECTION:activity-->
 
 
