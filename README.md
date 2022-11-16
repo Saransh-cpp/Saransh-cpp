@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#215](https://github.com/pydelhi/talks/issues/215) in [pydelhi/talks](https://github.com/pydelhi/talks)
-2. 🎉 Merged PR [#288](https://github.com/scikit-hep/vector/pull/288) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🎉 Merged PR [#87](https://github.com/Saransh-cpp/OCRed/pull/87) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 🎉 Merged PR [#18](https://github.com/Saransh-cpp/releaseup/pull/18) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-5. 🎉 Merged PR [#36](https://github.com/Saransh-cpp/riemapp/pull/36) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+1. 🗣 Commented on [#1239](https://github.com/zarr-developers/zarr-python/issues/1239) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+2. 🗣 Commented on [#401](https://github.com/zarr-developers/numcodecs/issues/401) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
+3. 🗣 Commented on [#215](https://github.com/pydelhi/talks/issues/215) in [pydelhi/talks](https://github.com/pydelhi/talks)
+4. 🎉 Merged PR [#288](https://github.com/scikit-hep/vector/pull/288) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🎉 Merged PR [#87](https://github.com/Saransh-cpp/OCRed/pull/87) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
