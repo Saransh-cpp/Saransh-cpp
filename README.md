@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2105](https://github.com/FluxML/Flux.jl/issues/2105) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 🗣 Commented on [#1266](https://github.com/zarr-developers/zarr-python/issues/1266) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-3. 🗣 Commented on [#1239](https://github.com/zarr-developers/zarr-python/issues/1239) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-4. 🗣 Commented on [#401](https://github.com/zarr-developers/numcodecs/issues/401) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
-5. 🗣 Commented on [#215](https://github.com/pydelhi/talks/issues/215) in [pydelhi/talks](https://github.com/pydelhi/talks)
+1. 💪 Opened PR [#2](https://github.com/Saransh-cpp/zarr-python/pull/2) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
+2. 🗣 Commented on [#2105](https://github.com/FluxML/Flux.jl/issues/2105) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. 🗣 Commented on [#1266](https://github.com/zarr-developers/zarr-python/issues/1266) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+4. 🗣 Commented on [#1239](https://github.com/zarr-developers/zarr-python/issues/1239) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+5. 🗣 Commented on [#401](https://github.com/zarr-developers/numcodecs/issues/401) in [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs)
 <!--END_SECTION:activity-->
 
 
