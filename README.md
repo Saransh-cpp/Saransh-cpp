@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1271](https://github.com/zarr-developers/zarr-python/pull/1271) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-2. ❌ Closed PR [#4](https://github.com/Saransh-cpp/zarr-python/pull/4) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
-3. 💪 Opened PR [#4](https://github.com/Saransh-cpp/zarr-python/pull/4) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
-4. ❌ Closed PR [#3](https://github.com/Saransh-cpp/zarr-python/pull/3) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
-5. 💪 Opened PR [#3](https://github.com/Saransh-cpp/zarr-python/pull/3) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
+1. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 💪 Opened PR [#1271](https://github.com/zarr-developers/zarr-python/pull/1271) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+3. ❌ Closed PR [#4](https://github.com/Saransh-cpp/zarr-python/pull/4) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
+4. 💪 Opened PR [#4](https://github.com/Saransh-cpp/zarr-python/pull/4) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
+5. ❌ Closed PR [#3](https://github.com/Saransh-cpp/zarr-python/pull/3) in [Saransh-cpp/zarr-python](https://github.com/Saransh-cpp/zarr-python)
 <!--END_SECTION:activity-->
 
 
