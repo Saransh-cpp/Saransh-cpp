@@ -73,10 +73,10 @@ Here are some ideas to get you started:
 ## Recent activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#1760](https://github.com/JuliaLang/www.julialang.org/issues/1760) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
-3. 🎉 Merged PR [#289](https://github.com/scikit-hep/vector/pull/289) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🎉 Merged PR [#88](https://github.com/Saransh-cpp/OCRed/pull/88) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🎉 Merged PR [#19](https://github.com/Saransh-cpp/releaseup/pull/19) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+2. 🗣 Commented on [#2021](https://github.com/FluxML/Flux.jl/issues/2021) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#1760](https://github.com/JuliaLang/www.julialang.org/issues/1760) in [JuliaLang/www.julialang.org](https://github.com/JuliaLang/www.julialang.org)
+5. 🎉 Merged PR [#289](https://github.com/scikit-hep/vector/pull/289) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
