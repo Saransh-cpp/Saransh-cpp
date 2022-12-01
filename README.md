@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#90](https://github.com/Saransh-cpp/OCRed/pull/90) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 🎉 Merged PR [#290](https://github.com/scikit-hep/vector/pull/290) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🎉 Merged PR [#89](https://github.com/Saransh-cpp/OCRed/pull/89) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 🎉 Merged PR [#38](https://github.com/Saransh-cpp/riemapp/pull/38) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-5. 🎉 Merged PR [#20](https://github.com/Saransh-cpp/releaseup/pull/20) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+1. 🗣 Commented on [#1334](https://github.com/FluxML/Zygote.jl/issues/1334) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
+2. 🎉 Merged PR [#291](https://github.com/scikit-hep/vector/pull/291) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🗣 Commented on [#291](https://github.com/scikit-hep/vector/issues/291) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🎉 Merged PR [#90](https://github.com/Saransh-cpp/OCRed/pull/90) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 🎉 Merged PR [#290](https://github.com/scikit-hep/vector/pull/290) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
