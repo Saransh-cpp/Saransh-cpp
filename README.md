@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/Saransh-cpp/BookRentApp-Chapter3/issues/12) in [Saransh-cpp/BookRentApp-Chapter3](https://github.com/Saransh-cpp/BookRentApp-Chapter3)
+1. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
 2. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
 3. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-4. ❗️ Closed issue [#4830](https://github.com/EddieHubCommunity/support/issues/4830) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#2012](https://github.com/FluxML/Flux.jl/issues/2012) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+5. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
 <!--END_SECTION:activity-->
 
 
