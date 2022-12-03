@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1334](https://github.com/FluxML/Zygote.jl/issues/1334) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
-2. 🗣 Commented on [#2514](https://github.com/pybamm-team/PyBaMM/issues/2514) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#1334](https://github.com/FluxML/Zygote.jl/issues/1334) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
-4. 🎉 Merged PR [#291](https://github.com/scikit-hep/vector/pull/291) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🗣 Commented on [#291](https://github.com/scikit-hep/vector/issues/291) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+2. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+3. ❗️ Closed issue [#4830](https://github.com/EddieHubCommunity/support/issues/4830) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#2012](https://github.com/FluxML/Flux.jl/issues/2012) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+5. ❗️ Closed issue [#2012](https://github.com/FluxML/Flux.jl/issues/2012) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
