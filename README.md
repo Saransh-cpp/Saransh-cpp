@@ -2,7 +2,7 @@
 
 (A better place to read about me and my open-source work is - https://saransh-cpp.github.io/)
 
-I am an engineering junior at Cluster Innovation Center, University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain open-source research software, which I believe are the key to collaborative and reproducible research.
+I am an engineering undegrad at the Cluster Innovation Center, University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain open-source research software, which I believe are the key to collaborative and reproducible research.
 
 <div align="center">
  
