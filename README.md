@@ -72,10 +72,10 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-2. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-3. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-4. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
+1. 🎉 Merged PR [#292](https://github.com/scikit-hep/vector/pull/292) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#2524](https://github.com/pybamm-team/PyBaMM/issues/2524) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. ❗️ Closed issue [#2388](https://github.com/pybamm-team/PyBaMM/issues/2388) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🗣 Commented on [#2388](https://github.com/pybamm-team/PyBaMM/issues/2388) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 5. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
 <!--END_SECTION:activity-->
 
