@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2537](https://github.com/pybamm-team/PyBaMM/pull/2537) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 🎉 Merged PR [#93](https://github.com/Saransh-cpp/OCRed/pull/93) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. 🗣 Commented on [#1334](https://github.com/FluxML/Zygote.jl/issues/1334) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
-4. 💪 Opened PR [#4](https://github.com/FluxML/.github/pull/4) in [FluxML/.github](https://github.com/FluxML/.github)
-5. 🎉 Merged PR [#296](https://github.com/scikit-hep/vector/pull/296) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🗣 Commented on [#2537](https://github.com/pybamm-team/PyBaMM/issues/2537) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 🗣 Commented on [#2659](https://github.com/tox-dev/tox/issues/2659) in [tox-dev/tox](https://github.com/tox-dev/tox)
+3. 💪 Opened PR [#2537](https://github.com/pybamm-team/PyBaMM/pull/2537) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🎉 Merged PR [#93](https://github.com/Saransh-cpp/OCRed/pull/93) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 🗣 Commented on [#1334](https://github.com/FluxML/Zygote.jl/issues/1334) in [FluxML/Zygote.jl](https://github.com/FluxML/Zygote.jl)
 <!--END_SECTION:activity-->
 
 
