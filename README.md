@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/FluxML/.github/issues/4) in [FluxML/.github](https://github.com/FluxML/.github)
-2. 💪 Opened PR [#6](https://github.com/FluxML/.github/pull/6) in [FluxML/.github](https://github.com/FluxML/.github)
-3. 🗣 Commented on [#4](https://github.com/FluxML/.github/issues/4) in [FluxML/.github](https://github.com/FluxML/.github)
-4. ❗️ Closed issue [#5](https://github.com/Saransh-cpp/OCRed/issues/5) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. ❗️ Closed issue [#6](https://github.com/Saransh-cpp/OCRed/issues/6) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🎉 Merged PR [#299](https://github.com/scikit-hep/vector/pull/299) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 💪 Opened PR [#299](https://github.com/scikit-hep/vector/pull/299) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#4](https://github.com/FluxML/.github/issues/4) in [FluxML/.github](https://github.com/FluxML/.github)
+5. 💪 Opened PR [#6](https://github.com/FluxML/.github/pull/6) in [FluxML/.github](https://github.com/FluxML/.github)
 <!--END_SECTION:activity-->
 
 
