@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Saransh-cpp/OCRed/issues/5) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. ❗️ Closed issue [#6](https://github.com/Saransh-cpp/OCRed/issues/6) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. ❌ Closed PR [#9](https://github.com/Saransh-cpp/OCRed/pull/9) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 🗣 Commented on [#9](https://github.com/Saransh-cpp/OCRed/issues/9) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🗣 Commented on [#4](https://github.com/FluxML/.github/issues/4) in [FluxML/.github](https://github.com/FluxML/.github)
+2. 💪 Opened PR [#6](https://github.com/FluxML/.github/pull/6) in [FluxML/.github](https://github.com/FluxML/.github)
+3. 🗣 Commented on [#4](https://github.com/FluxML/.github/issues/4) in [FluxML/.github](https://github.com/FluxML/.github)
+4. ❗️ Closed issue [#5](https://github.com/Saransh-cpp/OCRed/issues/5) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. ❗️ Closed issue [#6](https://github.com/Saransh-cpp/OCRed/issues/6) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
