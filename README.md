@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/pybamm-team/BattBot/issues/106) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
-2. 🎉 Merged PR [#23](https://github.com/Saransh-cpp/releaseup/pull/23) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-3. 🎉 Merged PR [#299](https://github.com/scikit-hep/vector/pull/299) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 💪 Opened PR [#299](https://github.com/scikit-hep/vector/pull/299) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. ❗️ Opened issue [#2543](https://github.com/pybamm-team/PyBaMM/issues/2543) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 🗣 Commented on [#106](https://github.com/pybamm-team/BattBot/issues/106) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+3. 🎉 Merged PR [#23](https://github.com/Saransh-cpp/releaseup/pull/23) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+4. 🎉 Merged PR [#299](https://github.com/scikit-hep/vector/pull/299) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
