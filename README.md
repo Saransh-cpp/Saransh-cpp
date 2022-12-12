@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#299](https://github.com/scikit-hep/vector/pull/299) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 💪 Opened PR [#299](https://github.com/scikit-hep/vector/pull/299) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#4](https://github.com/FluxML/.github/issues/4) in [FluxML/.github](https://github.com/FluxML/.github)
-5. 💪 Opened PR [#6](https://github.com/FluxML/.github/pull/6) in [FluxML/.github](https://github.com/FluxML/.github)
+1. 🗣 Commented on [#106](https://github.com/pybamm-team/BattBot/issues/106) in [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot)
+2. 🎉 Merged PR [#23](https://github.com/Saransh-cpp/releaseup/pull/23) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+3. 🎉 Merged PR [#299](https://github.com/scikit-hep/vector/pull/299) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 💪 Opened PR [#299](https://github.com/scikit-hep/vector/pull/299) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
