@@ -73,10 +73,10 @@ Here are some ideas to get you started:
 ## Recent activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#2547](https://github.com/pybamm-team/PyBaMM/issues/2547) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#2547](https://github.com/pybamm-team/PyBaMM/issues/2547) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. 💪 Opened PR [#2547](https://github.com/pybamm-team/PyBaMM/pull/2547) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🗣 Commented on [#2547](https://github.com/pybamm-team/PyBaMM/issues/2547) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🗣 Commented on [#284](https://github.com/scikit-hep/vector/issues/284) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#2547](https://github.com/pybamm-team/PyBaMM/issues/2547) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
 
