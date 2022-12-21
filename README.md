@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/9) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
-2. 🗣 Commented on [#302](https://github.com/scikit-hep/vector/issues/302) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🎉 Merged PR [#25](https://github.com/Saransh-cpp/releaseup/pull/25) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-4. 🎉 Merged PR [#43](https://github.com/Saransh-cpp/riemapp/pull/43) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-5. 🎉 Merged PR [#95](https://github.com/Saransh-cpp/OCRed/pull/95) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🗣 Commented on [#1276](https://github.com/zarr-developers/zarr-python/issues/1276) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+2. 🎉 Merged PR [#9](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/9) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
+3. 🗣 Commented on [#302](https://github.com/scikit-hep/vector/issues/302) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🎉 Merged PR [#25](https://github.com/Saransh-cpp/releaseup/pull/25) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+5. 🎉 Merged PR [#43](https://github.com/Saransh-cpp/riemapp/pull/43) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
 <!--END_SECTION:activity-->
 
 
