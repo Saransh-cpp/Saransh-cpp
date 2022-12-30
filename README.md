@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/Saransh-cpp/OCRed/pull/96) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 💪 Opened PR [#305](https://github.com/scikit-hep/vector/pull/305) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🎉 Merged PR [#304](https://github.com/scikit-hep/vector/pull/304) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🎉 Merged PR [#44](https://github.com/Saransh-cpp/riemapp/pull/44) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-5. 🎉 Merged PR [#26](https://github.com/Saransh-cpp/releaseup/pull/26) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+1. 🎉 Merged PR [#97](https://github.com/Saransh-cpp/OCRed/pull/97) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. 💪 Opened PR [#97](https://github.com/Saransh-cpp/OCRed/pull/97) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 🎉 Merged PR [#96](https://github.com/Saransh-cpp/OCRed/pull/96) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. 💪 Opened PR [#305](https://github.com/scikit-hep/vector/pull/305) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🎉 Merged PR [#304](https://github.com/scikit-hep/vector/pull/304) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
