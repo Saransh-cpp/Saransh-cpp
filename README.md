@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/clusterinnovationcentre/convoke/pull/1) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
-2. 💪 Opened PR [#266](https://github.com/runtimeverification/javamop/pull/266) in [runtimeverification/javamop](https://github.com/runtimeverification/javamop)
-3. 🗣 Commented on [#210](https://github.com/pybamm-team/liionpack/issues/210) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-4. 💪 Opened PR [#210](https://github.com/pybamm-team/liionpack/pull/210) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-5. 🎉 Merged PR [#97](https://github.com/Saransh-cpp/OCRed/pull/97) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🎉 Merged PR [#1](https://github.com/clusterinnovationcentre/hashhacks/pull/1) in [clusterinnovationcentre/hashhacks](https://github.com/clusterinnovationcentre/hashhacks)
+2. 🎉 Merged PR [#1](https://github.com/clusterinnovationcentre/convoke/pull/1) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
+3. 💪 Opened PR [#266](https://github.com/runtimeverification/javamop/pull/266) in [runtimeverification/javamop](https://github.com/runtimeverification/javamop)
+4. 🗣 Commented on [#210](https://github.com/pybamm-team/liionpack/issues/210) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+5. 💪 Opened PR [#210](https://github.com/pybamm-team/liionpack/pull/210) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
 <!--END_SECTION:activity-->
 
 
