@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/clusterinnovationcentre/convoke/pull/2) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
-2. 🗣 Commented on [#2](https://github.com/clusterinnovationcentre/convoke/issues/2) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
+1. 🎉 Merged PR [#3](https://github.com/clusterinnovationcentre/convoke/pull/3) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
+2. 🎉 Merged PR [#2](https://github.com/clusterinnovationcentre/convoke/pull/2) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
 3. 🗣 Commented on [#2](https://github.com/clusterinnovationcentre/convoke/issues/2) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
 4. 🗣 Commented on [#2](https://github.com/clusterinnovationcentre/convoke/issues/2) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
-5. 🎉 Merged PR [#1](https://github.com/clusterinnovationcentre/hashhacks/pull/1) in [clusterinnovationcentre/hashhacks](https://github.com/clusterinnovationcentre/hashhacks)
+5. 🗣 Commented on [#2](https://github.com/clusterinnovationcentre/convoke/issues/2) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
 <!--END_SECTION:activity-->
 
 
