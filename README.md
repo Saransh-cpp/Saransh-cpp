@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1111](https://github.com/lululxvi/deepxde/issues/1111) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-2. 🗣 Commented on [#306](https://github.com/scikit-hep/vector/issues/306) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🎉 Merged PR [#27](https://github.com/Saransh-cpp/releaseup/pull/27) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+2. ❗️ Opened issue [#1111](https://github.com/lululxvi/deepxde/issues/1111) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
 3. 🗣 Commented on [#306](https://github.com/scikit-hep/vector/issues/306) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🎉 Merged PR [#11](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/11) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
-5. 🎉 Merged PR [#3](https://github.com/clusterinnovationcentre/convoke/pull/3) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
+4. 🗣 Commented on [#306](https://github.com/scikit-hep/vector/issues/306) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🎉 Merged PR [#11](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/11) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
 <!--END_SECTION:activity-->
 
 
