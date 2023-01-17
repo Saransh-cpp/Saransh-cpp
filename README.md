@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/Saransh-cpp/riemapp/pull/45) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-2. 🎉 Merged PR [#306](https://github.com/scikit-hep/vector/pull/306) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🗣 Commented on [#159](https://github.com/pre-commit-ci/issues/issues/159) in [pre-commit-ci/issues](https://github.com/pre-commit-ci/issues)
-4. ❗️ Opened issue [#159](https://github.com/pre-commit-ci/issues/issues/159) in [pre-commit-ci/issues](https://github.com/pre-commit-ci/issues)
-5. 🎉 Merged PR [#27](https://github.com/Saransh-cpp/releaseup/pull/27) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+1. 💪 Opened PR [#406](https://github.com/numfocus/gsoc/pull/406) in [numfocus/gsoc](https://github.com/numfocus/gsoc)
+2. 🎉 Merged PR [#45](https://github.com/Saransh-cpp/riemapp/pull/45) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+3. 🎉 Merged PR [#306](https://github.com/scikit-hep/vector/pull/306) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🗣 Commented on [#159](https://github.com/pre-commit-ci/issues/issues/159) in [pre-commit-ci/issues](https://github.com/pre-commit-ci/issues)
+5. ❗️ Opened issue [#159](https://github.com/pre-commit-ci/issues/issues/159) in [pre-commit-ci/issues](https://github.com/pre-commit-ci/issues)
 <!--END_SECTION:activity-->
 
 
