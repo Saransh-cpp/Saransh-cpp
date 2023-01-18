@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#406](https://github.com/numfocus/gsoc/pull/406) in [numfocus/gsoc](https://github.com/numfocus/gsoc)
-2. 🎉 Merged PR [#45](https://github.com/Saransh-cpp/riemapp/pull/45) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-3. 🎉 Merged PR [#306](https://github.com/scikit-hep/vector/pull/306) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#159](https://github.com/pre-commit-ci/issues/issues/159) in [pre-commit-ci/issues](https://github.com/pre-commit-ci/issues)
-5. ❗️ Opened issue [#159](https://github.com/pre-commit-ci/issues/issues/159) in [pre-commit-ci/issues](https://github.com/pre-commit-ci/issues)
+1. 🗣 Commented on [#1318](https://github.com/zarr-developers/zarr-python/issues/1318) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
+2. 💪 Opened PR [#406](https://github.com/numfocus/gsoc/pull/406) in [numfocus/gsoc](https://github.com/numfocus/gsoc)
+3. 🎉 Merged PR [#45](https://github.com/Saransh-cpp/riemapp/pull/45) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+4. 🎉 Merged PR [#306](https://github.com/scikit-hep/vector/pull/306) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#159](https://github.com/pre-commit-ci/issues/issues/159) in [pre-commit-ci/issues](https://github.com/pre-commit-ci/issues)
 <!--END_SECTION:activity-->
 
 
