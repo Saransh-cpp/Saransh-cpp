@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#309](https://github.com/scikit-hep/vector/issues/309) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🎉 Merged PR [#307](https://github.com/scikit-hep/vector/pull/307) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 💪 Opened PR [#216](https://github.com/pybamm-team/liionpack/pull/216) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-4. 🗣 Commented on [#215](https://github.com/pybamm-team/liionpack/issues/215) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-5. ❗️ Opened issue [#215](https://github.com/pybamm-team/liionpack/issues/215) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+1. ❗️ Closed issue [#309](https://github.com/scikit-hep/vector/issues/309) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🎉 Merged PR [#305](https://github.com/scikit-hep/vector/pull/305) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🗣 Commented on [#305](https://github.com/scikit-hep/vector/issues/305) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 💪 Opened PR [#1117](https://github.com/lululxvi/deepxde/pull/1117) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+5. ❗️ Opened issue [#309](https://github.com/scikit-hep/vector/issues/309) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
