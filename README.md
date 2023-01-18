@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#308](https://github.com/scikit-hep/vector/pull/308) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 💪 Opened PR [#308](https://github.com/scikit-hep/vector/pull/308) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🗣 Commented on [#1318](https://github.com/zarr-developers/zarr-python/issues/1318) in [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python)
-4. 💪 Opened PR [#406](https://github.com/numfocus/gsoc/pull/406) in [numfocus/gsoc](https://github.com/numfocus/gsoc)
-5. 🎉 Merged PR [#45](https://github.com/Saransh-cpp/riemapp/pull/45) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+1. 💪 Opened PR [#216](https://github.com/pybamm-team/liionpack/pull/216) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+2. 🗣 Commented on [#215](https://github.com/pybamm-team/liionpack/issues/215) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+3. ❗️ Opened issue [#215](https://github.com/pybamm-team/liionpack/issues/215) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+4. 🎉 Merged PR [#308](https://github.com/scikit-hep/vector/pull/308) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 💪 Opened PR [#308](https://github.com/scikit-hep/vector/pull/308) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
