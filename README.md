@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/clusterinnovationcentre/convoke/pull/5) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
-2. 🎉 Merged PR [#4](https://github.com/clusterinnovationcentre/convoke/pull/4) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
-3. 🎉 Merged PR [#310](https://github.com/scikit-hep/vector/pull/310) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🎉 Merged PR [#99](https://github.com/Saransh-cpp/OCRed/pull/99) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 💪 Opened PR [#2614](https://github.com/pybamm-team/PyBaMM/pull/2614) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🗣 Commented on [#2630](https://github.com/pybamm-team/PyBaMM/issues/2630) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 💪 Opened PR [#2630](https://github.com/pybamm-team/PyBaMM/pull/2630) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🎉 Merged PR [#5](https://github.com/clusterinnovationcentre/convoke/pull/5) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
+4. 🎉 Merged PR [#4](https://github.com/clusterinnovationcentre/convoke/pull/4) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
+5. 🎉 Merged PR [#310](https://github.com/scikit-hep/vector/pull/310) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
