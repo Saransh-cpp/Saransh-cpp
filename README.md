@@ -72,10 +72,10 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/clusterinnovationcentre/hashhacks/pull/2) in [clusterinnovationcentre/hashhacks](https://github.com/clusterinnovationcentre/hashhacks)
-2. 🎉 Merged PR [#6](https://github.com/clusterinnovationcentre/convoke/pull/6) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
-3. 🗣 Commented on [#1122](https://github.com/lululxvi/deepxde/issues/1122) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-4. 🗣 Commented on [#2630](https://github.com/pybamm-team/PyBaMM/issues/2630) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🗣 Commented on [#1122](https://github.com/lululxvi/deepxde/issues/1122) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+2. 🎉 Merged PR [#2](https://github.com/clusterinnovationcentre/hashhacks/pull/2) in [clusterinnovationcentre/hashhacks](https://github.com/clusterinnovationcentre/hashhacks)
+3. 🎉 Merged PR [#6](https://github.com/clusterinnovationcentre/convoke/pull/6) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
+4. 🗣 Commented on [#1122](https://github.com/lululxvi/deepxde/issues/1122) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
 5. 🗣 Commented on [#2630](https://github.com/pybamm-team/PyBaMM/issues/2630) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
