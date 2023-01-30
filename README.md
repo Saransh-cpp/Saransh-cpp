@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1122](https://github.com/lululxvi/deepxde/issues/1122) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+1. 🗣 Commented on [#1117](https://github.com/lululxvi/deepxde/issues/1117) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
 2. 🗣 Commented on [#1122](https://github.com/lululxvi/deepxde/issues/1122) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
 3. 🗣 Commented on [#1122](https://github.com/lululxvi/deepxde/issues/1122) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-4. 🎉 Merged PR [#2](https://github.com/clusterinnovationcentre/hashhacks/pull/2) in [clusterinnovationcentre/hashhacks](https://github.com/clusterinnovationcentre/hashhacks)
-5. 🎉 Merged PR [#6](https://github.com/clusterinnovationcentre/convoke/pull/6) in [clusterinnovationcentre/convoke](https://github.com/clusterinnovationcentre/convoke)
+4. 🗣 Commented on [#1122](https://github.com/lululxvi/deepxde/issues/1122) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+5. 🎉 Merged PR [#2](https://github.com/clusterinnovationcentre/hashhacks/pull/2) in [clusterinnovationcentre/hashhacks](https://github.com/clusterinnovationcentre/hashhacks)
 <!--END_SECTION:activity-->
 
 
