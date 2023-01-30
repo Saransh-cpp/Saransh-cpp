@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1117](https://github.com/lululxvi/deepxde/issues/1117) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-2. 🗣 Commented on [#156](https://github.com/FluxML/fluxml.github.io/issues/156) in [FluxML/fluxml.github.io](https://github.com/FluxML/fluxml.github.io)
-3. 🗣 Commented on [#1117](https://github.com/lululxvi/deepxde/issues/1117) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-4. 🗣 Commented on [#1122](https://github.com/lululxvi/deepxde/issues/1122) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-5. 🗣 Commented on [#1122](https://github.com/lululxvi/deepxde/issues/1122) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+1. 🎉 Merged PR [#100](https://github.com/Saransh-cpp/OCRed/pull/100) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. 🎉 Merged PR [#46](https://github.com/Saransh-cpp/riemapp/pull/46) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+3. 🎉 Merged PR [#28](https://github.com/Saransh-cpp/releaseup/pull/28) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+4. 🎉 Merged PR [#12](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/12) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
+5. 🗣 Commented on [#1117](https://github.com/lululxvi/deepxde/issues/1117) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
 <!--END_SECTION:activity-->
 
 
