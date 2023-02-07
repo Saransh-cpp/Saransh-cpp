@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/Saransh-cpp/OCRed/pull/101) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 🎉 Merged PR [#47](https://github.com/Saransh-cpp/riemapp/pull/47) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-3. 🎉 Merged PR [#29](https://github.com/Saransh-cpp/releaseup/pull/29) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-4. 🗣 Commented on [#2660](https://github.com/pybamm-team/PyBaMM/issues/2660) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. ❗️ Opened issue [#2660](https://github.com/pybamm-team/PyBaMM/issues/2660) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🎉 Merged PR [#312](https://github.com/scikit-hep/vector/pull/312) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🎉 Merged PR [#101](https://github.com/Saransh-cpp/OCRed/pull/101) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+3. 🎉 Merged PR [#47](https://github.com/Saransh-cpp/riemapp/pull/47) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+4. 🎉 Merged PR [#29](https://github.com/Saransh-cpp/releaseup/pull/29) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+5. 🗣 Commented on [#2660](https://github.com/pybamm-team/PyBaMM/issues/2660) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
 
