@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1142](https://github.com/lululxvi/deepxde/pull/1142) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-2. 🗣 Commented on [#2368](https://github.com/pybamm-team/PyBaMM/issues/2368) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🎉 Merged PR [#102](https://github.com/Saransh-cpp/OCRed/pull/102) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-4. 🎉 Merged PR [#30](https://github.com/Saransh-cpp/releaseup/pull/30) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-5. 🎉 Merged PR [#48](https://github.com/Saransh-cpp/riemapp/pull/48) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+1. 🗣 Commented on [#231](https://github.com/scikit-hep/vector/issues/231) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 💪 Opened PR [#1142](https://github.com/lululxvi/deepxde/pull/1142) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+3. 🗣 Commented on [#2368](https://github.com/pybamm-team/PyBaMM/issues/2368) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🎉 Merged PR [#102](https://github.com/Saransh-cpp/OCRed/pull/102) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 🎉 Merged PR [#30](https://github.com/Saransh-cpp/releaseup/pull/30) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
 <!--END_SECTION:activity-->
 
 
