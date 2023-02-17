@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/scikit-hep/vector/issues/231) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 💪 Opened PR [#1142](https://github.com/lululxvi/deepxde/pull/1142) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-3. 🗣 Commented on [#2368](https://github.com/pybamm-team/PyBaMM/issues/2368) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🎉 Merged PR [#102](https://github.com/Saransh-cpp/OCRed/pull/102) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🎉 Merged PR [#30](https://github.com/Saransh-cpp/releaseup/pull/30) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+1. 🎉 Merged PR [#314](https://github.com/scikit-hep/vector/pull/314) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 💪 Opened PR [#314](https://github.com/scikit-hep/vector/pull/314) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🗣 Commented on [#231](https://github.com/scikit-hep/vector/issues/231) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 💪 Opened PR [#1142](https://github.com/lululxvi/deepxde/pull/1142) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+5. 🗣 Commented on [#2368](https://github.com/pybamm-team/PyBaMM/issues/2368) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
 
