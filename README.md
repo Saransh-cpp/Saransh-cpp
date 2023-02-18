@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2039](https://github.com/sktime/sktime/pull/2039) in [sktime/sktime](https://github.com/sktime/sktime)
-2. 🗣 Commented on [#2039](https://github.com/sktime/sktime/issues/2039) in [sktime/sktime](https://github.com/sktime/sktime)
-3. ❌ Closed PR [#266](https://github.com/runtimeverification/javamop/pull/266) in [runtimeverification/javamop](https://github.com/runtimeverification/javamop)
-4. 🗣 Commented on [#266](https://github.com/runtimeverification/javamop/issues/266) in [runtimeverification/javamop](https://github.com/runtimeverification/javamop)
-5. ❗️ Opened issue [#317](https://github.com/scikit-hep/vector/issues/317) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. ❗️ Opened issue [#1148](https://github.com/lululxvi/deepxde/issues/1148) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+2. ❌ Closed PR [#2039](https://github.com/sktime/sktime/pull/2039) in [sktime/sktime](https://github.com/sktime/sktime)
+3. 🗣 Commented on [#2039](https://github.com/sktime/sktime/issues/2039) in [sktime/sktime](https://github.com/sktime/sktime)
+4. ❌ Closed PR [#266](https://github.com/runtimeverification/javamop/pull/266) in [runtimeverification/javamop](https://github.com/runtimeverification/javamop)
+5. 🗣 Commented on [#266](https://github.com/runtimeverification/javamop/issues/266) in [runtimeverification/javamop](https://github.com/runtimeverification/javamop)
 <!--END_SECTION:activity-->
 
 
