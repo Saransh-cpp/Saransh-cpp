@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#317](https://github.com/scikit-hep/vector/issues/317) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🗣 Commented on [#315](https://github.com/scikit-hep/vector/issues/315) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🎉 Merged PR [#316](https://github.com/scikit-hep/vector/pull/316) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 💪 Opened PR [#316](https://github.com/scikit-hep/vector/pull/316) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🎉 Merged PR [#314](https://github.com/scikit-hep/vector/pull/314) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. ❌ Closed PR [#2039](https://github.com/sktime/sktime/pull/2039) in [sktime/sktime](https://github.com/sktime/sktime)
+2. 🗣 Commented on [#2039](https://github.com/sktime/sktime/issues/2039) in [sktime/sktime](https://github.com/sktime/sktime)
+3. ❌ Closed PR [#266](https://github.com/runtimeverification/javamop/pull/266) in [runtimeverification/javamop](https://github.com/runtimeverification/javamop)
+4. 🗣 Commented on [#266](https://github.com/runtimeverification/javamop/issues/266) in [runtimeverification/javamop](https://github.com/runtimeverification/javamop)
+5. ❗️ Opened issue [#317](https://github.com/scikit-hep/vector/issues/317) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
