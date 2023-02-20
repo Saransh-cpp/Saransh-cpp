@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Saransh-cpp/releaseup/pull/31) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-2. 🎉 Merged PR [#13](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/13) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
-3. 🗣 Commented on [#2706](https://github.com/pybamm-team/PyBaMM/issues/2706) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🗣 Commented on [#1926](https://github.com/pybamm-team/PyBaMM/issues/1926) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. 🗣 Commented on [#2253](https://github.com/pybamm-team/PyBaMM/issues/2253) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🎉 Merged PR [#50](https://github.com/Saransh-cpp/riemapp/pull/50) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+2. 💪 Opened PR [#50](https://github.com/Saransh-cpp/riemapp/pull/50) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+3. 🎉 Merged PR [#103](https://github.com/Saransh-cpp/OCRed/pull/103) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. 🎉 Merged PR [#31](https://github.com/Saransh-cpp/releaseup/pull/31) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+5. 🎉 Merged PR [#13](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/13) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
 <!--END_SECTION:activity-->
 
 
