@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#317](https://github.com/scikit-hep/vector/issues/317) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. ❗️ Closed issue [#276](https://github.com/scikit-hep/vector/issues/276) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🎉 Merged PR [#319](https://github.com/scikit-hep/vector/pull/319) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🗣 Commented on [#319](https://github.com/scikit-hep/vector/issues/319) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🎉 Merged PR [#321](https://github.com/scikit-hep/vector/pull/321) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. ❗️ Opened issue [#2728](https://github.com/pybamm-team/PyBaMM/issues/2728) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. ❗️ Closed issue [#317](https://github.com/scikit-hep/vector/issues/317) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. ❗️ Closed issue [#276](https://github.com/scikit-hep/vector/issues/276) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🎉 Merged PR [#319](https://github.com/scikit-hep/vector/pull/319) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🗣 Commented on [#319](https://github.com/scikit-hep/vector/issues/319) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
