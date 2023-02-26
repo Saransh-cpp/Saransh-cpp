@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1148](https://github.com/lululxvi/deepxde/issues/1148) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-2. 🗣 Commented on [#1148](https://github.com/lululxvi/deepxde/issues/1148) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-3. 🗣 Commented on [#2729](https://github.com/pybamm-team/PyBaMM/issues/2729) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🗣 Commented on [#1926](https://github.com/pybamm-team/PyBaMM/issues/1926) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. ❗️ Opened issue [#2728](https://github.com/pybamm-team/PyBaMM/issues/2728) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🗣 Commented on [#2729](https://github.com/pybamm-team/PyBaMM/issues/2729) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. ❗️ Closed issue [#1148](https://github.com/lululxvi/deepxde/issues/1148) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+3. 🗣 Commented on [#1148](https://github.com/lululxvi/deepxde/issues/1148) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+4. 🗣 Commented on [#2729](https://github.com/pybamm-team/PyBaMM/issues/2729) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 🗣 Commented on [#1926](https://github.com/pybamm-team/PyBaMM/issues/1926) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
 
