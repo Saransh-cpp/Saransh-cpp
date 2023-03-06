@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#904](https://github.com/sosy-lab/benchexec/pull/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-2. 🗣 Commented on [#904](https://github.com/sosy-lab/benchexec/issues/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+1. 💪 Opened PR [#57](https://github.com/hsf-training/hsf-training-cicd-github/pull/57) in [hsf-training/hsf-training-cicd-github](https://github.com/hsf-training/hsf-training-cicd-github)
+2. ❌ Closed PR [#904](https://github.com/sosy-lab/benchexec/pull/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
 3. 🗣 Commented on [#904](https://github.com/sosy-lab/benchexec/issues/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-4. 💪 Opened PR [#904](https://github.com/sosy-lab/benchexec/pull/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-5. 💪 Opened PR [#1173](https://github.com/lululxvi/deepxde/pull/1173) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+4. 🗣 Commented on [#904](https://github.com/sosy-lab/benchexec/issues/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+5. 💪 Opened PR [#904](https://github.com/sosy-lab/benchexec/pull/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
 <!--END_SECTION:activity-->
 
 
