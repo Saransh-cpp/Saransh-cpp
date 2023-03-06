@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#904](https://github.com/sosy-lab/benchexec/issues/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-2. 💪 Opened PR [#904](https://github.com/sosy-lab/benchexec/pull/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-3. 💪 Opened PR [#1173](https://github.com/lululxvi/deepxde/pull/1173) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-4. 🗣 Commented on [#2729](https://github.com/pybamm-team/PyBaMM/issues/2729) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. 🎉 Merged PR [#322](https://github.com/scikit-hep/vector/pull/322) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. ❌ Closed PR [#904](https://github.com/sosy-lab/benchexec/pull/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+2. 🗣 Commented on [#904](https://github.com/sosy-lab/benchexec/issues/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+3. 🗣 Commented on [#904](https://github.com/sosy-lab/benchexec/issues/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+4. 💪 Opened PR [#904](https://github.com/sosy-lab/benchexec/pull/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+5. 💪 Opened PR [#1173](https://github.com/lululxvi/deepxde/pull/1173) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
 <!--END_SECTION:activity-->
 
 
