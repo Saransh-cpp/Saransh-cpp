@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](https://github.com/hsf-training/hsf-training-cicd-github/pull/58) in [hsf-training/hsf-training-cicd-github](https://github.com/hsf-training/hsf-training-cicd-github)
-2. 💪 Opened PR [#57](https://github.com/hsf-training/hsf-training-cicd-github/pull/57) in [hsf-training/hsf-training-cicd-github](https://github.com/hsf-training/hsf-training-cicd-github)
-3. ❌ Closed PR [#904](https://github.com/sosy-lab/benchexec/pull/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-4. 🗣 Commented on [#904](https://github.com/sosy-lab/benchexec/issues/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-5. 🗣 Commented on [#904](https://github.com/sosy-lab/benchexec/issues/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+1. 💪 Opened PR [#905](https://github.com/sosy-lab/benchexec/pull/905) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+2. 💪 Opened PR [#42](https://github.com/hsf-training/hsf-training-cicd/pull/42) in [hsf-training/hsf-training-cicd](https://github.com/hsf-training/hsf-training-cicd)
+3. 💪 Opened PR [#58](https://github.com/hsf-training/hsf-training-cicd-github/pull/58) in [hsf-training/hsf-training-cicd-github](https://github.com/hsf-training/hsf-training-cicd-github)
+4. 💪 Opened PR [#57](https://github.com/hsf-training/hsf-training-cicd-github/pull/57) in [hsf-training/hsf-training-cicd-github](https://github.com/hsf-training/hsf-training-cicd-github)
+5. ❌ Closed PR [#904](https://github.com/sosy-lab/benchexec/pull/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
 <!--END_SECTION:activity-->
 
 
