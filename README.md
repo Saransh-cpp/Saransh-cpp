@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#905](https://github.com/sosy-lab/benchexec/pull/905) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-2. 💪 Opened PR [#42](https://github.com/hsf-training/hsf-training-cicd/pull/42) in [hsf-training/hsf-training-cicd](https://github.com/hsf-training/hsf-training-cicd)
-3. 💪 Opened PR [#58](https://github.com/hsf-training/hsf-training-cicd-github/pull/58) in [hsf-training/hsf-training-cicd-github](https://github.com/hsf-training/hsf-training-cicd-github)
-4. 💪 Opened PR [#57](https://github.com/hsf-training/hsf-training-cicd-github/pull/57) in [hsf-training/hsf-training-cicd-github](https://github.com/hsf-training/hsf-training-cicd-github)
-5. ❌ Closed PR [#904](https://github.com/sosy-lab/benchexec/pull/904) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+1. 🎉 Merged PR [#105](https://github.com/Saransh-cpp/OCRed/pull/105) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. 🎉 Merged PR [#32](https://github.com/Saransh-cpp/releaseup/pull/32) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+3. 🎉 Merged PR [#51](https://github.com/Saransh-cpp/riemapp/pull/51) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+4. 🎉 Merged PR [#323](https://github.com/scikit-hep/vector/pull/323) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 💪 Opened PR [#905](https://github.com/sosy-lab/benchexec/pull/905) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
 <!--END_SECTION:activity-->
 
 
