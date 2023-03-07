@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#105](https://github.com/Saransh-cpp/OCRed/pull/105) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-2. 🎉 Merged PR [#32](https://github.com/Saransh-cpp/releaseup/pull/32) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-3. 🎉 Merged PR [#51](https://github.com/Saransh-cpp/riemapp/pull/51) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-4. 🎉 Merged PR [#323](https://github.com/scikit-hep/vector/pull/323) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 💪 Opened PR [#905](https://github.com/sosy-lab/benchexec/pull/905) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
+1. 🗣 Commented on [#2734](https://github.com/pybamm-team/PyBaMM/issues/2734) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. ❗️ Opened issue [#231](https://github.com/pybamm-team/liionpack/issues/231) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+3. ❗️ Opened issue [#230](https://github.com/pybamm-team/liionpack/issues/230) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+4. 💪 Opened PR [#229](https://github.com/pybamm-team/liionpack/pull/229) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+5. 🎉 Merged PR [#105](https://github.com/Saransh-cpp/OCRed/pull/105) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
