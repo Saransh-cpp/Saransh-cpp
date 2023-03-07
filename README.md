@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2457](https://github.com/pybamm-team/PyBaMM/issues/2457) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 🗣 Commented on [#2747](https://github.com/pybamm-team/PyBaMM/issues/2747) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#905](https://github.com/sosy-lab/benchexec/issues/905) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-4. 🗣 Commented on [#905](https://github.com/sosy-lab/benchexec/issues/905) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
-5. 🗣 Commented on [#229](https://github.com/pybamm-team/liionpack/issues/229) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+1. 💪 Opened PR [#232](https://github.com/pybamm-team/liionpack/pull/232) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+2. 🗣 Commented on [#58](https://github.com/hsf-training/hsf-training-cicd-github/issues/58) in [hsf-training/hsf-training-cicd-github](https://github.com/hsf-training/hsf-training-cicd-github)
+3. 🗣 Commented on [#2457](https://github.com/pybamm-team/PyBaMM/issues/2457) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🗣 Commented on [#2747](https://github.com/pybamm-team/PyBaMM/issues/2747) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 🗣 Commented on [#905](https://github.com/sosy-lab/benchexec/issues/905) in [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec)
 <!--END_SECTION:activity-->
 
 
