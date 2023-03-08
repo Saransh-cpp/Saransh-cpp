@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1176](https://github.com/lululxvi/deepxde/pull/1176) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-2. 🗣 Commented on [#232](https://github.com/pybamm-team/liionpack/issues/232) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-3. 💪 Opened PR [#43](https://github.com/hsf-training/hsf-training-cicd/pull/43) in [hsf-training/hsf-training-cicd](https://github.com/hsf-training/hsf-training-cicd)
-4. 💪 Opened PR [#232](https://github.com/pybamm-team/liionpack/pull/232) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-5. 🗣 Commented on [#58](https://github.com/hsf-training/hsf-training-cicd-github/issues/58) in [hsf-training/hsf-training-cicd-github](https://github.com/hsf-training/hsf-training-cicd-github)
+1. 🗣 Commented on [#2734](https://github.com/pybamm-team/PyBaMM/issues/2734) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 💪 Opened PR [#1176](https://github.com/lululxvi/deepxde/pull/1176) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+3. 🗣 Commented on [#232](https://github.com/pybamm-team/liionpack/issues/232) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+4. 💪 Opened PR [#43](https://github.com/hsf-training/hsf-training-cicd/pull/43) in [hsf-training/hsf-training-cicd](https://github.com/hsf-training/hsf-training-cicd)
+5. 💪 Opened PR [#232](https://github.com/pybamm-team/liionpack/pull/232) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
 <!--END_SECTION:activity-->
 
 
