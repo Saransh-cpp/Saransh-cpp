@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1926](https://github.com/pybamm-team/PyBaMM/issues/1926) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 🗣 Commented on [#2734](https://github.com/pybamm-team/PyBaMM/issues/2734) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 💪 Opened PR [#1176](https://github.com/lululxvi/deepxde/pull/1176) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-4. 🗣 Commented on [#232](https://github.com/pybamm-team/liionpack/issues/232) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-5. 💪 Opened PR [#43](https://github.com/hsf-training/hsf-training-cicd/pull/43) in [hsf-training/hsf-training-cicd](https://github.com/hsf-training/hsf-training-cicd)
+1. 🎉 Merged PR [#33](https://github.com/Saransh-cpp/releaseup/pull/33) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+2. 🗣 Commented on [#1926](https://github.com/pybamm-team/PyBaMM/issues/1926) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🗣 Commented on [#2734](https://github.com/pybamm-team/PyBaMM/issues/2734) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 💪 Opened PR [#1176](https://github.com/lululxvi/deepxde/pull/1176) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+5. 🗣 Commented on [#232](https://github.com/pybamm-team/liionpack/issues/232) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
 <!--END_SECTION:activity-->
 
 
