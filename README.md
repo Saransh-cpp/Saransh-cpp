@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#327](https://github.com/scikit-hep/vector/pull/327) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 🎉 Merged PR [#108](https://github.com/Saransh-cpp/OCRed/pull/108) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. 🗣 Commented on [#62](https://github.com/osl-incubator/cookiecutter-python/issues/62) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
-4. ❗️ Opened issue [#66](https://github.com/osl-incubator/cookiecutter-python/issues/66) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
-5. 🗣 Commented on [#65](https://github.com/osl-incubator/cookiecutter-python/issues/65) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
+1. 🗣 Commented on [#43](https://github.com/hsf-training/hsf-training-cicd/issues/43) in [hsf-training/hsf-training-cicd](https://github.com/hsf-training/hsf-training-cicd)
+2. 🎉 Merged PR [#35](https://github.com/Saransh-cpp/releaseup/pull/35) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+3. 💪 Opened PR [#2786](https://github.com/pybamm-team/PyBaMM/pull/2786) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🎉 Merged PR [#327](https://github.com/scikit-hep/vector/pull/327) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🎉 Merged PR [#108](https://github.com/Saransh-cpp/OCRed/pull/108) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
