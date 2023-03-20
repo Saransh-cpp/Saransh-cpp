@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#62](https://github.com/osl-incubator/cookiecutter-python/issues/62) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
-2. 🗣 Commented on [#66](https://github.com/osl-incubator/cookiecutter-python/issues/66) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
-3. 🗣 Commented on [#43](https://github.com/hsf-training/hsf-training-cicd/issues/43) in [hsf-training/hsf-training-cicd](https://github.com/hsf-training/hsf-training-cicd)
-4. 🎉 Merged PR [#35](https://github.com/Saransh-cpp/releaseup/pull/35) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-5. 💪 Opened PR [#2786](https://github.com/pybamm-team/PyBaMM/pull/2786) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🗣 Commented on [#2784](https://github.com/pybamm-team/PyBaMM/issues/2784) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 🗣 Commented on [#62](https://github.com/osl-incubator/cookiecutter-python/issues/62) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
+3. 🗣 Commented on [#66](https://github.com/osl-incubator/cookiecutter-python/issues/66) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
+4. 🗣 Commented on [#43](https://github.com/hsf-training/hsf-training-cicd/issues/43) in [hsf-training/hsf-training-cicd](https://github.com/hsf-training/hsf-training-cicd)
+5. 🎉 Merged PR [#35](https://github.com/Saransh-cpp/releaseup/pull/35) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
 <!--END_SECTION:activity-->
 
 
