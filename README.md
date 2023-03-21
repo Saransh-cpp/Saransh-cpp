@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/Saransh-cpp/riemapp/pull/54) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-2. 🗣 Commented on [#2784](https://github.com/pybamm-team/PyBaMM/issues/2784) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#62](https://github.com/osl-incubator/cookiecutter-python/issues/62) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
-4. 🗣 Commented on [#66](https://github.com/osl-incubator/cookiecutter-python/issues/66) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
-5. 🗣 Commented on [#43](https://github.com/hsf-training/hsf-training-cicd/issues/43) in [hsf-training/hsf-training-cicd](https://github.com/hsf-training/hsf-training-cicd)
+1. 🎉 Merged PR [#14](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/14) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
+2. 🎉 Merged PR [#328](https://github.com/scikit-hep/vector/pull/328) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🎉 Merged PR [#54](https://github.com/Saransh-cpp/riemapp/pull/54) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+4. 🗣 Commented on [#2784](https://github.com/pybamm-team/PyBaMM/issues/2784) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 🗣 Commented on [#62](https://github.com/osl-incubator/cookiecutter-python/issues/62) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
 <!--END_SECTION:activity-->
 
 
