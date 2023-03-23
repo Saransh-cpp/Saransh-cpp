@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2074](https://github.com/FluxML/Flux.jl/issues/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-2. 🗣 Commented on [#2219](https://github.com/FluxML/Flux.jl/issues/2219) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-3. ❌ Closed PR [#2074](https://github.com/FluxML/Flux.jl/pull/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. 🗣 Commented on [#2074](https://github.com/FluxML/Flux.jl/issues/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. ❌ Closed PR [#17](https://github.com/akshansh2000/learn_ar_flutter/pull/17) in [akshansh2000/learn_ar_flutter](https://github.com/akshansh2000/learn_ar_flutter)
+1. 🎉 Merged PR [#329](https://github.com/scikit-hep/vector/pull/329) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#2074](https://github.com/FluxML/Flux.jl/issues/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+3. 🗣 Commented on [#2219](https://github.com/FluxML/Flux.jl/issues/2219) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. ❌ Closed PR [#2074](https://github.com/FluxML/Flux.jl/pull/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+5. 🗣 Commented on [#2074](https://github.com/FluxML/Flux.jl/issues/2074) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
