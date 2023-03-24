@@ -2,7 +2,12 @@
 
 (A better place to read about me and my open-source work is - https://saransh-cpp.github.io/)
 
-I am an engineering undegrad at the Cluster Innovation Center, University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work towards my academic skills and professional commitments, and by night, I develop and maintain open-source research software, which I believe are the key to collaborative and reproducible research.
+I am an engineering junior at the University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work on my academic skills and professional commitments, and by night, I develop and maintain Open-Source Research/Scientific Software, which I believe are the key to collaborative and reproducible research.
+
+I am broadly interested in Research Software Engineering, Scientific Computation, Scientific Machine Learning, DevOps, Open-Source, and Open-Science. I also possess a Software Engineering background, with the majority of it concentrated in the fields of Android and Backend development. I also developing some taste for pure Software Engineering research (runtime verification, new testing methods, etc) and Theory of Computation.
+
+I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software.
+
 
 <div align="center">
  
@@ -16,13 +21,13 @@ I am an engineering undegrad at the Cluster Innovation Center, University of Del
  
 <!-- [![GitHub Saransh-cpp](https://img.shields.io/github/followers/Saransh-cpp?label=follow&style=social)](https://github.com/Saransh-cpp) -->
 
-- 🛰️ I was a Technical Writer at [FluxML](https://fluxml.ai/) under [Julia Season of Contributions](https://julialang.org/jsoc/)!
+<!-- - 🛰️ I was a Technical Writer at [FluxML](https://fluxml.ai/) under [Julia Season of Contributions](https://julialang.org/jsoc/)!
 
 - 🛰️ I was an [IRIS-HEP (Institute for Research and Innovation in Software for High Energy Physics)](https://iris-hep.org/) [fellow](https://iris-hep.org/fellows.html), and my work revolved around [Scikit-HEP/vector](https://github.com/scikit-hep/vector)!
 
 - :battery: I was a [Google Summer of Code 2021](https://summerofcode.withgoogle.com/projects/#5045812318437376) student at [PyBaMM](https://github.com/pybamm-team), [NumFOCUS](https://github.com/numfocus).
 
-- :octocat: I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software.
+- :octocat: I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software. -->
 
 <!-- - :octocat: I try my best to contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/) regularly. -->
 
