@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2810](https://github.com/pybamm-team/PyBaMM/issues/2810) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. ❗️ Opened issue [#69](https://github.com/osl-incubator/cookiecutter-python/issues/69) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
-3. 🗣 Commented on [#2219](https://github.com/FluxML/Flux.jl/issues/2219) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-4. 🗣 Commented on [#65](https://github.com/osl-incubator/cookiecutter-python/issues/65) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
-5. 🎉 Merged PR [#109](https://github.com/Saransh-cpp/OCRed/pull/109) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/deepxde/pull/1) in [Saransh-cpp/deepxde](https://github.com/Saransh-cpp/deepxde)
+2. 💪 Opened PR [#1](https://github.com/Saransh-cpp/deepxde/pull/1) in [Saransh-cpp/deepxde](https://github.com/Saransh-cpp/deepxde)
+3. 🗣 Commented on [#2810](https://github.com/pybamm-team/PyBaMM/issues/2810) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. ❗️ Opened issue [#69](https://github.com/osl-incubator/cookiecutter-python/issues/69) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
+5. 🗣 Commented on [#2219](https://github.com/FluxML/Flux.jl/issues/2219) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
