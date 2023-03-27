@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1209](https://github.com/lululxvi/deepxde/pull/1209) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-2. 🎉 Merged PR [#55](https://github.com/Saransh-cpp/riemapp/pull/55) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-3. 🗣 Commented on [#2813](https://github.com/pybamm-team/PyBaMM/issues/2813) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🎉 Merged PR [#36](https://github.com/Saransh-cpp/releaseup/pull/36) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-5. 🎉 Merged PR [#1](https://github.com/Saransh-cpp/deepxde/pull/1) in [Saransh-cpp/deepxde](https://github.com/Saransh-cpp/deepxde)
+1. 🗣 Commented on [#1209](https://github.com/lululxvi/deepxde/issues/1209) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+2. 💪 Opened PR [#1209](https://github.com/lululxvi/deepxde/pull/1209) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+3. 🎉 Merged PR [#55](https://github.com/Saransh-cpp/riemapp/pull/55) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+4. 🗣 Commented on [#2813](https://github.com/pybamm-team/PyBaMM/issues/2813) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 🎉 Merged PR [#36](https://github.com/Saransh-cpp/releaseup/pull/36) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
 <!--END_SECTION:activity-->
 
 
