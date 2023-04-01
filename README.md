@@ -78,10 +78,10 @@ Here are some ideas to get you started:
 ## Recent activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#229](https://github.com/pybamm-team/liionpack/issues/229) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-2. 🗣 Commented on [#232](https://github.com/pybamm-team/liionpack/issues/232) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-3. 💪 Opened PR [#1223](https://github.com/lululxvi/deepxde/pull/1223) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-4. 🗣 Commented on [#1176](https://github.com/lululxvi/deepxde/issues/1176) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-5. 🗣 Commented on [#2717](https://github.com/pybamm-team/PyBaMM/issues/2717) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 🗣 Commented on [#229](https://github.com/pybamm-team/liionpack/issues/229) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+3. 🗣 Commented on [#232](https://github.com/pybamm-team/liionpack/issues/232) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+4. 💪 Opened PR [#1223](https://github.com/lululxvi/deepxde/pull/1223) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+5. 🗣 Commented on [#1176](https://github.com/lululxvi/deepxde/issues/1176) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
 <!--END_SECTION:activity-->
 
 
