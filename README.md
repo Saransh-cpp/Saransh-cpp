@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2755](https://github.com/pybamm-team/PyBaMM/pull/2755) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 🗣 Commented on [#2755](https://github.com/pybamm-team/PyBaMM/issues/2755) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#229](https://github.com/pybamm-team/liionpack/issues/229) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+1. 🎉 Merged PR [#331](https://github.com/scikit-hep/vector/pull/331) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. ❌ Closed PR [#2755](https://github.com/pybamm-team/PyBaMM/pull/2755) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🗣 Commented on [#2755](https://github.com/pybamm-team/PyBaMM/issues/2755) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 4. 🗣 Commented on [#229](https://github.com/pybamm-team/liionpack/issues/229) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
-5. 🗣 Commented on [#232](https://github.com/pybamm-team/liionpack/issues/232) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
+5. 🗣 Commented on [#229](https://github.com/pybamm-team/liionpack/issues/229) in [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack)
 <!--END_SECTION:activity-->
 
 
