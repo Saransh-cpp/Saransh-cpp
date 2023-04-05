@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/osl-incubator/cookiecutter-python/issues/51) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
-2. 🎉 Merged PR [#332](https://github.com/scikit-hep/vector/pull/332) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-3. 🎉 Merged PR [#333](https://github.com/scikit-hep/vector/pull/333) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 🎉 Merged PR [#111](https://github.com/Saransh-cpp/OCRed/pull/111) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🎉 Merged PR [#110](https://github.com/Saransh-cpp/OCRed/pull/110) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+1. 🗣 Commented on [#2725](https://github.com/pybamm-team/PyBaMM/issues/2725) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 🗣 Commented on [#51](https://github.com/osl-incubator/cookiecutter-python/issues/51) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
+3. 🎉 Merged PR [#332](https://github.com/scikit-hep/vector/pull/332) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+4. 🎉 Merged PR [#333](https://github.com/scikit-hep/vector/pull/333) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 🎉 Merged PR [#111](https://github.com/Saransh-cpp/OCRed/pull/111) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
