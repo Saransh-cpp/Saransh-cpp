@@ -78,10 +78,10 @@ Here are some ideas to get you started:
 ## Recent activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2435](https://github.com/pybamm-team/PyBaMM/issues/2435) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 🗣 Commented on [#2725](https://github.com/pybamm-team/PyBaMM/issues/2725) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#51](https://github.com/osl-incubator/cookiecutter-python/issues/51) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
-4. 🎉 Merged PR [#332](https://github.com/scikit-hep/vector/pull/332) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🎉 Merged PR [#333](https://github.com/scikit-hep/vector/pull/333) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. ❗️ Closed issue [#2346](https://github.com/pybamm-team/PyBaMM/issues/2346) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🗣 Commented on [#2435](https://github.com/pybamm-team/PyBaMM/issues/2435) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🗣 Commented on [#2725](https://github.com/pybamm-team/PyBaMM/issues/2725) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 🗣 Commented on [#51](https://github.com/osl-incubator/cookiecutter-python/issues/51) in [osl-incubator/cookiecutter-python](https://github.com/osl-incubator/cookiecutter-python)
 <!--END_SECTION:activity-->
 
 
