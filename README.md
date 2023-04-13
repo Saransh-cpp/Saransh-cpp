@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#834](https://github.com/pypa/setuptools_scm/issues/834) in [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm)
-2. ❗️ Closed issue [#834](https://github.com/pypa/setuptools_scm/issues/834) in [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm)
-3. 🗣 Commented on [#1223](https://github.com/lululxvi/deepxde/issues/1223) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-4. 🗣 Commented on [#2784](https://github.com/pybamm-team/PyBaMM/issues/2784) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. 🗣 Commented on [#65](https://github.com/conda-forge/deepxde-feedstock/issues/65) in [conda-forge/deepxde-feedstock](https://github.com/conda-forge/deepxde-feedstock)
+1. ❗️ Closed issue [#1111](https://github.com/lululxvi/deepxde/issues/1111) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+2. 🗣 Commented on [#1111](https://github.com/lululxvi/deepxde/issues/1111) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+3. ❗️ Opened issue [#1244](https://github.com/lululxvi/deepxde/issues/1244) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+4. 🗣 Commented on [#834](https://github.com/pypa/setuptools_scm/issues/834) in [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm)
+5. ❗️ Closed issue [#834](https://github.com/pypa/setuptools_scm/issues/834) in [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm)
 <!--END_SECTION:activity-->
 
 
