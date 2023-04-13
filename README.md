@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2784](https://github.com/pybamm-team/PyBaMM/issues/2784) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 🗣 Commented on [#65](https://github.com/conda-forge/deepxde-feedstock/issues/65) in [conda-forge/deepxde-feedstock](https://github.com/conda-forge/deepxde-feedstock)
-3. ❗️ Opened issue [#834](https://github.com/pypa/setuptools_scm/issues/834) in [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm)
-4. 🎉 Merged PR [#113](https://github.com/Saransh-cpp/OCRed/pull/113) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-5. 🎉 Merged PR [#335](https://github.com/scikit-hep/vector/pull/335) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. 🗣 Commented on [#1223](https://github.com/lululxvi/deepxde/issues/1223) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+2. 🗣 Commented on [#2784](https://github.com/pybamm-team/PyBaMM/issues/2784) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🗣 Commented on [#65](https://github.com/conda-forge/deepxde-feedstock/issues/65) in [conda-forge/deepxde-feedstock](https://github.com/conda-forge/deepxde-feedstock)
+4. ❗️ Opened issue [#834](https://github.com/pypa/setuptools_scm/issues/834) in [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm)
+5. 🎉 Merged PR [#113](https://github.com/Saransh-cpp/OCRed/pull/113) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
 <!--END_SECTION:activity-->
 
 
