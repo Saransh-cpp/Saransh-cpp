@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1111](https://github.com/lululxvi/deepxde/issues/1111) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-2. 🗣 Commented on [#1111](https://github.com/lululxvi/deepxde/issues/1111) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-3. ❗️ Opened issue [#1244](https://github.com/lululxvi/deepxde/issues/1244) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-4. 🗣 Commented on [#834](https://github.com/pypa/setuptools_scm/issues/834) in [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm)
-5. ❗️ Closed issue [#834](https://github.com/pypa/setuptools_scm/issues/834) in [pypa/setuptools_scm](https://github.com/pypa/setuptools_scm)
+1. 🎉 Merged PR [#3](https://github.com/Saransh-cpp/PyBaMM/pull/3) in [Saransh-cpp/PyBaMM](https://github.com/Saransh-cpp/PyBaMM)
+2. 💪 Opened PR [#3](https://github.com/Saransh-cpp/PyBaMM/pull/3) in [Saransh-cpp/PyBaMM](https://github.com/Saransh-cpp/PyBaMM)
+3. 🗣 Commented on [#2784](https://github.com/pybamm-team/PyBaMM/issues/2784) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. ❗️ Closed issue [#1111](https://github.com/lululxvi/deepxde/issues/1111) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+5. 🗣 Commented on [#1111](https://github.com/lululxvi/deepxde/issues/1111) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
 <!--END_SECTION:activity-->
 
 
