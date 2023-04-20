@@ -77,10 +77,10 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2786](https://github.com/pybamm-team/PyBaMM/issues/2786) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 🎉 Merged PR [#4](https://github.com/Saransh-cpp/PyBaMM/pull/4) in [Saransh-cpp/PyBaMM](https://github.com/Saransh-cpp/PyBaMM)
-3. 💪 Opened PR [#4](https://github.com/Saransh-cpp/PyBaMM/pull/4) in [Saransh-cpp/PyBaMM](https://github.com/Saransh-cpp/PyBaMM)
-4. 🗣 Commented on [#2784](https://github.com/pybamm-team/PyBaMM/issues/2784) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 💪 Opened PR [#2888](https://github.com/pybamm-team/PyBaMM/pull/2888) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 🗣 Commented on [#2786](https://github.com/pybamm-team/PyBaMM/issues/2786) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🎉 Merged PR [#4](https://github.com/Saransh-cpp/PyBaMM/pull/4) in [Saransh-cpp/PyBaMM](https://github.com/Saransh-cpp/PyBaMM)
+4. 💪 Opened PR [#4](https://github.com/Saransh-cpp/PyBaMM/pull/4) in [Saransh-cpp/PyBaMM](https://github.com/Saransh-cpp/PyBaMM)
 5. 🗣 Commented on [#2784](https://github.com/pybamm-team/PyBaMM/issues/2784) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
