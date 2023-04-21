@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#336](https://github.com/scikit-hep/vector/pull/336) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-2. 💪 Opened PR [#2888](https://github.com/pybamm-team/PyBaMM/pull/2888) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#2786](https://github.com/pybamm-team/PyBaMM/issues/2786) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🎉 Merged PR [#4](https://github.com/Saransh-cpp/PyBaMM/pull/4) in [Saransh-cpp/PyBaMM](https://github.com/Saransh-cpp/PyBaMM)
-5. 💪 Opened PR [#4](https://github.com/Saransh-cpp/PyBaMM/pull/4) in [Saransh-cpp/PyBaMM](https://github.com/Saransh-cpp/PyBaMM)
+1. 🎉 Merged PR [#114](https://github.com/Saransh-cpp/OCRed/pull/114) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+2. 🎉 Merged PR [#336](https://github.com/scikit-hep/vector/pull/336) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 💪 Opened PR [#2888](https://github.com/pybamm-team/PyBaMM/pull/2888) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🗣 Commented on [#2786](https://github.com/pybamm-team/PyBaMM/issues/2786) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 🎉 Merged PR [#4](https://github.com/Saransh-cpp/PyBaMM/pull/4) in [Saransh-cpp/PyBaMM](https://github.com/Saransh-cpp/PyBaMM)
 <!--END_SECTION:activity-->
 
 
