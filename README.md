@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/16) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
-2. 🎉 Merged PR [#116](https://github.com/Saransh-cpp/OCRed/pull/116) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
-3. 🎉 Merged PR [#44](https://github.com/Saransh-cpp/releaseup/pull/44) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-4. 🎉 Merged PR [#340](https://github.com/scikit-hep/vector/pull/340) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. ❗️ Opened issue [#2915](https://github.com/pybamm-team/PyBaMM/issues/2915) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🗣 Commented on [#2915](https://github.com/pybamm-team/PyBaMM/issues/2915) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 🗣 Commented on [#341](https://github.com/scikit-hep/vector/issues/341) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+3. 🎉 Merged PR [#16](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/16) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
+4. 🎉 Merged PR [#116](https://github.com/Saransh-cpp/OCRed/pull/116) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+5. 🎉 Merged PR [#44](https://github.com/Saransh-cpp/releaseup/pull/44) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
 <!--END_SECTION:activity-->
 
 
