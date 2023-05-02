@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2917](https://github.com/pybamm-team/PyBaMM/pull/2917) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 🗣 Commented on [#2747](https://github.com/pybamm-team/PyBaMM/issues/2747) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#2915](https://github.com/pybamm-team/PyBaMM/issues/2915) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🗣 Commented on [#341](https://github.com/scikit-hep/vector/issues/341) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-5. 🎉 Merged PR [#16](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/16) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
+1. 💪 Opened PR [#2918](https://github.com/pybamm-team/PyBaMM/pull/2918) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 💪 Opened PR [#2917](https://github.com/pybamm-team/PyBaMM/pull/2917) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🗣 Commented on [#2747](https://github.com/pybamm-team/PyBaMM/issues/2747) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🗣 Commented on [#2915](https://github.com/pybamm-team/PyBaMM/issues/2915) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 🗣 Commented on [#341](https://github.com/scikit-hep/vector/issues/341) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
