@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2918](https://github.com/pybamm-team/PyBaMM/pull/2918) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-2. 💪 Opened PR [#2917](https://github.com/pybamm-team/PyBaMM/pull/2917) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#2747](https://github.com/pybamm-team/PyBaMM/issues/2747) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🗣 Commented on [#2915](https://github.com/pybamm-team/PyBaMM/issues/2915) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. 🗣 Commented on [#341](https://github.com/scikit-hep/vector/issues/341) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+1. ❗️ Closed issue [#2915](https://github.com/pybamm-team/PyBaMM/issues/2915) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. 🗣 Commented on [#2915](https://github.com/pybamm-team/PyBaMM/issues/2915) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🎉 Merged PR [#117](https://github.com/Saransh-cpp/OCRed/pull/117) in [Saransh-cpp/OCRed](https://github.com/Saransh-cpp/OCRed)
+4. 🎉 Merged PR [#343](https://github.com/scikit-hep/vector/pull/343) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+5. 💪 Opened PR [#2918](https://github.com/pybamm-team/PyBaMM/pull/2918) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
 
