@@ -77,11 +77,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/Saransh-cpp/releaseup/pull/45) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-2. 🎉 Merged PR [#64](https://github.com/Saransh-cpp/riemapp/pull/64) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-3. 🎉 Merged PR [#63](https://github.com/Saransh-cpp/riemapp/pull/63) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-4. ❌ Closed PR [#2747](https://github.com/pybamm-team/PyBaMM/pull/2747) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. 🗣 Commented on [#2747](https://github.com/pybamm-team/PyBaMM/issues/2747) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🎉 Merged PR [#65](https://github.com/Saransh-cpp/riemapp/pull/65) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+2. 🎉 Merged PR [#46](https://github.com/Saransh-cpp/releaseup/pull/46) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+3. 🎉 Merged PR [#17](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector/pull/17) in [Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector](https://github.com/Saransh-cpp/PyHEP22-Constructing-HEP-vectors-and-analyzing-HEP-data-using-Vector)
+4. 🎉 Merged PR [#45](https://github.com/Saransh-cpp/releaseup/pull/45) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+5. 🎉 Merged PR [#64](https://github.com/Saransh-cpp/riemapp/pull/64) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
 <!--END_SECTION:activity-->
 
 
