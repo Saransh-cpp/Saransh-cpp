@@ -1,6 +1,6 @@
 # Hi
 
-(A better place to read about me and my open-source work is - https://saransh-cpp.github.io/)
+(You are looking for - https://saransh-cpp.github.io/)
 
 I am an engineering junior at the University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work on my academic skills and professional commitments, and by night, I develop and maintain Open-Source Research/Scientific Software, which I believe are the key to collaborative and reproducible research.
 
