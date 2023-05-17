@@ -7,16 +7,16 @@ I am broadly interested in **Research Software Engineering**, **Scientific Compu
 I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software.
 
 
-<div align="center">
+<!-- <div align="center"> -->
  
-[![Website](https://img.shields.io/badge/saransh--cpp.github.io-blue?logo=github&logoColor=white&style=flat-square&color=purple)](https://Saransh-cpp.github.io)
+<!-- [![Website](https://img.shields.io/badge/saransh--cpp.github.io-blue?logo=github&logoColor=white&style=flat-square&color=purple)](https://Saransh-cpp.github.io)
  [![Blogs](https://img.shields.io/badge/blogs-blue?logo=github&logoColor=white&style=flat-square&color=black)](https://Saransh-cpp.github.io)
 [![Linkedin: Saransh Chopra](https://img.shields.io/badge/-Saransh%20Chopra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saransh-cpp/)](https://www.linkedin.com/in/saransh-cpp/)
-[![Twitter: Saransh Chopra](https://img.shields.io/twitter/follow/saranshchopra7?style=social)](https://twitter.com/saranshchopra7)
+[![Twitter: Saransh Chopra](https://img.shields.io/twitter/follow/saranshchopra7?style=social)](https://twitter.com/saranshchopra7) -->
 <!-- [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp) -->
 <!-- [![Medium Badge](https://img.shields.io/badge/-@White%20Violin-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@WhiteViolin)](https://medium.com/@WhiteViolin) -->
 
-</div>
+<!-- </div> -->
  
 <!-- [![GitHub Saransh-cpp](https://img.shields.io/github/followers/Saransh-cpp?label=follow&style=social)](https://github.com/Saransh-cpp) -->
 
