@@ -2,8 +2,6 @@
 
 (You are looking for - https://saransh-cpp.github.io/)
 
-I am an engineering junior at the University of Delhi, pursuing a major in Information Technology and Mathematics. In daylight, I work on my academic skills and professional commitments, and by night, I develop and maintain Open-Source Research/Scientific Software, which I believe are the key to collaborative and reproducible research.
-
 I am broadly interested in **Research Software Engineering**, **Scientific Computation**, **Scientific Machine Learning**, **Computer Vision**, **DevOps**, **Open-Source**, and **Open-Science**. I am also developing some taste for **pure Software Engineering research** (runtime verification, new testing methods, etc) and **Theory of Computation**.
 
 I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software.
