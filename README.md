@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1324](https://github.com/lululxvi/deepxde/pull/1324) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-2. 💪 Opened PR [#2971](https://github.com/pybamm-team/PyBaMM/pull/2971) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-3. 🗣 Commented on [#2968](https://github.com/pybamm-team/PyBaMM/issues/2968) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-4. 🗣 Commented on [#2962](https://github.com/pybamm-team/PyBaMM/issues/2962) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. 🗣 Commented on [#2867](https://github.com/pybamm-team/PyBaMM/issues/2867) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 💪 Opened PR [#348](https://github.com/scikit-hep/vector/pull/348) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 💪 Opened PR [#1324](https://github.com/lululxvi/deepxde/pull/1324) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
+3. 💪 Opened PR [#2971](https://github.com/pybamm-team/PyBaMM/pull/2971) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🗣 Commented on [#2968](https://github.com/pybamm-team/PyBaMM/issues/2968) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+5. 🗣 Commented on [#2962](https://github.com/pybamm-team/PyBaMM/issues/2962) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
 
