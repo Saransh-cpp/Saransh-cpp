@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/Saransh-cpp/releaseup/pull/48) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-2. 🎉 Merged PR [#67](https://github.com/Saransh-cpp/riemapp/pull/67) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-3. 💪 Opened PR [#348](https://github.com/scikit-hep/vector/pull/348) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
-4. 💪 Opened PR [#1324](https://github.com/lululxvi/deepxde/pull/1324) in [lululxvi/deepxde](https://github.com/lululxvi/deepxde)
-5. 💪 Opened PR [#2971](https://github.com/pybamm-team/PyBaMM/pull/2971) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🎉 Merged PR [#349](https://github.com/scikit-hep/vector/pull/349) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
+2. 🗣 Commented on [#2973](https://github.com/pybamm-team/PyBaMM/issues/2973) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🎉 Merged PR [#48](https://github.com/Saransh-cpp/releaseup/pull/48) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
+4. 🎉 Merged PR [#67](https://github.com/Saransh-cpp/riemapp/pull/67) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+5. 💪 Opened PR [#348](https://github.com/scikit-hep/vector/pull/348) in [scikit-hep/vector](https://github.com/scikit-hep/vector)
 <!--END_SECTION:activity-->
 
 
