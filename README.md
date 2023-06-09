@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/Saransh-cpp/riemapp/pull/68) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
-2. 🎉 Merged PR [#49](https://github.com/Saransh-cpp/releaseup/pull/49) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
-3. 🎉 Merged PR [#3](https://github.com/Saransh-cpp/ClusterPassCentre/pull/3) in [Saransh-cpp/ClusterPassCentre](https://github.com/Saransh-cpp/ClusterPassCentre)
-4. 🎉 Merged PR [#2](https://github.com/Saransh-cpp/ClusterPassCentre/pull/2) in [Saransh-cpp/ClusterPassCentre](https://github.com/Saransh-cpp/ClusterPassCentre)
-5. 🗣 Commented on [#3002](https://github.com/pybamm-team/PyBaMM/issues/3002) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+1. 🗣 Commented on [#2813](https://github.com/pybamm-team/PyBaMM/issues/2813) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+2. ❌ Closed PR [#2995](https://github.com/pybamm-team/PyBaMM/pull/2995) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+3. 🗣 Commented on [#2954](https://github.com/pybamm-team/PyBaMM/issues/2954) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🎉 Merged PR [#68](https://github.com/Saransh-cpp/riemapp/pull/68) in [Saransh-cpp/riemapp](https://github.com/Saransh-cpp/riemapp)
+5. 🎉 Merged PR [#49](https://github.com/Saransh-cpp/releaseup/pull/49) in [Saransh-cpp/releaseup](https://github.com/Saransh-cpp/releaseup)
 <!--END_SECTION:activity-->
 
 
