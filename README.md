@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#759](https://github.com/agda/agda-stdlib/issues/759) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib)
+1. 💪 Opened PR [#1978](https://github.com/agda/agda-stdlib/pull/1978) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib)
 2. 🗣 Commented on [#759](https://github.com/agda/agda-stdlib/issues/759) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib)
 3. 🗣 Commented on [#759](https://github.com/agda/agda-stdlib/issues/759) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib)
-4. 🗣 Commented on [#2813](https://github.com/pybamm-team/PyBaMM/issues/2813) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
-5. ❌ Closed PR [#2995](https://github.com/pybamm-team/PyBaMM/pull/2995) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
+4. 🗣 Commented on [#759](https://github.com/agda/agda-stdlib/issues/759) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib)
+5. 🗣 Commented on [#2813](https://github.com/pybamm-team/PyBaMM/issues/2813) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 <!--END_SECTION:activity-->
 
 
