@@ -74,14 +74,12 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
 
-## Recent activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#207](https://github.com/agda/agda-stdlib/issues/207) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib)
+<!-- ## Recent activity -->
+<!-- 1. 🗣 Commented on [#207](https://github.com/agda/agda-stdlib/issues/207) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib)
 2. 🗣 Commented on [#3035](https://github.com/pybamm-team/PyBaMM/issues/3035) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 3. 🗣 Commented on [#3035](https://github.com/pybamm-team/PyBaMM/issues/3035) in [pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM)
 4. 🗣 Commented on [#207](https://github.com/agda/agda-stdlib/issues/207) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib)
-5. ❗ Opened issue [#1980](https://github.com/agda/agda-stdlib/issues/1980) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib)
-<!--END_SECTION:activity-->
+5. ❗ Opened issue [#1980](https://github.com/agda/agda-stdlib/issues/1980) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib) -->
 
 
 ## Some personal projects that I couldn't pin
