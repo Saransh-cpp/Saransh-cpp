@@ -1,7 +1,3 @@
-# Hi
-
-(You are looking for - https://saransh-cpp.github.io/)
-
 I am broadly interested in **Research Software Engineering**, **Scientific Computation**, **Scientific Machine Learning**, **Computer Vision**, **DevOps**, **Open-Source**, and **Open-Science**. I am also developing some taste for **pure Software Engineering research** (runtime verification, new testing methods, etc) and **Theory of Computation**.
 
 I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software.
@@ -72,7 +68,7 @@ Here are some ideas to get you started:
 - A list of all my commits can be found [here](https://github.com/pybamm-team/PyBaMM/commits?author=Saransh-cpp). -->
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333&show_total_reviews=true"/></p>
 
 <!-- ## Recent activity -->
 <!-- 1. 🗣 Commented on [#207](https://github.com/agda/agda-stdlib/issues/207) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib)
