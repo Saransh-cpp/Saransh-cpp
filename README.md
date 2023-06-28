@@ -1,11 +1,15 @@
-[![Website](https://img.shields.io/badge/saransh--cpp.github.io-blue?logo=github&logoColor=white&style=flat-square&color=purple)](https://Saransh-cpp.github.io)
+You are probably looking for [my website](https://Saransh-cpp.github.io).
 
 I am broadly interested in **Research Software Engineering**, **Scientific Computation**, **Scientific Machine Learning**, **Computer Vision**, **DevOps**, **Open-Source**, and **Open-Science**. I am also developing some taste for **pure Software Engineering research** (runtime verification, new testing methods, etc) and **Theory of Computation**.
 
 I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software.
 
 
-<!-- <div align="center"> -->
+<!-- <div align="center">
+
+[![Website](https://img.shields.io/badge/saransh--cpp.github.io-blue?logo=github&logoColor=white&style=flat-square&color=purple)](https://Saransh-cpp.github.io)
+
+</div> -->
  
 <!-- [![Blogs](https://img.shields.io/badge/blogs-blue?logo=github&logoColor=white&style=flat-square&color=black)](https://Saransh-cpp.github.io)
 [![Linkedin: Saransh Chopra](https://img.shields.io/badge/-Saransh%20Chopra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saransh-cpp/)](https://www.linkedin.com/in/saransh-cpp/)
