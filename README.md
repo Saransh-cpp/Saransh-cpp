@@ -34,41 +34,7 @@ I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/
 
 <!-- - #### <p align="left"> [<img src="https://komarev.com/ghpvc/?username=Saransh-cpp" alt="Saransh-cpp" />](https://github.com/Saransh-cpp)</p> -->
 
-<!--
-**Saransh-cpp/Saransh-cpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saransh-cpp&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Saransh's github streak" width="450" />
-
-Here are some ideas to get you started:
-
-- 📫 How to reach me: 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- 
-## Some open-source contributions I am proud of
-
-### - [Mexili](https://github.com/mexili) Winter of Code
-- Ranked 2 on their final leaderboard of contributions.
-- Contributed heavily to [Doclense](https://github.com/smaranjitghose/DocLense) - A flutter document scanner. 
-- Top contributor for the project.
-- A list of all my commits can be found [here](https://github.com/smaranjitghose/DocLense/commits?author=Saransh-cpp).
-
-### - [Colour](https://www.colour-science.org/)
-- Implemented the support for [`HCL`](https://en.wikipedia.org/wiki/HCL_color_space) colourspace in [colour-science/colour](https://github.com/colour-science/colour).
-- The PR can be found [here](https://github.com/colour-science/colour/pull/802).
-
-### - [PyBaMM](https://www.pybamm.org/)
-- Contributed to the [PyBaMM](https://github.com/pybamm-team/PyBaMM) repository.
-- My contributions were a part of the latest release ([v0.4.0](https://github.com/pybamm-team/PyBaMM/releases/tag/v0.4.0)).
-- A list of all my commits can be found [here](https://github.com/pybamm-team/PyBaMM/commits?author=Saransh-cpp). -->
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333&show_total_reviews=true"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Saransh-cpp&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox&bg_color=333333&show=reviews,discussions_answered"/></p>
 
 <!-- ## Recent activity -->
 <!-- 1. 🗣 Commented on [#207](https://github.com/agda/agda-stdlib/issues/207) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib)
@@ -114,42 +80,3 @@ Here are some ideas to get you started:
         </td>
     </tr>
 </table>
-
-<!-- | <a href="https://github.com/Saransh-cpp/SceneNet"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=SceneNet&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/PopItUp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=PopItUp&theme=gruvbox&bg_color=333333" /></a> |
-| ------------- | ------------- |
-| <a href="https://github.com/Saransh-cpp/MemeTastic"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=MemeTastic&theme=gruvbox&bg_color=333333" /></a> | <a href="https://github.com/Saransh-cpp/ForMente"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Saransh-cpp&repo=ForMente&theme=gruvbox&bg_color=333333" /></a> | -->
-
-
-
-
-<!-- [![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Saransh-cpp&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333)](https://github.com/Saransh-cpp/github-readme-stats) -->
-
-
-
-
-
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-cpp&langs_count=5&theme=gruvbox&bg_color=333333) -->
-
-
-
-
-<!--[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Saransh-cpp&langs_count=6&theme=gruvbox&bg_color=333333&hide_langs_below=1)]-->
-
-
-<!-- ## Contact me here
-
-<p float="left"><a href="https://www.linkedin.com/in/saransh-chopra-3a6ab11bb/" target="blank">
-  <img width="40px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-</a>
-
-<a href="https://www.instagram.com/saranshchopra_/" target="blank">
-  <img width="40px" src="https://image.flaticon.com/icons/png/512/174/174855.png" />
-</a>
-
-<a href="https://www.facebook.com/saransh.chopra.77" target="blank">
-  <img width="40px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
-  
-<a href="https://twitter.com/saranshchopra7" target="blank">
-  <img width="40px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
-</a></p>
--->
