@@ -1,9 +1,36 @@
-You are probably looking for [my website](https://Saransh-cpp.github.io).
+You are probably looking for [my website](https://Saransh-cpp.github.io), specifically, the [open-source page](https://saransh-cpp.github.io/opensource/).
 
 I am broadly interested in **Research Software Engineering**, **Scientific Computation**, **Scientific Machine Learning**, **Computer Vision**, **DevOps**, **Open-Source**, and **Open-Science**. I am also developing some taste for **pure Software Engineering research** (runtime verification, new testing methods, etc) and **Theory of Computation**.
 
-I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/), [Scikit-HEP/vector](https://github.com/scikit-hep/vector) (and [some surronding packages](https://github.com/scikit-hep)), [FluxML](https://github.com/FluxML/Flux.jl) (and [some surronding packages](https://github.com/FluxML)), and random open-source research software.
+## Open-Source Software
 
+Better [here](https://saransh-cpp.github.io/opensource/).
+
+### Main software
+
+The software I am (or I was once) involved with as a maintainer, core developer, core contributor, or was funded to work on.
+
+[pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM) | [scikit-hep/vector](https://github.com/scikit-hep/vector) | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | [agda/agda-stdlib](https://github.com/agda/agda-stdlib) | [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack) | [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot) | [smaranjitghose/DocLense](https://github.com/smaranjitghose/DocLense)
+
+### Significant contributions
+
+Significant voluntary contributions or spin-off projects (was not directly funded to work on them but my work expanded and encompassed them).
+
+[FluxML ecosystem](https://github.com/FluxML/) | [Scikit-HEP ecosystem](https://github.com/scikit-hep/) | [luluxviDeepXDE](https://github.com/lululxvi/deepxde) | [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python) | [scientific-python/cookie](https://github.com/scientific-python/cookie)
+
+### Small but nice contributions
+
+Small contributions (not a spam spelling fix in README) that I did spend some time on.
+
+[sosy-lab/benchexec](https://github.com/sosy-lab/benchexec) | [colour-science/colour](https://github.com/colour-science/colour) | [bmcage/odes](https://github.com/bmcage/odes) | [builtree/simulate](https://github.com/builtree/simulate) | [idris-lang/Idris2](https://github.com/idris-lang/Idris2) | [numpy/numpy](https://github.com/numpy/numpy)
+
+### Projects
+
+Some personal projects that I couldn't pin.
+
+[OCRed](https://github.com/Saransh-cpp/OCRed) | [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl) | [releaseup](https://github.com/Saransh-cpp/releaseup) | [MemeTastic](https://github.com/Saransh-cpp/MemeTastic) | [PopItUp](https://github.com/Saransh-cpp/PopItUp) | [BookRentApp-Chapter3](https://github.com/Saransh-cpp/BookRentApp-Chapter3) | [SceneNet](https://github.com/Saransh-cpp/SceneNet) | [ForMente](https://github.com/Saransh-cpp/ForMente)
+
+---
 
 <!-- <div align="center">
 
@@ -49,7 +76,7 @@ I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/
 5. ❗ Opened issue [#1980](https://github.com/agda/agda-stdlib/issues/1980) in [agda/agda-stdlib](https://github.com/agda/agda-stdlib) -->
 
 
-## Some personal projects that I couldn't pin
+<!-- ## Some personal projects that I couldn't pin
 
 <table>
     <tr>
@@ -85,3 +112,4 @@ I primarily contribute to the [PyBaMM ecosystem](https://github.com/pybamm-team/
         </td>
     </tr>
 </table>
+-->
