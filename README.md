@@ -16,7 +16,7 @@ The software I am (or I was once) involved with as a maintainer, core developer,
 
 Significant voluntary contributions or spin-off projects (was not directly funded to work on them but my work expanded and encompassed them).
 
-[FluxML ecosystem](https://github.com/FluxML/) | [Scikit-HEP ecosystem](https://github.com/scikit-hep/) | [luluxviDeepXDE](https://github.com/lululxvi/deepxde) | [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python) | [scientific-python/cookie](https://github.com/scientific-python/cookie)
+[FluxML ecosystem](https://github.com/FluxML/) | [Scikit-HEP ecosystem](https://github.com/scikit-hep/) | [luluxvi/DeepXDE](https://github.com/lululxvi/deepxde) | [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python) | [scientific-python/cookie](https://github.com/scientific-python/cookie)
 
 ### Small but nice contributions
 
