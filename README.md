@@ -28,7 +28,7 @@ Small contributions (not a spam spelling fix in README) that I did spend some ti
 
 Some personal projects that I couldn't pin.
 
-[OCRed](https://github.com/Saransh-cpp/OCRed) | [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl) | [releaseup](https://github.com/Saransh-cpp/releaseup) | [MemeTastic](https://github.com/Saransh-cpp/MemeTastic) | [PopItUp](https://github.com/Saransh-cpp/PopItUp) | [BookRentApp-Chapter3](https://github.com/Saransh-cpp/BookRentApp-Chapter3) | [SceneNet](https://github.com/Saransh-cpp/SceneNet) | [ForMente](https://github.com/Saransh-cpp/ForMente)
+[OCRed](https://github.com/Saransh-cpp/OCRed) | [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl) | [releaseup](https://github.com/Saransh-cpp/releaseup) | [rmstar](https://github.com/Saransh-cpp/rmstar) | [MemeTastic](https://github.com/Saransh-cpp/MemeTastic) | [PopItUp](https://github.com/Saransh-cpp/PopItUp) | [BookRentApp-Chapter3](https://github.com/Saransh-cpp/BookRentApp-Chapter3) | [SceneNet](https://github.com/Saransh-cpp/SceneNet) | [ForMente](https://github.com/Saransh-cpp/ForMente) | [riemapp](https://github.com/Saransh-cpp/riemapp)
 
 ---
 
