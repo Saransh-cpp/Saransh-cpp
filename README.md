@@ -22,7 +22,7 @@ Significant voluntary contributions or spin-off projects (was not directly funde
 
 Small contributions (not a spam spelling fix in README) that I did spend some time on.
 
-[sosy-lab/benchexec](https://github.com/sosy-lab/benchexec) | [colour-science/colour](https://github.com/colour-science/colour) | [bmcage/odes](https://github.com/bmcage/odes) | [builtree/simulate](https://github.com/builtree/simulate) | [idris-lang/Idris2](https://github.com/idris-lang/Idris2) | [numpy/numpy](https://github.com/numpy/numpy)
+[sosy-lab/benchexec](https://github.com/sosy-lab/benchexec) | [colour-science/colour](https://github.com/colour-science/colour) | [bmcage/odes](https://github.com/bmcage/odes) | [builtree/simulate](https://github.com/builtree/simulate) | [idris-lang/Idris2](https://github.com/idris-lang/Idris2) | [numpy/numpy](https://github.com/numpy/numpy) | [astropy/astropy](https://github.com/astropy/astropy)
 
 ### Projects
 
