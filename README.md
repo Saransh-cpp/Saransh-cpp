@@ -10,7 +10,7 @@ Better [here](https://saransh-cpp.github.io/opensource/).
 
 The software I am (or I was once) involved with as a maintainer, core developer, core contributor, or was funded to work on.
 
-[pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM) | [scikit-hep/vector](https://github.com/scikit-hep/vector) | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | [agda/agda-stdlib](https://github.com/agda/agda-stdlib) | [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack) | [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot) | [smaranjitghose/DocLense](https://github.com/smaranjitghose/DocLense) | [asmeurer/removestar](https://github.com/asmeurer/removestar)
+[pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM) | [scikit-hep/vector](https://github.com/scikit-hep/vector) | [conda-forge/vector-feedstock](https://github.com/conda-forge/vector-feedstock) | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | [agda/agda-stdlib](https://github.com/agda/agda-stdlib) | [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack) | [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot) | [smaranjitghose/DocLense](https://github.com/smaranjitghose/DocLense) | [asmeurer/removestar](https://github.com/asmeurer/removestar) | [conda-forge/removestar-feedstock](https://github.com/conda-forge/removestar-feedstock)
 
 ### Significant contributions
 
