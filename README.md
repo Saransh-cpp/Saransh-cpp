@@ -1,6 +1,6 @@
 You are probably looking for [my website](https://Saransh-cpp.github.io), specifically, the [open-source page](https://saransh-cpp.github.io/opensource/).
 
-I am broadly interested in **Research Software Engineering**, **Scientific Computation**, **Scientific Machine Learning**, **Computer Vision**, **DevOps**, **Open-Source**, and **Open-Science**. I am also developing some taste for **pure Software Engineering research** (runtime verification, new testing methods, etc) and **Theory of Computation**.
+I am broadly interested in **Research Software Engineering**, **Scientific Computing**, **Scientific Machine Learning**, **Computer Vision**, **Theory of Computation**, **Formal Verification** (**Type Theory**, **Proof Theory**), **Functional Programming** and **DevOps**. I am extremely passionate about **Open-Source** and **Open-Science**. I am also developing some taste for **pure Software Engineering research** (runtime verification, new testing methods, etc.).
 
 ## Open-Source Software
 
