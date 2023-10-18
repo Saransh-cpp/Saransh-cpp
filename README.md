@@ -24,12 +24,12 @@ Small contributions (not a spam spelling fix in README) that I did spend some ti
 
 [sosy-lab/benchexec](https://github.com/sosy-lab/benchexec) | [colour-science/colour](https://github.com/colour-science/colour) | [bmcage/odes](https://github.com/bmcage/odes) | [idris-lang/Idris2](https://github.com/idris-lang/Idris2) | [numpy/numpy](https://github.com/numpy/numpy) | [astropy/astropy](https://github.com/astropy/astropy)
 
-### Projects
+<!-- ### Projects
 
 Some personal projects that I couldn't pin.
 
 [OCRed](https://github.com/Saransh-cpp/OCRed) | [ChaoticEncryption.jl](https://github.com/Saransh-cpp/ChaoticEncryption.jl) | [releaseup](https://github.com/Saransh-cpp/releaseup) | [rmstar](https://github.com/Saransh-cpp/rmstar) | [MemeTastic](https://github.com/Saransh-cpp/MemeTastic) | [PopItUp](https://github.com/Saransh-cpp/PopItUp) | [BookRentApp-Chapter3](https://github.com/Saransh-cpp/BookRentApp-Chapter3) | [SceneNet](https://github.com/Saransh-cpp/SceneNet) | [ForMente](https://github.com/Saransh-cpp/ForMente) | [riemapp](https://github.com/Saransh-cpp/riemapp)
-
+-->
 ---
 
 <!-- <div align="center">
