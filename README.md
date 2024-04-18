@@ -1,6 +1,8 @@
 You are probably looking for [my website](https://Saransh-cpp.github.io), specifically, the [open-source page](https://saransh-cpp.github.io/opensource/).
 
-I am broadly interested in **Research Software Engineering**, **Scientific Computing**, **Scientific Machine Learning**, **Computer Vision**, **Theory of Computation**, **Formal Verification** (**Type Theory**, **Proof Theory**), **Functional Programming** and **DevOps**. I am extremely passionate about **Open-Source** and **Open-Science**. I am also developing some taste for **pure Software Engineering research** (runtime verification, new testing methods, etc.).
+I am currently based at CERN, working as a Research Software intern with the Princeton Research Computing Group and IRIS-HEP. I am an engineering senior at the University of Delhi, pursuing a major in IT and Mathematics.
+
+I am broadly interested in {Research Software Engineering, Scientific Computing, DevOps}, {Theory of Computation, Programming Languages, Type Theory}, {Scientific Machine Learning, Computer Vision, and Machine Learning for BioMedical Data}. I am extremely passionate about Open-Source and Open-Science.
 
 ## Open-Source Software
 
@@ -10,13 +12,13 @@ Better [here](https://saransh-cpp.github.io/opensource/).
 
 The software I am (or I was once) involved with as a maintainer, core developer, core contributor, or was funded to work on.
 
-[pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM) | [scikit-hep/vector](https://github.com/scikit-hep/vector) | [conda-forge/vector-feedstock](https://github.com/conda-forge/vector-feedstock) | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | [agda/agda-stdlib](https://github.com/agda/agda-stdlib) | [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack) | [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot) | [smaranjitghose/DocLense](https://github.com/smaranjitghose/DocLense) | [asmeurer/removestar](https://github.com/asmeurer/removestar) | [conda-forge/removestar-feedstock](https://github.com/conda-forge/removestar-feedstock)
+[pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM) | [conda-forge/pybamm-feedstock](https://github.com/conda-forge/pybamm-feedstock) | [scikit-hep/vector](https://github.com/scikit-hep/vector) | [conda-forge/vector-feedstock](https://github.com/conda-forge/vector-feedstock) | [scikit-hep/awkward](https://github.com/scikit-hep/awkward) | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | [agda/agda-stdlib](https://github.com/agda/agda-stdlib) | [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack) | [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot) | [smaranjitghose/DocLense](https://github.com/smaranjitghose/DocLense) | [asmeurer/removestar](https://github.com/asmeurer/removestar) | [conda-forge/removestar-feedstock](https://github.com/conda-forge/removestar-feedstock)
 
 ### Significant contributions
 
 Significant voluntary contributions or spin-off projects (was not directly funded to work on them but my work expanded and encompassed them).
 
-[FluxML ecosystem](https://github.com/FluxML/) | [Scikit-HEP ecosystem](https://github.com/scikit-hep/) | [luluxvi/DeepXDE](https://github.com/lululxvi/deepxde) | [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python) | [scientific-python/cookie](https://github.com/scientific-python/cookie)
+[FluxML ecosystem](https://github.com/FluxML/) | [Scikit-HEP ecosystem](https://github.com/scikit-hep/) | [luluxvi/DeepXDE](https://github.com/lululxvi/deepxde) | [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python) | [scientific-python/cookie](https://github.com/scientific-python/cookie) | [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea)
 
 ### Small but nice contributions
 
