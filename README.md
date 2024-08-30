@@ -4,15 +4,15 @@ I am an Assistant Research Software Engineer at UCL’s Centre for Advanced Rese
 
 I am broadly interested in {Research Software Engineering, Scientific Computing, High Performance Computing, DevOps}, {Theory of Computation, Programming Languages, Type Theory}, {Scientific Machine Learning, Computer Vision, and Data Science for Social Good}. I am extremely passionate about Open-Source and Open-Science.
 
-## Open-Source Software
+## Open-Source work
 
 Better [here](https://saransh-cpp.github.io/opensource/).
 
-### Main software
+### Main repositories
 
-The software I am (or I was once) involved with as a maintainer, core developer, core contributor, or was funded to work on.
+The repositories I am (or I was once) involved with as a maintainer, core developer, core contributor, or was funded to work on.
 
-[pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM) | [conda-forge/pybamm-feedstock](https://github.com/conda-forge/pybamm-feedstock) | [scikit-hep/vector](https://github.com/scikit-hep/vector) | [conda-forge/vector-feedstock](https://github.com/conda-forge/vector-feedstock) | [scikit-hep/awkward](https://github.com/scikit-hep/awkward) | [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea) | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | [agda/agda-stdlib](https://github.com/agda/agda-stdlib) | [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack) | [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot) | [smaranjitghose/DocLense](https://github.com/smaranjitghose/DocLense) | [asmeurer/removestar](https://github.com/asmeurer/removestar) | [conda-forge/removestar-feedstock](https://github.com/conda-forge/removestar-feedstock)
+[pybamm-team/PyBaMM](https://github.com/pybamm-team/PyBaMM) | [conda-forge/pybamm-feedstock](https://github.com/conda-forge/pybamm-feedstock) | [scikit-hep/vector](https://github.com/scikit-hep/vector) | [conda-forge/vector-feedstock](https://github.com/conda-forge/vector-feedstock) | [scikit-hep/awkward](https://github.com/scikit-hep/awkward) | [scikit-hep/cuda-histogram](https://github.com/scikit-hep/cuda-histogram) | [CoffeaTeam/coffea](https://github.com/CoffeaTeam/coffea) | [UCL/rsd-engineeringcourse](https://github.com/UCL/rsd-engineeringcourse) | [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl) | [agda/agda-stdlib](https://github.com/agda/agda-stdlib) | [pybamm-team/liionpack](https://github.com/pybamm-team/liionpack) | [pybamm-team/BattBot](https://github.com/pybamm-team/BattBot) | [smaranjitghose/DocLense](https://github.com/smaranjitghose/DocLense) | [asmeurer/removestar](https://github.com/asmeurer/removestar) | [conda-forge/removestar-feedstock](https://github.com/conda-forge/removestar-feedstock)
 
 ### Significant contributions
 
