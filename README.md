@@ -1,6 +1,6 @@
 You are probably looking for [my website](https://Saransh-cpp.github.io), specifically, the [open-source page](https://saransh-cpp.github.io/opensource/).
 
-I am an Assistant Research Software Engineer at UCL’s Centre for Advanced Research Computing. I graduated from the University of Delhi with a major in CS and Mathematics in 2024 (with a thesis titled “Computational upgrades to the high energy physics data analysis pipeline for future LHC/HL-LHC runs”). My thesis was carried out at the European Organisation for Nuclear Research (CERN), under the Princeton Research Computing Group and IRIS-HEP.
+I am an Assistant Research Software Engineer at UCL’s Centre for Advanced Research Computing. I graduated from the University of Delhi with a major in CS and Mathematics in 2024 (with a thesis titled “Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs”). My thesis was carried out at the European Organisation for Nuclear Research (CERN), under the Princeton Research Computing Group and IRIS-HEP.
 
 I am broadly interested in {Research Software Engineering, Scientific Computing, High Performance Computing, DevOps}, {Theory of Computation, Programming Languages, Type Theory}, {Scientific Machine Learning, Computer Vision, and Data Science for Social Good}. I am extremely passionate about Open-Source and Open-Science.
 
