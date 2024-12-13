@@ -2,7 +2,7 @@ You are probably looking for [my website](https://Saransh-cpp.github.io), specif
 
 I am a research software engineering at **UCL’s Centre for Advanced Research Computing**. I graduated from the University of Delhi with a major in IT and Mathematics in 2024 (with a thesis titled “_Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs_”). My thesis was carried out at the **European Organisation for Nuclear Research** (CERN), under the **Princeton Institute for Computational Science and Engineering** (PICSciE).
 
-I am interested in blending **programming languages** and **high-performance computing** (HPC) for **data-intensive computational science**. I am extremely passionate about open-source and open-science, and I actively volunteer for several open-source programs and initiatives.
+I am interested in blending **programming languages** and **high-performance computing** (HPC) for **data-intensive computational science**. I am extremely passionate about **open-source** and **open-science**, and I actively volunteer for several open-source programs and initiatives. Finally, I possess a strong background in **android and backend development** and traditional **software engineering**, but I don't find them interesting anymore.
 
 ## Open-Source work
 
