@@ -1,6 +1,6 @@
 You are probably looking for [my website](https://Saransh-cpp.github.io), specifically, the [open-source page](https://saransh-cpp.github.io/opensource/).
 
-I am a research software engineer at **UCL’s Centre for Advanced Research Computing**. I graduated from the University of Delhi with a major in IT and Mathematics in 2024 (with a thesis titled “_Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs_”). My thesis was carried out at the **European Organisation for Nuclear Research** (CERN), under the **Princeton Institute for Computational Science and Engineering** (PICSciE).
+I am a research software engineer at **UCL’s Advanced Research Computing Centre**. I graduated from the University of Delhi with a major in CS and Mathematics in 2024 (with a thesis titled “_Computational upgrades to the high energy physics analysis pipeline for future LHC/HL-LHC runs_”). My thesis was carried out at the **European Organisation for Nuclear Research** (CERN), under the **Princeton Institute for Computational Science and Engineering** (PICSciE).
 
 I am interested in blending **programming languages** and **high-performance computing** for **data-intensive computational science**. I am extremely passionate about **open-source** and **open-science**, and I actively volunteer for several open-source programs and initiatives. Finally, I possess a strong background in **android and backend development** and traditional **software engineering**, but I don't find them interesting anymore.
 
@@ -20,7 +20,7 @@ The repositories I am (or I was once) involved with as a maintainer, core develo
 
 Significant voluntary contributions or spin-off projects (was not directly funded to work on them but my work expanded and encompassed them).
 
-[FluxML ecosystem](https://github.com/FluxML/) | [Scikit-HEP ecosystem](https://github.com/scikit-hep/) | [PyBaMM ecosystem](https://github.com/pybamm-team/) | [luluxvi/DeepXDE](https://github.com/lululxvi/deepxde) | [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python) | [scientific-python/cookie](https://github.com/scientific-python/cookie)
+[FluxML ecosystem](https://github.com/FluxML/) | [Scikit-HEP ecosystem](https://github.com/scikit-hep/) | [PyBaMM ecosystem](https://github.com/pybamm-team/) | [Scientific Python ecosystem](https://scientific-python.org/)
 
 <!-- ### Small but nice contributions
 
