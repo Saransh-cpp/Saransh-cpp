@@ -1,11 +1,11 @@
 You are probably looking for [my website](https://Saransh-cpp.github.io), specifically, the [open-source page](https://saransh-cpp.github.io/opensource/).
 
 
-I am a master’s (computational science and engineering) student at **École Polytechnique Fédérale de Lausanne** (Swiss Federal Technology Institute of Lausanne - **EPFL**).
+I am a master’s (computational science and engineering) student at **EPFL** (École Polytechnique Fédérale de Lausanne / Swiss Federal Technology Institute of Lausanne). At the moment, I am interning with the Cognitive AI team at **Logitech**, Switzerland.
 
 Before joining EPFL, I was a research software engineer at **UCL’s Advanced Research Computing Centre**, where I worked on HPC and DevOps projects. Even before UCL, I worked as a research software engineer at **CERN** (under the **Princeton Institute for Computational Science and Engineering**), writing software for computational high-energy physics. I hold an undergraduate degree in computer science and mathematics from the **University of Delhi**. Besides writing code, I am also quite fond of teaching courses and workshops, broadly on scientific and high-performance computing, software engineering, and numerical mathematics.
 
-I am specifically interested in **Computational Mathematics** (Numerical Methods, Type and Proof Theory, Automatic Differentiation), **Scientific Computing** (High-Performance Computing, Data-Intensive Computational Methods, DevOps), and **Applied Machine Learning** (for Science, social good, and more). I advocate for and am extremely passionate about open-source and open-science. Finally, I am also really good at **Research Software Engineering** (_Software Engineering, but for Scientific Software_).
+I am specifically interested in **Computational Mathematics** (Numerical Methods, Type and Proof Theory, Automatic Differentiation), **Scientific Computing** (High-Performance Computing, Data-Intensive Computational Methods, DevOps), and **Applied Machine Learning** (for Science, social good, and more). I advocate for and am extremely passionate about open-source and open-science.
 
 ## Open-Source work
 
