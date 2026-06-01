@@ -5,7 +5,7 @@ I am a masterâ€™s (computational science and engineering) student at **EPFL** (Ã
 
 Before joining EPFL, I was a research software engineer (RSE) at **UCL's Advanced Research Computing Centre**, where I worked on automatic differentiation, HPC, and DevOps projects. Even before UCL, I worked as a RSE at **CERN** (under the **Princeton Institute for Computational Science and Engineering**), doing similar things for computational high-energy physics software. I hold an undergraduate degree in computer science and mathematics from the **University of Delhi**. Besides writing code, I am also quite fond of teaching courses and workshops, broadly on scientific and high-performance computing, software engineering, and numerical mathematics.
 
-I am currently interested in **Computational and Numerical Mathematics**, **Scientific Computing** (High-Performance Computing, Data-Intensive Computational Methods), and **Machine Learning Engineering** (Computer Vision and HCI, Edge AI, Physics-aware ML). I advocate for and am extremely passionate about **open-source** and **open-science**.
+I am currently interested in **Machine Learning Engineering** (Computer Vision and HCI, Edge AI, Systems for ML, Physics-aware ML) and **High-Performance Computing** (Scientific Computing, Numerical and Data-Intensive Computational Methods). I advocate for and am extremely passionate about **open-source** and **open-science**.
 
 ## Open-Source work
 
